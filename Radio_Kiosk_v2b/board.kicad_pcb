@@ -5867,7 +5867,7 @@
 			(size 1.325 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "PACK_F")
+			(net "BK_EN")
 			(uuid "f969f6f4-56c2-4019-970b-b02b9b8490d9")
 		)
 		(pad "4" smd roundrect
