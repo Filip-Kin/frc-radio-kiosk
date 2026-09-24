@@ -100,10 +100,22 @@
 				)
 			)
 		)
-		(property "Value" "681R 1%"
+		(property "Value" "680R"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "ad9800a6-e6f4-4fff-8a78-577c5e57957d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17798"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "26d5ea34-7e1c-474d-99d3-233ee330b59d")
 			(effects
 				(font
 					(size 1 1)
@@ -626,6 +638,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C25476"
+			(at 0 2.63 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "aa68efa0-2b88-4091-bd0d-48e97dab9625")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -765,6 +789,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "8895de08-5b77-4942-97fc-4fea3099aca8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "1a5ca1eb-4464-45e9-b2e7-027036438dad")
 			(effects
 				(font
 					(size 1 1)
@@ -918,6 +954,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17673"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "2002cde9-6330-4d3a-9c9c-a6d555f97f4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -1057,6 +1105,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "1348cd70-c06d-4fee-87b7-1c4d0ca5fe79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C149504"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "1b7eab62-8874-48e3-bd58-ab29c30c449b")
 			(effects
 				(font
 					(size 1 1)
@@ -1907,10 +1967,22 @@
 				)
 			)
 		)
-		(property "Value" "40.2k"
+		(property "Value" "47k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "82e90ccb-7235-4b60-8eb9-ae37e741b886")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17713"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "7b68699a-3c8d-44cf-90da-4fd184cf43a3")
 			(effects
 				(font
 					(size 1 1)
@@ -2456,6 +2528,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "43ab97b7-07cd-451e-8a29-9e420fd5a3c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -2591,10 +2675,22 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "33k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "b23490c1-7f64-41a4-b54c-5c89a89369e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17633"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "150e922d-e104-4e7c-84d6-af8ec53feb9a")
 			(effects
 				(font
 					(size 1 1)
@@ -2737,10 +2833,22 @@
 				)
 			)
 		)
-		(property "Value" "220p C0G"
+		(property "Value" "220p"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "f8a39acf-7ee0-4ca8-bc32-426fd7ef2182")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C107145"
+			(at 0 1.68 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "61425f60-5b96-4315-84cf-cde1f9e0afbe")
 			(effects
 				(font
 					(size 1 1)
@@ -3297,6 +3405,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "1b843da2-e79b-4b6c-9c79-6a4d31554361")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -3676,6 +3796,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "498755ab-f5af-4fbc-8b82-de7f2285168c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "6bd52b88-0c5d-40ec-a690-3dd49a519236")
 			(effects
 				(font
 					(size 1 1)
@@ -4687,6 +4819,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "174fcdb1-6746-451d-81f0-0cb68400beac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1710"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "f029f4e6-e5b8-4c19-a7c1-9429b5248c2d")
 			(effects
 				(font
 					(size 1 1)
@@ -6131,6 +6275,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C1710"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "e2f4de99-80f0-4105-9cf9-deebcf2c2f1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -6258,6 +6414,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "2b67155e-f0d8-444d-a2c3-d447c2b571df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "74fe43ee-d105-4d54-b2e9-d12a188a3fc7")
 			(effects
 				(font
 					(size 1 1)
@@ -6399,6 +6567,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C1779"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "707c723f-bbc2-4f3d-a040-008543a8c977")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -6522,10 +6702,22 @@
 				)
 			)
 		)
-		(property "Value" "56k 1%"
+		(property "Value" "51k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "b078eb9c-df34-4784-a727-584dc35fc6a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17737"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "3b619eb2-72af-4b2b-9616-b2fca879920b")
 			(effects
 				(font
 					(size 1 1)
@@ -6679,6 +6871,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "712f09e2-f903-46c7-8732-c7c92b167d91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -6814,10 +7018,22 @@
 				)
 			)
 		)
-		(property "Value" "4.99k 1%"
+		(property "Value" "2k"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "93ea5490-5b70-4ecd-8a58-107db5b4d812")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17604"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "97cb9154-9215-4008-8334-348ca77b854c")
 			(effects
 				(font
 					(size 1 1)
@@ -6971,6 +7187,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17436"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "0ae848b1-c530-404d-ad44-bc3eb8349741")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -7117,6 +7345,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "f0080462-8711-413f-8bf4-dadba6a46b16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -7244,6 +7484,18 @@
 			(at 0 2.63 0)
 			(layer "F.Fab")
 			(uuid "840bc937-0ee9-4804-9ff9-dc2dc98f5d64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2885416"
+			(at 0 2.63 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "2951bdf3-f21b-4426-95c7-e156c4488354")
 			(effects
 				(font
 					(size 1 1)
@@ -7390,6 +7642,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "b904ea1a-5235-44b0-b3b8-5f37517733a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C149504"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "234b70dd-a018-495e-839a-de3fb2f550e1")
 			(effects
 				(font
 					(size 1 1)
@@ -7626,10 +7890,22 @@
 				)
 			)
 		)
-		(property "Value" "22u/50V"
+		(property "Value" "10u/50V"
 			(at 0 2.3 0)
 			(layer "F.Fab")
 			(uuid "37bab128-11dd-46df-addc-a6be132343e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C53084452"
+			(at 0 2.3 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "d0e583a3-6763-454c-80fd-d7ae11c96c1f")
 			(effects
 				(font
 					(size 1 1)
@@ -7764,6 +8040,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "538f8166-4227-4c8a-88a1-5a8cff25f46d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "c2f38cc4-bfaf-4261-975a-976038900d11")
 			(effects
 				(font
 					(size 1 1)
@@ -8581,10 +8869,22 @@
 				)
 			)
 		)
-		(property "Value" "402k"
+		(property "Value" "510k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "546c6b01-450a-4781-ab87-3deffc6a5e49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17724"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "daf4a5b9-e541-458f-bab7-aa1f6e072054")
 			(effects
 				(font
 					(size 1 1)
@@ -8731,6 +9031,18 @@
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "6df295f8-7f7e-4f5a-9dd7-659d783c42c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C149504"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "d95e7da4-8a45-44c6-81ed-9ce14ce74218")
 			(effects
 				(font
 					(size 1 1)
@@ -9586,6 +9898,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C5378"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "b8c4b4d5-2cdc-477f-bb65-64eefb1dbb8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -9709,10 +10033,22 @@
 				)
 			)
 		)
-		(property "Value" "523k 1%"
+		(property "Value" "510k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "f09aab3f-b3b8-454c-ad4f-52345baf5558")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17724"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "282fa55a-ac83-4242-8eac-f9e75582456e")
 			(effects
 				(font
 					(size 1 1)
@@ -10012,6 +10348,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "b746e41b-82f2-4561-a050-c9648dd70049")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -10147,10 +10495,22 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "33k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "8563c5e1-35ba-4c51-bce2-6bbe47a03136")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17633"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "597dda38-50ce-45d7-8c98-9e57fbb438bc")
 			(effects
 				(font
 					(size 1 1)
@@ -10293,10 +10653,22 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "220k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "2294a7f8-7b95-460a-a4ae-73f266de6445")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17556"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "24ac8f9c-f222-4970-a04d-622f51e95bb4")
 			(effects
 				(font
 					(size 1 1)
@@ -11269,10 +11641,22 @@
 				)
 			)
 		)
-		(property "Value" "3.32k 1%"
+		(property "Value" "3.3k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "466219f1-cd0f-4c7d-839f-1f4265b4dc01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C26010"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "11bdc19d-98cb-4239-b810-fc6f240d6b6f")
 			(effects
 				(font
 					(size 1 1)
@@ -11426,6 +11810,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C13967"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "cfb6e633-51e7-469e-a908-79cbbd6e551d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -11553,6 +11949,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "c4f7aa99-e42c-4ae9-8d9d-94cac882ad5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C149504"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "e886d9e7-367c-4493-bff7-cb53e842534f")
 			(effects
 				(font
 					(size 1 1)
@@ -12072,6 +12480,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "043528a7-7a5c-421a-9db2-edba4b475095")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -12199,6 +12619,18 @@
 			(at 0 1.85 90)
 			(layer "F.Fab")
 			(uuid "c51fdade-ad21-4910-92cd-84d61c3d7cc1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1848"
+			(at 0 1.85 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "5936f17e-e106-4cac-a371-b795813bba62")
 			(effects
 				(font
 					(size 1 1)
@@ -13009,6 +13441,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "cad66984-8a2e-41b0-a45e-ad4b5a2efb51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -13530,6 +13974,18 @@
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "070d6575-e498-4d4c-a15d-468d003c094f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C15849"
+			(at 0 1.43 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "69bee217-2000-4ec9-81be-71b60059de31")
 			(effects
 				(font
 					(size 1 1)
@@ -14060,6 +14516,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "4e82352f-3ca7-43e8-a0ad-85235b5b0596")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -14557,6 +15025,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "cf18c6af-2c9c-4867-ae1d-4b62e67a921c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -14680,10 +15160,22 @@
 				)
 			)
 		)
-		(property "Value" "8.06k"
+		(property "Value" "5.1k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "3f76f7d1-91e5-4449-8008-a11d16b222eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C27834"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "c5319605-1942-4d54-b8aa-bbc69062e5e7")
 			(effects
 				(font
 					(size 1 1)
@@ -15154,6 +15646,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C1848"
+			(at 0 1.85 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "2a44e5ef-8a97-407f-9f7e-842c8f8af554")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -15293,6 +15797,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "bb06abf3-529b-4c1b-b95e-bb84ed6c1364")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1790"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "8b62bd37-7d5e-44f6-a613-3cb55bb67b3d")
 			(effects
 				(font
 					(size 1 1)
@@ -16188,6 +16704,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C1710"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "99115f1d-10e1-40f4-9caa-e9ae93fb8bb6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -16709,6 +17237,18 @@
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "0b95c1f7-b666-49aa-a66b-534a5bbdbb63")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28323"
+			(at 0 1.68 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "e4a7ebab-2fd4-4c33-b199-a1e9de790b4f")
 			(effects
 				(font
 					(size 1 1)
@@ -17278,6 +17818,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "6b7e6054-85de-4f43-b37c-5704fdd32af9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -17793,10 +18345,22 @@
 				)
 			)
 		)
-		(property "Value" "126k 1%"
+		(property "Value" "51k"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "4150acc3-f8ed-43c0-b79d-a03f1bdec582")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17737"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "80cbf4df-7467-4f8f-824d-003daa22273c")
 			(effects
 				(font
 					(size 1 1)
@@ -17950,6 +18514,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C19702"
+			(at 0 1.43 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "80291d02-907e-4f76-bb44-28a5f0a4c5c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -18077,6 +18653,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "208af5b1-d776-4e54-909f-f631ee778644")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "16830b84-9d31-4335-a03c-97f9c8f8be14")
 			(effects
 				(font
 					(size 1 1)
@@ -18365,10 +18953,22 @@
 				)
 			)
 		)
-		(property "Value" "14.0k"
+		(property "Value" "4.7k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "d4cd02be-b34f-4119-8497-fd8680e64731")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17673"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "54f27ec6-cc75-4049-a6f7-4d77123c2d59")
 			(effects
 				(font
 					(size 1 1)
@@ -18897,6 +19497,18 @@
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "b9e72555-12da-4ccd-916c-cd969c69850b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "19571a3f-817e-44fa-81d5-5cdb5652fd83")
 			(effects
 				(font
 					(size 1 1)
@@ -20624,6 +21236,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17477"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "97a9ad34-b5fe-481f-b5c0-4a62270f056c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -20770,6 +21394,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "16569936-edef-4c34-9a9a-902170b7f690")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -20909,6 +21545,18 @@
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "793475e2-72eb-4760-a3d6-045f268c1444")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C149504"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "1fce6893-5178-4a62-9f6d-dff66ba128ba")
 			(effects
 				(font
 					(size 1 1)
@@ -21428,6 +22076,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "5b93c9d1-45f5-41e8-9ce7-42fde1cfb7b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -21574,6 +22234,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C24365"
+			(at 0 2.3 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "0b800725-7f2b-4f1f-9f4d-8017b77e62e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -21701,6 +22373,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "79214268-4bb5-4a87-9170-94b20ceda211")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "41404481-c660-413b-8e54-75ea86c197ba")
 			(effects
 				(font
 					(size 1 1)
@@ -22271,6 +22955,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "081c8235-a01a-4d66-8429-0d45f1b344bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28323"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "435221bb-7b49-4f7a-8bba-542482cb5d0a")
 			(effects
 				(font
 					(size 1 1)
@@ -23373,6 +24069,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17408"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "15375d4c-f7c6-42a6-b383-fa1a67a826c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -23519,6 +24227,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17514"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "fcbb255d-5416-4ecc-af13-defa8b706468")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -23658,6 +24378,18 @@
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "a786f27e-1ab5-47e2-b000-faa5fc44f3aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C231329"
+			(at 0 2.5 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "b72583dd-5a47-4ac7-ae3b-04e0006714e4")
 			(effects
 				(font
 					(size 1 1)
@@ -23910,6 +24642,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "725d5089-7521-4a3a-aa42-3d051f40b78d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -24049,6 +24793,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "96a0704c-d4de-4ee0-bd6b-9e12662be060")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C149504"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "7b788ec7-9522-49b7-afce-ff4a91753e6a")
 			(effects
 				(font
 					(size 1 1)
@@ -24815,10 +25571,22 @@
 				)
 			)
 		)
-		(property "Value" "14.0k"
+		(property "Value" "4.7k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "bac7f2a6-4a1c-4652-bf4c-c4dcc3153fc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17673"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "8e603513-fa94-4f82-9181-69faad873474")
 			(effects
 				(font
 					(size 1 1)
@@ -25496,6 +26264,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "40cdca79-887f-4f9d-a548-5867925b7dfe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -25623,6 +26403,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "834469e2-ec89-4803-b935-4565034f7324")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17514"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "1621cbfb-9763-4c8b-8d04-002ee698e83c")
 			(effects
 				(font
 					(size 1 1)
@@ -25765,10 +26557,22 @@
 				)
 			)
 		)
-		(property "Value" "68n"
+		(property "Value" "100n"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "897107fb-8a2e-4f7f-8ee0-64accf100c86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "d645fa29-8315-4b60-bbc1-524704090e25")
 			(effects
 				(font
 					(size 1 1)
@@ -25922,6 +26726,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "bcd0b7ca-3519-4ecd-a2b6-a8e0edf72878")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -26061,6 +26877,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "adb52118-91ff-4508-aa4f-261e6dfe4818")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C25271"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "ba8d970f-4523-4a5b-9a31-7f81ae81be2a")
 			(effects
 				(font
 					(size 1 1)
@@ -26349,10 +27177,22 @@
 				)
 			)
 		)
-		(property "Value" "9.53k"
+		(property "Value" "12k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "f9be74a0-ced6-43c1-8dfb-420f33eb326c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17444"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "b00c52ec-549e-4c6a-91ed-ff5ca8407afe")
 			(effects
 				(font
 					(size 1 1)
@@ -26506,6 +27346,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C5378"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "2e59c436-f403-45cf-914a-c148caeac7fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -26633,6 +27485,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "5f1aad75-9284-42e0-a6f5-f2bed90de1ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17514"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "84180c78-f96d-4828-b38f-ffabed3baf63")
 			(effects
 				(font
 					(size 1 1)
@@ -26779,6 +27643,18 @@
 			(at 0 2.63 0)
 			(layer "F.Fab")
 			(uuid "b48c0c27-09b9-4aa1-bca9-b82587edd9f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C25476"
+			(at 0 2.63 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "2871636d-0a0a-4592-ab59-7fd86c7312bb")
 			(effects
 				(font
 					(size 1 1)
@@ -27339,6 +28215,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "d4b094af-3fed-4bca-8323-beb42412bb73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C53134"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "1fda6022-0b4b-4811-8d3f-d318061115ef")
 			(effects
 				(font
 					(size 1 1)
@@ -28175,6 +29063,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "420b3ada-d166-46b2-8e78-280f8fdb2aa7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -28690,6 +29590,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C1710"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "37e44efa-17ff-4dcf-b233-2f2c8c0b67ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -29176,6 +30088,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17415"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "b9e602b7-a37c-417b-9033-5b23028df542")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -29567,6 +30491,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23186"
+			(at 0 1.43 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "724b9099-b30c-4bc6-aa0f-aa90a67675e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -29694,6 +30630,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "2acd4d9a-16fc-4847-be21-f46597666959")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "ce289d31-5a7f-48f0-b7ce-305122bd5bb9")
 			(effects
 				(font
 					(size 1 1)
@@ -29840,6 +30788,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "95d20cb0-dc4f-468f-ba30-c87ff7cd8360")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1710"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "9ece4800-d567-4e9a-a91b-f0ada72d702f")
 			(effects
 				(font
 					(size 1 1)
@@ -30373,6 +31333,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C149504"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "2a223f1f-9fa2-468b-bbb2-3a7ba1a32291")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -30512,6 +31484,18 @@
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "ac412509-ff61-4299-881a-3912de51fa65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "3b4de610-ec96-44af-b42b-869717b9cbdc")
 			(effects
 				(font
 					(size 1 1)
@@ -31021,6 +32005,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "0c801763-804a-49a5-b948-41419ec93ee4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -31167,6 +32163,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C149504"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "dc0b378e-c927-4094-9a52-da841e04219d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -31306,6 +32314,18 @@
 			(at 0 2.63 90)
 			(layer "F.Fab")
 			(uuid "aab3671f-4b72-4efa-8c2d-c536bedf5177")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2885416"
+			(at 0 2.63 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "55f76a9a-7836-4f3f-bd00-46182f173432")
 			(effects
 				(font
 					(size 1 1)
@@ -31747,6 +32767,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C53134"
+			(at 0 1.68 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "c082043a-c23e-455e-8dbb-66a5f99c9b8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -32051,6 +33083,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "eed48873-50c0-47ae-9bc6-4ce104481e39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -32190,6 +33234,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "45e798b9-e47b-4eb7-8d2a-27dec0590bfd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "8f18938e-9711-4d81-b56f-a3835a490efb")
 			(effects
 				(font
 					(size 1 1)
@@ -33624,6 +34680,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "d6e6c484-ee5d-4cf7-b5ee-a2d9ea7b945b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -33763,6 +34831,18 @@
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "043ca935-1304-40e1-87b9-50bcf5ed8003")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "6c668911-54a7-4fee-b9dc-2d0329b1e290")
 			(effects
 				(font
 					(size 1 1)
@@ -34055,6 +35135,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "c228ad62-d5ab-46f8-942d-abf27aae66aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28323"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "fac87e8d-0134-42a3-9467-184692780427")
 			(effects
 				(font
 					(size 1 1)
@@ -34484,6 +35576,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17513"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "a8ccfb02-9dc4-4085-bb5d-617f963426ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -34623,6 +35727,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "7ddef292-893d-466e-ba4f-f950277d4876")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "221df6fd-5963-43cd-a6ba-ccb5bc3ab84a")
 			(effects
 				(font
 					(size 1 1)
@@ -35211,6 +36327,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17408"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "f3198c65-d029-4286-9287-74eefca70fb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -35350,6 +36478,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "0d4e99bc-9015-4121-911d-54de9a5deb93")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "22b7119f-f65a-44f0-9cac-5ab402fb253a")
 			(effects
 				(font
 					(size 1 1)
@@ -35503,6 +36643,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "7b280b03-5b8d-455d-aef4-d52150d31374")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -35630,6 +36782,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "f29683c9-4a1b-4682-ba3b-461071e5a3df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "d4f80b70-d61f-44e4-b56e-9d5ade0303dc")
 			(effects
 				(font
 					(size 1 1)
@@ -35783,6 +36947,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17557"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "9df530f5-e1db-4c63-820b-3093418e5ac8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -35918,10 +37094,22 @@
 				)
 			)
 		)
-		(property "Value" "24.9k"
+		(property "Value" "3k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "efd67675-920c-4089-902a-5fc5cd95aaf5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17661"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "ed76e240-8e33-45d6-a7b3-cbe2219ca1b9")
 			(effects
 				(font
 					(size 1 1)
@@ -36075,6 +37263,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "3b0a7f5e-f40e-420c-b601-c12f55a0b79b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -36202,6 +37402,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "30dde823-574d-4bec-b292-215cf95b37a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "24654d8f-aec7-4ba2-8521-d8145a6c732a")
 			(effects
 				(font
 					(size 1 1)
@@ -36343,6 +37555,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C1779"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "3c994c93-b782-4a9d-af29-71bf48a44cac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -36470,6 +37694,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "96b5df57-27fb-42ca-a4c4-26d99ac48c30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1744"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "14543b98-5985-4551-843e-4091011d4164")
 			(effects
 				(font
 					(size 1 1)
@@ -37257,6 +38493,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "47624137-eaba-4a30-ba1b-2ac85d450429")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -37396,6 +38644,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "0204b34b-f4e9-459b-b95d-8de441494dd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "32f2df98-61d0-4829-a3bd-6ea79be246ca")
 			(effects
 				(font
 					(size 1 1)
@@ -37935,6 +39195,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "b9782b49-35ae-48c2-ac48-5f9c52e99d23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -38062,6 +39334,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "d236b0e4-6762-4a49-a106-6b1ee2f5a513")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "442fad18-0963-4f24-8e09-634ecbf33918")
 			(effects
 				(font
 					(size 1 1)
@@ -38574,6 +39858,18 @@
 			(at 0 2.3 90)
 			(layer "F.Fab")
 			(uuid "aad5c531-6b6a-4776-ae6a-692250fcdd64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C24365"
+			(at 0 2.3 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "27550d46-0e96-488a-9ab8-7436495fab7d")
 			(effects
 				(font
 					(size 1 1)
@@ -39212,6 +40508,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "e3ec215b-3d8e-4a61-b11c-7ef1eca3502d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "c9637e54-d33b-47a9-91bc-53fc894d3d75")
 			(effects
 				(font
 					(size 1 1)
@@ -40559,6 +41867,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C17540"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "b2b62982-3a75-48e1-b57f-91eae5e4495b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -40705,6 +42025,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C72067"
+			(at 0 2.3 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "9dee01bb-66db-43ae-bcbe-5d1f27aec225")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -40832,6 +42164,18 @@
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "b5e94c4f-7d1b-406b-ad2b-b25a4332e6e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C19702"
+			(at 0 1.43 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "f8296432-6442-45f6-b9d3-9538950e3faf")
 			(effects
 				(font
 					(size 1 1)
@@ -40973,6 +42317,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28323"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "e65c27e7-2871-455f-86ff-9d70f06dca7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -41100,6 +42456,18 @@
 			(at 0 1.85 0)
 			(layer "F.Fab")
 			(uuid "d1511b3a-65fc-454f-a3b3-8e5d5663d598")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C1848"
+			(at 0 1.85 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "d19aa1ae-47de-4874-b649-45527d7ad7ce")
 			(effects
 				(font
 					(size 1 1)
@@ -41737,6 +43105,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C44883"
+			(at 0 2.63 270)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "b4658914-84da-4879-bf82-66e19ec6c837")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 270)
 			(layer "F.Fab")
@@ -41872,10 +43252,22 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "12k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "3f9d4e1e-2e2b-4f69-b693-739d572f1b06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17444"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "c8ae9eff-b0de-4eff-9817-8f5b927e5be2")
 			(effects
 				(font
 					(size 1 1)
@@ -42022,6 +43414,18 @@
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "cc726635-a715-4223-9b2e-a07d84d62ade")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17713"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "2e48f2c9-05a1-4bad-b1cd-ccf6b0453647")
 			(effects
 				(font
 					(size 1 1)
@@ -42691,10 +44095,22 @@
 				)
 			)
 		)
-		(property "Value" "22u/50V"
+		(property "Value" "10u/50V"
 			(at 0 2.3 0)
 			(layer "F.Fab")
 			(uuid "211a17af-80d0-4974-ac82-99c71894db8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C53084452"
+			(at 0 2.3 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "ca46edf5-e93b-4842-a881-cd7d1b23aca4")
 			(effects
 				(font
 					(size 1 1)
@@ -42836,6 +44252,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C23186"
+			(at 0 1.43 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "25838204-cb46-4da1-901a-a3e6dc3ffadd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -42970,6 +44398,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "e9eeafba-81e3-4630-a604-b4305e768b43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -43097,6 +44537,18 @@
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "c46c92c8-df50-486d-877c-03de66558996")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C49678"
+			(at 0 1.68 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "a4b93cae-9ca6-4ac7-9f73-7298fbb34507")
 			(effects
 				(font
 					(size 1 1)
@@ -43243,6 +44695,18 @@
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "2eae3377-6679-4219-bb27-2857c2948bc4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C28233"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "2e4a9d6c-a507-4432-8c92-7a912ac6d38b")
 			(effects
 				(font
 					(size 1 1)
@@ -43982,10 +45446,22 @@
 				)
 			)
 		)
-		(property "Value" "115k 1%"
+		(property "Value" "150k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "d944ae48-98b2-4a26-87bb-f9a545ce2879")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17470"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "178d3712-0c20-40c6-bbe8-b2e6eba9e838")
 			(effects
 				(font
 					(size 1 1)
@@ -44285,6 +45761,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C149504"
+			(at 0 1.65 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "2bf02871-693d-4338-9b76-3d52f7dfeb2c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
@@ -44424,6 +45912,18 @@
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "a786f27e-1ab5-47e2-b000-faa5fc44f3aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C231329"
+			(at 0 2.5 0)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "bd95b4a7-74cc-49b9-a563-fafe2f6ca6d5")
 			(effects
 				(font
 					(size 1 1)
@@ -44669,6 +46169,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "ef9350c8-c181-405b-b173-393fa3a059cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17414"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "3b3c888a-34c2-4088-b006-804dadc663e8")
 			(effects
 				(font
 					(size 1 1)
@@ -46084,10 +47596,22 @@
 				)
 			)
 		)
-		(property "Value" "9.09k"
+		(property "Value" "20k"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "5d5a3495-db07-48bc-ba16-d99a9048790c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C4328"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "c11e525d-446a-4e8f-a832-803d0eaf23d9")
 			(effects
 				(font
 					(size 1 1)
@@ -46529,6 +48053,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C5378"
+			(at 0 1.68 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "6f0a278d-0c08-47d9-bf38-b17d7ec2305a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
@@ -46656,6 +48192,18 @@
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "a5346d64-98b3-434d-9c66-b9d12dd59ae8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 0 1.65 90)
+			(hide yes)
+			(layer "F.Fab")
+			(uuid "ca3e8b4c-aa96-4bc9-ba06-4acb8a59bde0")
 			(effects
 				(font
 					(size 1 1)
