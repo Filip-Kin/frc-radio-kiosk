@@ -5500,7 +5500,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "273e03e3-ccd5-4dd3-864c-76394b315b06")
-		(at 75.87 57.48 180)
+		(at 75.87 57.48)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "Q1"
@@ -17519,7 +17519,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "6916e5c5-5831-43af-9cc4-3c02be49fc45")
-		(at 9.2 35.83 180)
+		(at 9.2 35.83)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "Q7"
@@ -29694,7 +29694,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "d0b0fa3b-a2d4-4167-94b6-a7eab6cb6d4b")
-		(at 72.81 44.38 180)
+		(at 72.81 44.38)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "Q2"
@@ -38230,7 +38230,7 @@
 	(segment
 		(start 77.24 10.8)
 		(end 75.3 10.8)
-		(width 0.6)
+		(width 0.3)
 		(layer "F.Cu")
 		(net "VIN_USB")
 		(uuid "01c7e300-c080-496f-aeff-249581106caf")
@@ -38254,7 +38254,7 @@
 	(segment
 		(start 77.24 15.6)
 		(end 75.3 15.6)
-		(width 0.6)
+		(width 0.3)
 		(layer "F.Cu")
 		(net "VIN_USB")
 		(uuid "760ef1e5-54ee-4b78-85f8-3531eceef913")
