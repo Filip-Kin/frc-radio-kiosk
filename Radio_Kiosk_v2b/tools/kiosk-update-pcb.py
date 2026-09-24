@@ -63,7 +63,6 @@ def load_fp(fpid):
     fp = pcbnew.FootprintLoad(path, name)
     if fp is None:
         raise SystemExit(f"footprint not found: {fpid}")
-    fp.SetFPID(pcbnew.LIB_ID(lib, name))  # FootprintLoad leaves the nickname off, and then every run swaps it again
     return fp
 
 board = pcbnew.LoadBoard(BOARD)
