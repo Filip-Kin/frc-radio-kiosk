@@ -1,0 +1,6548 @@
+{
+  "version": 20241229,
+  "generator": "loon",
+  "rules": {
+    "name": "OSH Park 2-layer prototype",
+    "minTrackWidth": 0.1524,
+    "minClearance": 0.1524,
+    "minDrill": 0.254,
+    "minAnnularRing": 0.127,
+    "layers": 2,
+    "note": "6 mil trace and space, 10 mil minimum drill, 5 mil annular ring, 1.6mm 1oz, purple mask. OSH Park takes the .kicad_pcb file directly."
+  },
+  "outline": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 84,
+      "y": 0
+    },
+    {
+      "x": 84,
+      "y": 133
+    },
+    {
+      "x": 0,
+      "y": 133
+    }
+  ],
+  "footprints": [
+    {
+      "uuid": "53cc7ff8-0774-400f-a6bc-d35cf7adf439",
+      "ref": "L20",
+      "value": "MDA1365-330M 33u 4.5A",
+      "symbolUuid": "49932722-56d1-419b-b84d-d3640c927e56",
+      "libId": "Inductor_SMD:L_12x12mm_H8mm",
+      "at": {
+        "x": 69.65,
+        "y": 117.89
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "+12V",
+        "2": "BOOST_SW"
+      }
+    },
+    {
+      "uuid": "f08d699d-bf8a-4182-8f6d-bc6643938edd",
+      "ref": "D20",
+      "value": "SS310 100V Schottky",
+      "symbolUuid": "e398e59f-d89c-4e63-afb1-6c4aedc32a2c",
+      "libId": "Diode_SMD:D_SMA",
+      "at": {
+        "x": 80.15,
+        "y": 117.89
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PORT_P",
+        "2": "BOOST_SW"
+      }
+    },
+    {
+      "uuid": "6ba5aa6f-a072-4740-bdba-680cb4807e58",
+      "ref": "C22",
+      "value": "10u/25V",
+      "symbolUuid": "0329f104-56d3-4971-a547-65679c754f7a",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 63.6,
+        "y": 88.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+12V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "7189a819-fd3f-4af3-a824-8fd880788b23",
+      "ref": "C23",
+      "value": "4.7u/100V",
+      "symbolUuid": "c17723a1-df09-4c8c-9f86-8e74ff86f0c6",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 67.9,
+        "y": 88.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PORT_P",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "c625d246-2f0d-4ca2-912f-ca4b41fee59e",
+      "ref": "C24",
+      "value": "4.7u/100V",
+      "symbolUuid": "cbb88205-9765-4577-bbc7-3cfa75c9ecfb",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 72.2,
+        "y": 88.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PORT_P",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "b4248487-a1c5-4855-bc5f-7c918c3480db",
+      "ref": "C25",
+      "value": "47u/63V",
+      "symbolUuid": "e4976b77-ed6c-4bb7-bd82-82f868c11f58",
+      "libId": "Capacitor_SMD:CP_Elec_8x10.5",
+      "at": {
+        "x": 68.15,
+        "y": 104.85
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "PORT_P",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "677429f8-8cf1-4973-bcad-4b3952271011",
+      "ref": "Q20",
+      "value": "AO4482",
+      "symbolUuid": "63770c85-fdc1-459a-80fc-c8e9d0546a64",
+      "libId": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm",
+      "at": {
+        "x": 74.2,
+        "y": 95.53
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_DR",
+        "2": "BOOST_CS",
+        "3": "BOOST_SW"
+      }
+    },
+    {
+      "uuid": "363ce475-56df-4e8b-a10f-b9bc4cb6cfe9",
+      "ref": "R70",
+      "value": "10R",
+      "symbolUuid": "ab7c0237-25f3-430d-86d6-9d6f4a70b7dc",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 35.93,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PORT_P",
+        "2": "PSE_AGND"
+      }
+    },
+    {
+      "uuid": "9c13d602-d8f8-4a2f-91af-6e6b2f12fc59",
+      "ref": "R73",
+      "value": "3.32k 1%",
+      "symbolUuid": "d2250fc9-006d-4773-bd08-027c80ae6df4",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 41.93,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_PWRMODE",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "61549dc5-2a10-4b83-8b35-7728abb4f40a",
+      "ref": "Q1",
+      "value": "SI4470EY",
+      "symbolUuid": "0625ab51-7d92-4bc4-8140-4f88520fafd6",
+      "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+      "at": {
+        "x": 75.87,
+        "y": 57.48
+      },
+      "rotation": 180,
+      "side": "F",
+      "padNets": {
+        "1": "U1_GATE",
+        "2": "VIN_USBS",
+        "3": "VIN"
+      }
+    },
+    {
+      "uuid": "a0fa7df6-2e4a-4a2a-980e-2508639f7755",
+      "ref": "R24",
+      "value": "10k",
+      "symbolUuid": "24a95084-6d8b-43ee-a812-60143a8cfaf9",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 78.07,
+        "y": 81.7
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_COMP",
+        "2": "BOOST_COMPC"
+      }
+    },
+    {
+      "uuid": "d44926c6-09a9-446e-8e3c-738c382e7bb7",
+      "ref": "R22",
+      "value": "402k",
+      "symbolUuid": "0a065b77-0bc5-4566-9b83-a90cf6e4fb18",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 72.07,
+        "y": 81.7
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PORT_P",
+        "2": "BOOST_FB"
+      }
+    },
+    {
+      "uuid": "0d88350c-43f9-451a-b81d-afeeb32afb45",
+      "ref": "C70",
+      "value": "1u/100V",
+      "symbolUuid": "5b62ec46-0afb-4410-ad00-750325ccf6ea",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 17.6,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_AGND",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "31a424f5-b0d3-4b09-ba8d-0598d7890037",
+      "ref": "R74",
+      "value": "100R",
+      "symbolUuid": "bc7549f3-856a-401b-9df9-a3126f00f3e0",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 44.93,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_MID",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "26978067-754d-48bd-ae0b-791711b34e7f",
+      "ref": "J1",
+      "value": "USB-C PD in",
+      "symbolUuid": "1ec353f8-b795-4af2-a83e-7341cc94f164",
+      "libId": "LCSC:USB-C_TYPE-C-31-M-12",
+      "at": {
+        "x": 79.71,
+        "y": 13.2
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "GND",
+        "3": "GND",
+        "4": "GND",
+        "B8": "N$2",
+        "A5": "PD_CC1",
+        "B7": "PD_DM",
+        "A6": "PD_DP",
+        "A7": "PD_DM",
+        "B6": "PD_DP",
+        "A8": "N$1",
+        "B5": "PD_CC2",
+        "A1B12": "GND",
+        "B1A12": "GND",
+        "B4A9": "VIN_USB",
+        "A4B9": "VIN_USB"
+      }
+    },
+    {
+      "uuid": "5dea3d20-7a3d-4a5d-ad18-6147de37f293",
+      "ref": "D1",
+      "value": "SMAJ28A TVS",
+      "symbolUuid": "03d0b7b8-3146-40ed-aa0c-10928633038d",
+      "libId": "Diode_SMD:D_SMA",
+      "at": {
+        "x": 67.56,
+        "y": 57.48
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "VIN_USB",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "53b6b520-b759-400e-b4b5-eb40e0e39f69",
+      "ref": "U1",
+      "value": "LM74700-Q1",
+      "symbolUuid": "08df6b12-7682-4e74-ac77-b6c915d6187f",
+      "libId": "Package_TO_SOT_SMD:SOT-23-6",
+      "at": {
+        "x": 63.05,
+        "y": 64.09
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "U1_VCAP",
+        "2": "GND",
+        "3": "VIN_USBS",
+        "4": "VIN",
+        "5": "U1_GATE",
+        "6": "VIN_USBS"
+      }
+    },
+    {
+      "uuid": "f0c14f50-307e-4ea6-95e2-f9e69c6a468e",
+      "ref": "U20",
+      "value": "LM3478 54V boost",
+      "symbolUuid": "bff207ac-4e56-4023-8a80-386660570c95",
+      "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+      "at": {
+        "x": 65.7,
+        "y": 95.53
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_CS",
+        "2": "BOOST_COMP",
+        "3": "BOOST_FB",
+        "4": "GND",
+        "5": "GND",
+        "6": "BOOST_DR",
+        "7": "BOOST_FA",
+        "8": "+12V"
+      }
+    },
+    {
+      "uuid": "e2103a3b-15be-4b83-b1a5-7e85569019a2",
+      "ref": "C21",
+      "value": "47n",
+      "symbolUuid": "7a1fd27d-4909-42ca-828b-b1394e661cf1",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 66.04,
+        "y": 81.7
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_COMPC",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "0bc02d25-d6b9-44b6-a79a-fae7b30a4818",
+      "ref": "R23",
+      "value": "9.53k",
+      "symbolUuid": "5cbca62a-c015-4fbe-91d5-8b115f9bac7c",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 75.07,
+        "y": 81.7
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_FB",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "53cd4e71-8acf-4e6b-88b4-26e7679fe30e",
+      "ref": "C20",
+      "value": "100p",
+      "symbolUuid": "ae337751-a69c-49a2-8d5c-9f727b73dd3f",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 62.98,
+        "y": 81.7
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_FB",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "009e9432-8f3d-4de1-98dd-79e42c76f6f1",
+      "ref": "D70",
+      "value": "SMAJ58A TVS",
+      "symbolUuid": "0d72485f-4493-4762-af8f-50ea0829a21b",
+      "libId": "Diode_SMD:D_SMA",
+      "at": {
+        "x": 36.95,
+        "y": 83.7
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_AGND",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "3b2fdc06-0cc3-4a79-965b-7c04efa24cb0",
+      "ref": "R75",
+      "value": "100R",
+      "symbolUuid": "ff870fad-1d94-40f2-a9c1-3ffec71e672a",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 47.93,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_LEGACY",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "5df2c8db-c19e-49d2-ae88-cf07b79b6997",
+      "ref": "R20",
+      "value": "20m 1W",
+      "symbolUuid": "22391052-c2c2-4aea-a3c5-708b443644a7",
+      "libId": "Resistor_SMD:R_2512_6332Metric",
+      "at": {
+        "x": 77.33,
+        "y": 104.85
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_CS",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "81b08a8e-d07b-4513-87c4-36da68883fd6",
+      "ref": "R93",
+      "value": "20m 1W",
+      "symbolUuid": "a3e77e79-a307-406a-80d2-3f60ac632b1f",
+      "libId": "Resistor_SMD:R_2512_6332Metric",
+      "at": {
+        "x": 70.84,
+        "y": 64.09
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "VIN_USB",
+        "2": "VIN_USBS"
+      }
+    },
+    {
+      "uuid": "f967b1c8-6aa8-4a3f-bc6a-dd9943cb1f31",
+      "ref": "R90",
+      "value": "100k",
+      "symbolUuid": "92b3af2d-1848-4982-bc3a-ffe6b02e8a8d",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 49.45,
+        "y": 64.68
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN",
+        "2": "VIN_SENSE"
+      }
+    },
+    {
+      "uuid": "72378adc-c3ed-4aaa-bcf6-9a8059cf7d41",
+      "ref": "U22",
+      "value": "LTC4279",
+      "symbolUuid": "b6b1a633-43ed-47d5-abaa-87c81f1b583b",
+      "libId": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+      "at": {
+        "x": 21.42,
+        "y": 83.7
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_MID",
+        "2": "N$12",
+        "3": "N$13",
+        "4": "GND",
+        "5": "PSE_SENSE",
+        "6": "PSE_GATE_DRV",
+        "7": "PORT_N",
+        "8": "PSE_AGND",
+        "9": "PSE_ON",
+        "10": "GND",
+        "11": "N$14",
+        "12": "PSE_PWRMODE",
+        "13": "PSE_LEGACY",
+        "14": "PSE_DUALPD",
+        "15": "N$15",
+        "16": "PSE_RESET"
+      }
+    },
+    {
+      "uuid": "45346bea-60d6-489d-a668-103ad9cd7891",
+      "ref": "C1",
+      "value": "100n",
+      "symbolUuid": "c07bed29-1fab-44a5-849b-7ba9d6f206db",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 61.98,
+        "y": 57.48
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U1_VCAP",
+        "2": "VIN_USBS"
+      }
+    },
+    {
+      "uuid": "54ae7875-2697-4837-80e1-12fd8b085eb3",
+      "ref": "R21",
+      "value": "40.2k",
+      "symbolUuid": "f8cb7f19-fcf0-4677-851e-0342100521fb",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 69.07,
+        "y": 81.7
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_FA",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "b9448232-fd83-4c45-9f5e-079c65a5ff4a",
+      "ref": "D71",
+      "value": "S1B clamp",
+      "symbolUuid": "c0508ce0-f0c5-44ce-a928-daa6763b5f9d",
+      "libId": "Diode_SMD:D_SMA",
+      "at": {
+        "x": 45.05,
+        "y": 83.7
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_AGND",
+        "2": "PORT_N"
+      }
+    },
+    {
+      "uuid": "6ff8bd86-cfc8-48b6-94b7-cf76a009e7f3",
+      "ref": "R76",
+      "value": "100R",
+      "symbolUuid": "6cd04b51-d9d6-438a-b431-cc45b20824b3",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 50.93,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_DUALPD",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "afb1fe9f-1ff7-40f0-861a-96240435efd7",
+      "ref": "U50",
+      "value": "CH224A",
+      "symbolUuid": "59368dd8-3705-405c-9f00-6b9305fd7082",
+      "libId": "LCSC:ESSOP-10_CH224A",
+      "at": {
+        "x": 63.75,
+        "y": 71.38
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "VIN_USB",
+        "2": "PD_SCL",
+        "3": "PD_SDA",
+        "4": "PD_DP",
+        "5": "PD_DM",
+        "6": "PD_CC2",
+        "7": "PD_CC1",
+        "8": "VIN_USB",
+        "9": "PD_CFG1",
+        "10": "PD_PG",
+        "11": "GND"
+      }
+    },
+    {
+      "uuid": "dbd84a2c-2892-4b90-b45f-204f025ce5ed",
+      "ref": "R120",
+      "value": "120k 1%",
+      "symbolUuid": "c4324c93-3a1a-453c-8507-93a87e577697",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 71.95,
+        "y": 71.38
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PD_CFG1",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "81029efc-c0f2-4a12-b920-ef99316392c1",
+      "ref": "C90",
+      "value": "22u/50V",
+      "symbolUuid": "3cc1f17b-b1b9-4c8f-b2e5-f0fe308308ee",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 37.83,
+        "y": 64.68
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "VIN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "2d21efda-bcd4-4ab3-b717-8928d957b70c",
+      "ref": "C91",
+      "value": "22u/50V",
+      "symbolUuid": "85c6bdfd-002b-44ab-9d4b-8c4247cd1867",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 44.58,
+        "y": 64.68
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "VIN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "ac534ff8-c9b5-4dd5-969e-4e0a62c77222",
+      "ref": "R91",
+      "value": "14.0k",
+      "symbolUuid": "139a3cf2-852e-403b-86e3-a8d508ca9c84",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 52.45,
+        "y": 64.68
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN_SENSE",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "8ef4b19a-f1c1-4180-a928-c0c2ededb72c",
+      "ref": "U41",
+      "value": "INA180A1",
+      "symbolUuid": "a39dc66f-4021-48bd-ad95-79ca476f5936",
+      "libId": "Package_TO_SOT_SMD:SOT-23-5",
+      "at": {
+        "x": 78.63,
+        "y": 64.09
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "USB_ISENSE",
+        "2": "GND",
+        "3": "VIN_USB",
+        "4": "VIN_USBS",
+        "5": "GND"
+      }
+    },
+    {
+      "uuid": "a8983d58-ab42-4006-8993-5663ddb72eed",
+      "ref": "C115",
+      "value": "100n",
+      "symbolUuid": "3d52a6a6-514a-402c-bdf6-31e87afaadb9",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 82.76,
+        "y": 64.09
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "ca12b2a2-dee0-4ab4-ae5b-d7a495949424",
+      "ref": "R25",
+      "value": "1k",
+      "symbolUuid": "af130580-4ae3-4e6e-9af1-e6334aeec53e",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 75.85,
+        "y": 88.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_SD",
+        "2": "BOOST_SDD"
+      }
+    },
+    {
+      "uuid": "a55f183e-b17c-47d0-b821-2709e010068b",
+      "ref": "D21",
+      "value": "1N4148W",
+      "symbolUuid": "3911637f-37fc-45f4-8e29-2535ace17b6b",
+      "libId": "Diode_SMD:D_SOD-123",
+      "at": {
+        "x": 79.05,
+        "y": 88.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BOOST_FA",
+        "2": "BOOST_SDD"
+      }
+    },
+    {
+      "uuid": "2e1739ce-a60d-4418-9cc9-d9a4018bfa6e",
+      "ref": "C71",
+      "value": "220n/100V",
+      "symbolUuid": "e8f755a5-fc0a-4862-a0cb-88361e307b05",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 21.9,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PORT_N",
+        "2": "PSE_AGND"
+      }
+    },
+    {
+      "uuid": "b00a3c43-21c2-4d5b-bf77-126c08789f6a",
+      "ref": "R77",
+      "value": "100R",
+      "symbolUuid": "87463bd9-ace4-464b-9a55-7caefd5a6eb2",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 53.93,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_EN",
+        "2": "PSE_RESET"
+      }
+    },
+    {
+      "uuid": "91791969-7c32-418f-9043-5f45fa2882f4",
+      "ref": "C140",
+      "value": "1u/50V",
+      "symbolUuid": "520f925e-8a29-41b9-8e82-8013b15d5d62",
+      "libId": "Capacitor_SMD:C_1206_3216Metric",
+      "at": {
+        "x": 68.75,
+        "y": 71.38
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN_USB",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "5490b53e-c73d-412b-98eb-ba0fdca20c32",
+      "ref": "R121",
+      "value": "10k",
+      "symbolUuid": "bc841069-fbc7-48c5-8d9e-e50193d90de0",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 74.95,
+        "y": 71.38
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "PD_PG"
+      }
+    },
+    {
+      "uuid": "ba65f783-85c1-469d-ba2b-c99e3f713a4f",
+      "ref": "Q2",
+      "value": "SI4470EY",
+      "symbolUuid": "332437e7-396b-44a6-986c-1d6fb471b445",
+      "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+      "at": {
+        "x": 72.81,
+        "y": 44.38
+      },
+      "rotation": 180,
+      "side": "F",
+      "padNets": {
+        "1": "U2_GATE",
+        "2": "VIN_DC",
+        "3": "VIN"
+      }
+    },
+    {
+      "uuid": "8fb94d90-adc9-4aff-8d7f-48e0737a8b97",
+      "ref": "R71",
+      "value": "200R",
+      "symbolUuid": "c4fb7af7-658f-455c-878f-9bbf8a3ee389",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 38.93,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_GATE_DRV",
+        "2": "PSE_GATE"
+      }
+    },
+    {
+      "uuid": "91f8d70b-7e2e-4961-ac3c-f829f59d7e77",
+      "ref": "R78",
+      "value": "10k",
+      "symbolUuid": "d7707648-c3e2-40d3-9fa4-2d0eadfb322d",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 56.93,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_RESET",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "9b6ecf17-247e-4b98-a255-3da18ff2f518",
+      "ref": "J2",
+      "value": "DC in 18-26V, PJ-002BH 5.5x2.5",
+      "symbolUuid": "a1dc7707-811b-405a-81a2-d31bf5819c8e",
+      "libId": "LCSC:DC-IN-TH_PJ-002BH",
+      "at": {
+        "x": 73.2,
+        "y": 28
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "VIN_DC",
+        "2": "GND",
+        "3": "N$3"
+      }
+    },
+    {
+      "uuid": "b403fe63-f462-423e-af1b-c68131e25220",
+      "ref": "D2",
+      "value": "SMAJ28A TVS",
+      "symbolUuid": "951a6ed7-a312-4684-b1a0-b184fc567886",
+      "libId": "Diode_SMD:D_SMA",
+      "at": {
+        "x": 64.5,
+        "y": 44.38
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "VIN_DC",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "97b26cba-5f23-4b70-b059-2e1c12190267",
+      "ref": "U2",
+      "value": "LM74700-Q1",
+      "symbolUuid": "cd06d473-a1f6-4a42-bc80-f29f6629483d",
+      "libId": "Package_TO_SOT_SMD:SOT-23-6",
+      "at": {
+        "x": 63.05,
+        "y": 50.76
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "U2_VCAP",
+        "2": "GND",
+        "3": "VIN_DC",
+        "4": "VIN",
+        "5": "U2_GATE",
+        "6": "VIN_DC"
+      }
+    },
+    {
+      "uuid": "82aff210-26b9-49e0-91ad-4f2b19089a73",
+      "ref": "R79",
+      "value": "10k",
+      "symbolUuid": "39246fdc-8f60-4bb6-b258-2a81ef979c1f",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 59.93,
+        "y": 92.03
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "PSE_ON"
+      }
+    },
+    {
+      "uuid": "aad61160-42cb-4711-b660-8cbacceca690",
+      "ref": "Q22",
+      "value": "PSMN075-100MSEX",
+      "symbolUuid": "fdf41a3f-af40-4355-84f6-14c7ed82f445",
+      "libId": "Package_TO_SOT_SMD:LFPAK33",
+      "at": {
+        "x": 30.14,
+        "y": 83.7
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_SENSE",
+        "2": "PSE_SENSE",
+        "3": "PSE_SENSE",
+        "4": "PSE_SENSE",
+        "5": "PORT_N",
+        "": "PSE_SENSE"
+      }
+    },
+    {
+      "uuid": "855ef437-dfd3-4795-9a76-10a984b5a63e",
+      "ref": "R72",
+      "value": "0.1R 1% 2W",
+      "symbolUuid": "d91fd2eb-3ca1-4f5b-a63b-02014ef561dc",
+      "libId": "Resistor_SMD:R_2512_6332Metric",
+      "at": {
+        "x": 29.24,
+        "y": 92.03
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "PSE_SENSE",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "3c19f5d6-021e-499e-bd9a-ce3143139775",
+      "ref": "C2",
+      "value": "100n",
+      "symbolUuid": "8a2b8e2d-ee1d-4bf3-bd62-c4392701516e",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 67.18,
+        "y": 50.76
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U2_VCAP",
+        "2": "VIN_DC"
+      }
+    },
+    {
+      "uuid": "a56ec2dc-69d8-4b4f-98ef-7a110a3d2aac",
+      "ref": "R94",
+      "value": "100k",
+      "symbolUuid": "d1afa84a-6062-4c50-afe4-88fa631d3c8b",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 70.21,
+        "y": 50.76
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN_DC",
+        "2": "DCIN_SENSE"
+      }
+    },
+    {
+      "uuid": "2de2c21a-25f4-40e5-b9a6-9e161fc23295",
+      "ref": "C61",
+      "value": "1u/50V",
+      "symbolUuid": "5dd75975-c78d-4070-a1c4-853a1a6106a8",
+      "libId": "Capacitor_SMD:C_1206_3216Metric",
+      "at": {
+        "x": 49.45,
+        "y": 52.39
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+12V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "89c50ef4-ef14-432c-8b7d-52fa3ad5d549",
+      "ref": "R60",
+      "value": "8.06k",
+      "symbolUuid": "26a1f3a0-ff12-496b-839a-9bd30cdd2d27",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 44.95,
+        "y": 58.69
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PASSIVE_ILIM",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "23b0078b-576d-4c32-93fc-c438a80f5455",
+      "ref": "C62",
+      "value": "1u/100V",
+      "symbolUuid": "a59aba86-dea3-42cb-b1d6-dabea312464d",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 45.6,
+        "y": 52.39
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PORT_P",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "d38a6dbc-cdc9-40fd-bfd6-e842e346cc2f",
+      "ref": "R95",
+      "value": "14.0k",
+      "symbolUuid": "69a4a570-1450-40e4-9437-e57c10e6c4cf",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 73.21,
+        "y": 50.76
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "DCIN_SENSE",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "aef926d8-11bd-4c65-a1a2-a81071cfb62c",
+      "ref": "U21",
+      "value": "TPS26600 eFuse",
+      "symbolUuid": "44b95e23-2996-4207-8cb6-0d6252d730bf",
+      "libId": "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm",
+      "at": {
+        "x": 47.5,
+        "y": 44.93
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "+12V",
+        "2": "+12V",
+        "3": "GND",
+        "4": "N$9",
+        "5": "GND",
+        "6": "N$10",
+        "7": "PASSIVE_EN",
+        "8": "GND",
+        "9": "GND",
+        "10": "PASSIVE_IMON",
+        "11": "PASSIVE_ILIM",
+        "12": "PASSIVE_DVDT",
+        "13": "N$11",
+        "14": "PASSIVE_FLT",
+        "15": "PORT_P",
+        "16": "PORT_P",
+        "17": "GND"
+      }
+    },
+    {
+      "uuid": "7efe80ff-f466-4c30-8869-cc7aeea5fbcc",
+      "ref": "R61",
+      "value": "10k",
+      "symbolUuid": "e8d82074-e437-46e9-92ed-d1cf2b4aa84a",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 47.95,
+        "y": 58.69
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PASSIVE_IMON",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "0e6757ea-1619-47ab-a363-73e73b85c5ba",
+      "ref": "Q13",
+      "value": "SI4470EY",
+      "symbolUuid": "4f3ab488-34d3-49ca-9e0b-789e1533f7d1",
+      "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+      "at": {
+        "x": 55.8,
+        "y": 44.88
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "PASSIVE_EN",
+        "2": "GND",
+        "3": "PORT_N"
+      }
+    },
+    {
+      "uuid": "8892fe60-0bf3-4369-bce8-4b46e850a2d0",
+      "ref": "C60",
+      "value": "10n",
+      "symbolUuid": "3e615f71-aaeb-44e3-a8cf-dfb5bdce4bae",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 52.68,
+        "y": 52.39
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PASSIVE_DVDT",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "d8606bde-f1fe-4681-9301-2b6a87995169",
+      "ref": "C33",
+      "value": "100n",
+      "symbolUuid": "f4e7838c-abe2-46d9-be2b-14dab3d65da2",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 40.1,
+        "y": 114.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U3_BOOT",
+        "2": "U3_SW"
+      }
+    },
+    {
+      "uuid": "ae844af1-c902-4eca-a464-88d486662338",
+      "ref": "R63",
+      "value": "100k",
+      "symbolUuid": "98b16867-da5d-4061-9afe-5b61552df65a",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 53.95,
+        "y": 58.69
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PASSIVE_EN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "34bff947-9f71-4d2c-a34f-59dcacfd1f68",
+      "ref": "R62",
+      "value": "10k",
+      "symbolUuid": "d5869f4f-5afc-4844-8cef-7fe8ad93ddb8",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 50.95,
+        "y": 58.69
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "PASSIVE_FLT"
+      }
+    },
+    {
+      "uuid": "035f7f88-67f4-4a5c-acfe-c5be6e994776",
+      "ref": "L3",
+      "value": "SRP7028A-100M 10u 5A",
+      "symbolUuid": "8ea73393-1e4d-4ddf-ab5a-bf35f2b7691a",
+      "libId": "Inductor_SMD:L_Bourns_SRP7028A_7.3x6.6mm",
+      "at": {
+        "x": 37.48,
+        "y": 100.05
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "U3_SW",
+        "2": "+12V_BUCK"
+      }
+    },
+    {
+      "uuid": "36689fec-514e-4362-b0b2-2d5b60b13f44",
+      "ref": "Q6",
+      "value": "SI4470EY",
+      "symbolUuid": "c4f3c0b4-4205-46d6-9f3f-b681ad334154",
+      "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+      "at": {
+        "x": 54.8,
+        "y": 108.28
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "U6_GATE",
+        "2": "+12V_BUCK",
+        "3": "+12V"
+      }
+    },
+    {
+      "uuid": "22be1b84-6073-497c-8b74-eba0c16a0409",
+      "ref": "D22",
+      "value": "SMAJ58A TVS",
+      "symbolUuid": "f8702cbe-d469-469c-ad18-897dd9f56305",
+      "libId": "Diode_SMD:D_SMA",
+      "at": {
+        "x": 9,
+        "y": 108.25
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "PORT_P",
+        "2": "PORT_N"
+      }
+    },
+    {
+      "uuid": "feec2843-afb1-41f2-a7bb-1ea19d2a9e51",
+      "ref": "C30",
+      "value": "10u/50V",
+      "symbolUuid": "1ce7d936-4d4c-4ccc-8204-3680daa678a3",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 57.45,
+        "y": 100.05
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "f97e46c1-6b04-458f-8b56-6be3c34e3263",
+      "ref": "C31",
+      "value": "220n/50V",
+      "symbolUuid": "ca2b2546-0e57-4f0d-af5f-5bf2e295aec0",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 33.98,
+        "y": 114.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "1fa383f0-0db8-4254-b953-1fb216889702",
+      "ref": "U3",
+      "value": "LMR33630 12V",
+      "symbolUuid": "35e36081-a7dd-470b-8609-504432642f7f",
+      "libId": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
+      "at": {
+        "x": 46.75,
+        "y": 100.05
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "VIN",
+        "3": "VIN",
+        "4": "N$4",
+        "5": "U3_FB",
+        "6": "U3_VCC",
+        "7": "U3_BOOT",
+        "8": "U3_SW",
+        "9": "GND"
+      }
+    },
+    {
+      "uuid": "99fea8d8-d46d-447c-9552-5535bf76d795",
+      "ref": "U6",
+      "value": "LM74700-Q1",
+      "symbolUuid": "c7f978fe-ad8e-4026-9c06-31012a65eca6",
+      "libId": "Package_TO_SOT_SMD:SOT-23-6",
+      "at": {
+        "x": 47.95,
+        "y": 108.28
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "U6_VCAP",
+        "2": "GND",
+        "3": "+12V_BUCK",
+        "4": "+12V",
+        "5": "U6_GATE",
+        "6": "+12V_BUCK"
+      }
+    },
+    {
+      "uuid": "6f079f9c-e223-44cf-b1b1-a45b1699a6e7",
+      "ref": "C34",
+      "value": "22u/25V",
+      "symbolUuid": "146c1ba3-c642-4209-bf52-04d1793a851c",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 53.15,
+        "y": 100.05
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+12V_BUCK",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "d41f1d65-c8c0-4156-b7ac-32cd96ecb741",
+      "ref": "C35",
+      "value": "22u/25V",
+      "symbolUuid": "2e421a2a-8125-4c6c-9977-0435ccf43c4e",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 34.6,
+        "y": 108.28
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+12V_BUCK",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "938d1112-6a45-42d0-859d-beefe71204cf",
+      "ref": "C36",
+      "value": "22u/25V",
+      "symbolUuid": "7546af0a-b26d-4487-8d2f-0489b01496c4",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 38.9,
+        "y": 108.28
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+12V_BUCK",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "e0f6867f-3349-4dab-bd80-a94c9f87676c",
+      "ref": "C37",
+      "value": "22u/25V",
+      "symbolUuid": "915ba3b0-b413-42d6-81c3-f455b7c85711",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 43.2,
+        "y": 108.28
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+12V_BUCK",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "b02eb247-2012-47d0-b952-88a69d13cc8e",
+      "ref": "C98",
+      "value": "470u/25V",
+      "symbolUuid": "99573f64-66e1-4a42-8f60-c7e3293474c6",
+      "libId": "Capacitor_SMD:CP_Elec_10x10.5",
+      "at": {
+        "x": 26.85,
+        "y": 67.5
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "+12V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "90aa722f-86b5-42d5-bf52-7633f553faf1",
+      "ref": "C97",
+      "value": "470u/25V",
+      "symbolUuid": "c249695b-cd3f-4314-a0fe-15b0cf48923d",
+      "libId": "Capacitor_SMD:CP_Elec_10x10.5",
+      "at": {
+        "x": 12.25,
+        "y": 67.5
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "+12V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "20167f77-ffc6-4497-a31f-90b59afbe7fd",
+      "ref": "C32",
+      "value": "1u",
+      "symbolUuid": "0aaf697e-894a-4f2a-a3f8-80e0b30d22b3",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 37.04,
+        "y": 114.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U3_VCC",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "64aa7c17-ac29-4f03-bcad-e6829d304149",
+      "ref": "C6",
+      "value": "100n",
+      "symbolUuid": "cff4d60f-a596-4ce5-aca6-0818985387cf",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 49.16,
+        "y": 114.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U6_VCAP",
+        "2": "+12V_BUCK"
+      }
+    },
+    {
+      "uuid": "e637e3e4-ba4a-4042-9058-5aba18824eea",
+      "ref": "J5",
+      "value": "RJ45 radio",
+      "symbolUuid": "620050ea-4b94-46f3-9e1a-3e17e186748b",
+      "libId": "LCSC:RJ45-TH_R-RJ45R08P-A004",
+      "at": {
+        "x": 20,
+        "y": 125.18
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "ETH_1",
+        "2": "ETH_2",
+        "3": "ETH_3",
+        "4": "PORT_P",
+        "5": "PORT_P",
+        "6": "ETH_6",
+        "7": "PORT_N",
+        "8": "PORT_N"
+      }
+    },
+    {
+      "uuid": "f42b16a5-472a-440f-a547-83477083590e",
+      "ref": "J6",
+      "value": "RJ45 laptop",
+      "symbolUuid": "6e1ed357-ac1a-4db3-b23f-1fb002389ffa",
+      "libId": "LCSC:RJ45-TH_R-RJ45R08P-A004",
+      "at": {
+        "x": 19.7,
+        "y": 7.82
+      },
+      "rotation": 180,
+      "side": "F",
+      "padNets": {
+        "1": "ETH_1",
+        "2": "ETH_2",
+        "3": "ETH_3",
+        "4": "N$16",
+        "5": "N$17",
+        "6": "ETH_6",
+        "7": "N$18",
+        "8": "N$19"
+      }
+    },
+    {
+      "uuid": "189af53e-098a-4665-89ac-0b2ea22efa58",
+      "ref": "R30",
+      "value": "100k",
+      "symbolUuid": "a8833154-9ce5-43d4-bf49-cf8b7eaaa20f",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 43.13,
+        "y": 114.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+12V_BUCK",
+        "2": "U3_FB"
+      }
+    },
+    {
+      "uuid": "dd30cf89-194f-4be9-a803-47e69d3f5a10",
+      "ref": "R31",
+      "value": "9.09k",
+      "symbolUuid": "e8a60964-a4a5-4de4-9448-37e0611ea20e",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 46.13,
+        "y": 114.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U3_FB",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "9197ead7-3c87-47c2-9c78-b00b8b54192d",
+      "ref": "C43",
+      "value": "100n",
+      "symbolUuid": "e6c67dc7-6ffb-47ed-937a-cf337e050360",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 38.23,
+        "y": 35.83
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U4_BOOT",
+        "2": "U4_SW"
+      }
+    },
+    {
+      "uuid": "b7fd59e6-9a47-4f82-aca6-03868f5f81db",
+      "ref": "R96",
+      "value": "20m 1W",
+      "symbolUuid": "8d1a4d86-9c41-4569-8da2-8b6f9b8070e5",
+      "libId": "Resistor_SMD:R_2512_6332Metric",
+      "at": {
+        "x": 10.14,
+        "y": 28.32
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "+15V6_BUCK",
+        "2": "+15V6_S"
+      }
+    },
+    {
+      "uuid": "4768d8b7-e9ea-4a15-ba9f-c6bf0919de6f",
+      "ref": "L4",
+      "value": "SRP7028A-100M 10u 5A",
+      "symbolUuid": "8cd3163b-32aa-4d56-9027-b8b3995a496f",
+      "libId": "Inductor_SMD:L_Bourns_SRP7028A_7.3x6.6mm",
+      "at": {
+        "x": 22.77,
+        "y": 20.15
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "U4_SW",
+        "2": "+15V6_BUCK"
+      }
+    },
+    {
+      "uuid": "159ae750-98fc-47e3-ab0b-9ac7851a5dd2",
+      "ref": "Q7",
+      "value": "SI4470EY",
+      "symbolUuid": "3929b686-b226-4c5e-9aa8-ec4fcb87a637",
+      "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+      "at": {
+        "x": 9.2,
+        "y": 35.83
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "U7_GATE",
+        "2": "+15V6_S",
+        "3": "LAPTOP_OUT"
+      }
+    },
+    {
+      "uuid": "5d9baebd-e45b-4468-a517-3b7b4796d2bd",
+      "ref": "C40",
+      "value": "10u/50V",
+      "symbolUuid": "39507256-d276-4c78-9ba9-c127137ba144",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 7.1,
+        "y": 20.15
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "b5f8fa5c-e879-400c-b0d4-432c820b36b9",
+      "ref": "C41",
+      "value": "220n/50V",
+      "symbolUuid": "2bfed034-a872-4de1-8dfe-d6a59cfcee01",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 44.35,
+        "y": 35.83
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "7beaf2f6-b656-4fa5-9a7e-163c9b07358f",
+      "ref": "U4",
+      "value": "LMR33630 15.6V",
+      "symbolUuid": "e52a26cc-d35b-4b2b-8f65-69c97704ba85",
+      "libId": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
+      "at": {
+        "x": 13.5,
+        "y": 20.15
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "VIN",
+        "3": "LAPTOP_EN",
+        "4": "N$5",
+        "5": "U4_FB",
+        "6": "U4_VCC",
+        "7": "U4_BOOT",
+        "8": "U4_SW",
+        "9": "GND"
+      }
+    },
+    {
+      "uuid": "b3fb92f8-d946-4dda-8665-fa9a8267b3d7",
+      "ref": "U7",
+      "value": "LM74700-Q1",
+      "symbolUuid": "625db164-6228-4207-82be-7c8ef8c631a0",
+      "libId": "Package_TO_SOT_SMD:SOT-23-6",
+      "at": {
+        "x": 16.05,
+        "y": 35.83
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "U7_VCAP",
+        "2": "GND",
+        "3": "+15V6_S",
+        "4": "LAPTOP_OUT",
+        "5": "U7_GATE",
+        "6": "+15V6_S"
+      }
+    },
+    {
+      "uuid": "2d53f85b-ed64-41df-80fa-375f1e910010",
+      "ref": "J3",
+      "value": "Laptop out 15.6V, PJ-002BH 5.5x2.5 (v1 jack)",
+      "symbolUuid": "1bd6b4a0-52e2-4c4a-b65c-d216fc24aba9",
+      "libId": "LCSC:DC-IN-TH_PJ-002BH",
+      "at": {
+        "x": 35,
+        "y": 10.8
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_OUT",
+        "2": "GND",
+        "3": "N$6"
+      }
+    },
+    {
+      "uuid": "db5f102f-3f9e-4554-84e7-40ebfda9b1da",
+      "ref": "C44",
+      "value": "22u/25V",
+      "symbolUuid": "815316a5-ebc9-4f29-9351-7db855073c4c",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 45.88,
+        "y": 28.32
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+15V6_BUCK",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "2d009c01-b107-438a-ba92-f0e6566e9d6d",
+      "ref": "C45",
+      "value": "22u/25V",
+      "symbolUuid": "908dc88e-079f-445c-875d-79bb65bad53b",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 35.25,
+        "y": 20.15
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+15V6_BUCK",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "03d36030-2acb-4b15-9906-4b7f0ee25c0b",
+      "ref": "C46",
+      "value": "22u/25V",
+      "symbolUuid": "6ec156b0-858f-4e83-a3c7-ae39f54d0a92",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 39.55,
+        "y": 20.15
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+15V6_BUCK",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "bab298bd-350d-4975-9b54-914e2e6faa75",
+      "ref": "C47",
+      "value": "22u/25V",
+      "symbolUuid": "d3488116-9f9d-44f2-89dc-2a4a33fa0116",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 43.85,
+        "y": 20.15
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+15V6_BUCK",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "7ddaabae-c2c1-49fe-9371-2d72de7ed556",
+      "ref": "U42",
+      "value": "INA180A2",
+      "symbolUuid": "3137326b-43e9-4674-a015-f9b6f36c84fd",
+      "libId": "Package_TO_SOT_SMD:SOT-23-5",
+      "at": {
+        "x": 23.13,
+        "y": 28.32
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_ISENSE",
+        "2": "GND",
+        "3": "+15V6_BUCK",
+        "4": "+15V6_S",
+        "5": "GND"
+      }
+    },
+    {
+      "uuid": "08c6fcb0-c1b5-456d-b8e1-a258662a035e",
+      "ref": "C116",
+      "value": "100n",
+      "symbolUuid": "24b1d33f-c3fe-40d2-bb97-7b60b308585a",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 29.05,
+        "y": 35.83
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "843e0efe-9913-40f4-bb37-aba5c029a862",
+      "ref": "C42",
+      "value": "1u",
+      "symbolUuid": "d8afe153-1581-4147-8e3e-5f705b17b89d",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 41.29,
+        "y": 35.83
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U4_VCC",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "48422d64-ee1b-4698-8337-1627185456c1",
+      "ref": "C7",
+      "value": "100n",
+      "symbolUuid": "80d101c9-e4b8-4a99-8166-d72c013f9c82",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 20.18,
+        "y": 35.83
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U7_VCAP",
+        "2": "+15V6_S"
+      }
+    },
+    {
+      "uuid": "9650288d-e05e-494d-bf36-d387d514bc21",
+      "ref": "R40",
+      "value": "100k",
+      "symbolUuid": "c43747eb-44d5-4edf-9b19-d1ade013ca7e",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 36.23,
+        "y": 28.32
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+15V6_BUCK",
+        "2": "U4_FB"
+      }
+    },
+    {
+      "uuid": "6fda476b-ac80-4039-b453-c75fbde708cd",
+      "ref": "R99",
+      "value": "10k",
+      "symbolUuid": "f99308c4-b23d-40ee-aca0-30cac31f12bd",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 33.23,
+        "y": 28.32
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_ILIM_PWM",
+        "2": "LAPTOP_ILIM"
+      }
+    },
+    {
+      "uuid": "00a69304-d09c-4aea-b3c7-5a816560a069",
+      "ref": "R97",
+      "value": "100k",
+      "symbolUuid": "f4f7a68b-f88e-475e-b364-ca3eccd334d1",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 27.22,
+        "y": 28.32
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_ILIM",
+        "2": "LAPTOP_ILIM_N"
+      }
+    },
+    {
+      "uuid": "784a00b1-9d44-44fb-bf04-5a4860e93458",
+      "ref": "U43",
+      "value": "LMV321",
+      "symbolUuid": "ea4c1b2e-69a0-4d22-b7e7-5bee7dbf67c9",
+      "libId": "Package_TO_SOT_SMD:SOT-23-5",
+      "at": {
+        "x": 17.93,
+        "y": 28.32
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_ISENSE",
+        "2": "GND",
+        "3": "LAPTOP_ILIM_N",
+        "4": "LAPTOP_CC",
+        "5": "GND"
+      }
+    },
+    {
+      "uuid": "c20030d5-221f-451c-b268-76172c2f744b",
+      "ref": "D40",
+      "value": "1N4148W",
+      "symbolUuid": "20a68f97-5e43-43b6-949f-49069fc6c61e",
+      "libId": "Diode_SMD:D_SOD-123",
+      "at": {
+        "x": 24.61,
+        "y": 35.83
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_CC_D",
+        "2": "LAPTOP_CC"
+      }
+    },
+    {
+      "uuid": "9ecedf02-06a1-4eb7-b5aa-48c856d49e0b",
+      "ref": "R98",
+      "value": "4.7k",
+      "symbolUuid": "2ff7ed29-2751-48ef-ba70-c51d990524a0",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 30.22,
+        "y": 28.32
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_CC_D",
+        "2": "U4_FB"
+      }
+    },
+    {
+      "uuid": "3da8ffda-6894-4f60-8a26-86fc973132eb",
+      "ref": "R26",
+      "value": "100k",
+      "symbolUuid": "fe700014-c494-4943-85d6-5a637e1586d4",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 55.81,
+        "y": 34
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "BOOST_SD"
+      }
+    },
+    {
+      "uuid": "902388ac-4b4b-47c4-8e0e-810def5fc6e4",
+      "ref": "C130",
+      "value": "4.7u",
+      "symbolUuid": "eb12af85-5986-446d-8df7-358d41ffa9de",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 61.28,
+        "y": 20.15
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "af6e5bb7-18bb-4268-a62d-9f0e8e449e48",
+      "ref": "C131",
+      "value": "100n",
+      "symbolUuid": "8a0f92ff-f50d-4054-bda6-a6f249a468ac",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 64.24,
+        "y": 20.15
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "19e83517-cf8c-47e7-8f6f-74cc17612aa2",
+      "ref": "C132",
+      "value": "100n",
+      "symbolUuid": "50b89c8e-fda9-4746-9c5e-fbf83e092cdf",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 67.2,
+        "y": 20.15
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "895e50e3-d95d-4a72-9f27-d7c94d0ac225",
+      "ref": "C133",
+      "value": "100n",
+      "symbolUuid": "802c84c3-f7e8-4124-933c-9a2b5d304286",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 49.98,
+        "y": 28.8
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "36d4c19d-2ec0-4619-aa18-ba3c31842ac0",
+      "ref": "R41",
+      "value": "6.81k",
+      "symbolUuid": "64b7dca1-4759-45d0-a367-f8f944060644",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 39.23,
+        "y": 28.32
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U4_FB",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "edb86954-1e0e-4614-9446-a64464de7234",
+      "ref": "R92",
+      "value": "100k",
+      "symbolUuid": "5c57b4ac-808b-49d9-af90-9c11ce5dfd40",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 42.23,
+        "y": 28.32
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_EN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "9b3a873c-bd73-4c1f-8206-7dd044a76848",
+      "ref": "C117",
+      "value": "10n",
+      "symbolUuid": "afd8e9b2-5a42-47ef-a9e2-3983ebbbf1e4",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 32.11,
+        "y": 35.83
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_CC",
+        "2": "LAPTOP_ILIM_N"
+      }
+    },
+    {
+      "uuid": "3836467c-2650-4f4d-827a-2d2020899b86",
+      "ref": "R100",
+      "value": "100k",
+      "symbolUuid": "331a4d44-2899-46f2-ae07-4692b8fbf1aa",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 58.71,
+        "y": 34
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "TEST_LOAD",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "4e3628df-3c61-4284-91cf-57c83a7ff60d",
+      "ref": "C118",
+      "value": "1u",
+      "symbolUuid": "be84644e-35cb-4fd1-88a8-64de9721f021",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 35.17,
+        "y": 35.83
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "LAPTOP_ILIM",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "722305de-16f2-408b-ab2e-f29f0590043c",
+      "ref": "R112",
+      "value": "10R",
+      "symbolUuid": "e4f7dde1-e543-4ccb-b13f-266e70dced57",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 64.51,
+        "y": 34
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "MCU_VDDA"
+      }
+    },
+    {
+      "uuid": "0c9b4ffe-6f80-4c18-b4d8-052cadea0659",
+      "ref": "C134",
+      "value": "1u",
+      "symbolUuid": "30508698-9672-4447-b8bb-348c3a4cec89",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 52.94,
+        "y": 28.8
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "MCU_VDDA",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "fcab6da6-337d-4fb8-8982-63f67b2cf385",
+      "ref": "C135",
+      "value": "10n",
+      "symbolUuid": "919b5a58-a85f-4306-bf7b-80740f05fa7d",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 55.9,
+        "y": 28.8
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "MCU_VDDA",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "34586cf7-1fc8-4317-95d8-fc0eaadffb8e",
+      "ref": "C53",
+      "value": "100n",
+      "symbolUuid": "c61108f5-b91d-4358-959c-ff57dee29a1b",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 54,
+        "y": 128.72
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U5_BOOT",
+        "2": "U5_SW"
+      }
+    },
+    {
+      "uuid": "6d1f6aac-cae7-4c80-8eeb-f38f12e47ac7",
+      "ref": "SW1",
+      "value": "RESET",
+      "symbolUuid": "e05fca74-d5aa-403f-9851-22a2bfbf5716",
+      "libId": "Button_Switch_SMD:SW_SPST_B3U-1000P",
+      "at": {
+        "x": 4,
+        "y": 9.5
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "MCU_NRST",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "4a058f85-5e65-45f3-bfbd-e25dc0518d2b",
+      "ref": "U40",
+      "value": "STM32F072CBT6",
+      "symbolUuid": "b29775b7-09c9-4e69-a0b9-46341f852a8c",
+      "libId": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+      "at": {
+        "x": 54.15,
+        "y": 20.15
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "N$20",
+        "3": "N$21",
+        "4": "N$22",
+        "5": "N$23",
+        "6": "N$24",
+        "7": "MCU_NRST",
+        "8": "GND",
+        "9": "MCU_VDDA",
+        "10": "VIN_SENSE",
+        "11": "PACK_SENSE",
+        "12": "PASSIVE_IMON",
+        "13": "TEMP_SENSE",
+        "14": "FAN_SENSE",
+        "15": "USB_ISENSE",
+        "16": "FAN_PWM",
+        "17": "DCIN_SENSE",
+        "18": "N$25",
+        "19": "LAPTOP_ISENSE",
+        "20": "LAPTOP_EN",
+        "21": "PD_SCL",
+        "22": "PD_SDA",
+        "23": "GND",
+        "24": "GND",
+        "25": "TEST_LOAD",
+        "26": "BOOST_SD",
+        "27": "PASSIVE_EN",
+        "28": "PSE_EN",
+        "29": "LED_DATA",
+        "30": "LAPTOP_ILIM_PWM",
+        "31": "BK_KILL",
+        "32": "USB_D-",
+        "33": "USB_D+",
+        "34": "SWDIO",
+        "35": "GND",
+        "36": "GND",
+        "37": "SWCLK",
+        "38": "N$26",
+        "39": "BK_ON",
+        "40": "PASSIVE_FLT",
+        "41": "PSE_ON",
+        "42": "UART_TX",
+        "43": "UART_RX",
+        "44": "MCU_BOOT0",
+        "45": "PD_PG",
+        "46": "N$27",
+        "47": "GND",
+        "48": "GND"
+      }
+    },
+    {
+      "uuid": "8ad19391-0d17-4857-9ea9-94e7a69c8d6b",
+      "ref": "L5",
+      "value": "SRP7028A-100M 10u 5A",
+      "symbolUuid": "033d950f-e507-4bee-8068-be631a5cfff6",
+      "libId": "Inductor_SMD:L_Bourns_SRP7028A_7.3x6.6mm",
+      "at": {
+        "x": 38.48,
+        "y": 120.55
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "U5_SW",
+        "2": "+5V"
+      }
+    },
+    {
+      "uuid": "702f25bd-ee96-4ce1-b0d4-b03b20af4cd4",
+      "ref": "C50",
+      "value": "10u/50V",
+      "symbolUuid": "8206a9ac-5f84-4a48-820e-f4137a8dc19c",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 58.45,
+        "y": 120.55
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "c28609d4-d255-4b3a-a00a-72dc8fb16f98",
+      "ref": "C51",
+      "value": "220n/50V",
+      "symbolUuid": "4fa09ee8-e462-4dd1-aff1-ee83ec1a432e",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 47.88,
+        "y": 128.72
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "VIN",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "b5cc6057-8df6-46d5-9714-b784608ef47e",
+      "ref": "C136",
+      "value": "100n",
+      "symbolUuid": "16803032-c29e-41de-8bb1-23b53ab3d91d",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 58.86,
+        "y": 28.8
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "MCU_NRST",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "cbd4dda3-c4f1-4940-bf5d-d1e68ce2cc18",
+      "ref": "U5",
+      "value": "LMR33630 5V",
+      "symbolUuid": "615711ed-84d5-4dd4-8ead-ad9f254027dd",
+      "libId": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
+      "at": {
+        "x": 47.75,
+        "y": 120.55
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "VIN",
+        "3": "VIN",
+        "4": "N$7",
+        "5": "U5_FB",
+        "6": "U5_VCC",
+        "7": "U5_BOOT",
+        "8": "U5_SW",
+        "9": "GND"
+      }
+    },
+    {
+      "uuid": "502d009d-0e2f-43e6-ae66-5f589329cf40",
+      "ref": "C54",
+      "value": "22u/25V",
+      "symbolUuid": "58ea0a50-aab3-447f-a766-37a9d3d0dc50",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 54.15,
+        "y": 120.55
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "ca9631fe-f099-44df-ac2b-c3e53c22d34a",
+      "ref": "C55",
+      "value": "22u/25V",
+      "symbolUuid": "235b25ca-c811-4a22-abe2-2380d509d7cf",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 35.6,
+        "y": 128.72
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "c75a38a7-14b0-483c-93a6-b5e4f2bbb939",
+      "ref": "C56",
+      "value": "22u/25V",
+      "symbolUuid": "c2dbda4f-2b13-40d0-bf26-bbc431712b6c",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 39.9,
+        "y": 128.72
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "d4529b02-b865-4b84-8474-e7f7d41d7035",
+      "ref": "C57",
+      "value": "22u/25V",
+      "symbolUuid": "e7ba4b1f-c782-481e-82ac-8e57e248594c",
+      "libId": "Capacitor_SMD:C_1210_3225Metric",
+      "at": {
+        "x": 44.2,
+        "y": 128.72
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "b0242d2f-15f7-47fb-94c3-397538088de4",
+      "ref": "SW2",
+      "value": "BOOT0 (DFU)",
+      "symbolUuid": "60565e64-1bc1-47cc-ba9e-95359d04df12",
+      "libId": "Button_Switch_SMD:SW_SPST_B3U-1000P",
+      "at": {
+        "x": 4,
+        "y": 13.5
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "MCU_BOOT0",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "ea26d8c4-dba5-407a-96f7-2f6120c30703",
+      "ref": "C52",
+      "value": "1u",
+      "symbolUuid": "92abb85a-206d-4682-8db7-ca1e776c9c10",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 50.94,
+        "y": 128.72
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U5_VCC",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "c626517e-c23f-4412-9a5e-e137e588a57c",
+      "ref": "R50",
+      "value": "100k",
+      "symbolUuid": "ce0c22bc-a17c-49dd-a582-e0d709d974e2",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 57.03,
+        "y": 128.72
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "U5_FB"
+      }
+    },
+    {
+      "uuid": "945cee6b-6ee1-48d0-abc1-b7400eb829b9",
+      "ref": "U30",
+      "value": "SN74AHCT1G125",
+      "symbolUuid": "01fa8ef1-1884-4478-94ee-370afe8a56a9",
+      "libId": "Package_TO_SOT_SMD:SOT-23-5",
+      "at": {
+        "x": 62.89,
+        "y": 28.8
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "LED_DATA",
+        "3": "GND",
+        "4": "LED_D0",
+        "5": "+5V"
+      }
+    },
+    {
+      "uuid": "6dbdb330-e56b-4ef2-96da-95c00e2c0c7b",
+      "ref": "R103",
+      "value": "100R",
+      "symbolUuid": "ad752f0b-064d-477a-8223-13a37594e59c",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 52.91,
+        "y": 34
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "LED_D0",
+        "2": "LED_D0"
+      }
+    },
+    {
+      "uuid": "f5490a37-9c86-435e-be3f-587d41790edb",
+      "ref": "D30",
+      "value": "WS2812B-4020 power LED",
+      "symbolUuid": "4e6858cd-8978-4531-a444-e74d5b53b9f4",
+      "libId": "LCSC:LED-SMD_WS2812B-4020",
+      "at": {
+        "x": 82.35,
+        "y": 21.5
+      },
+      "rotation": 270,
+      "side": "F",
+      "padNets": {
+        "1": "LED_D0",
+        "2": "+5V",
+        "3": "LED_D1",
+        "4": "GND"
+      }
+    },
+    {
+      "uuid": "d4274ed9-9d26-4474-8fde-d6a53d46ddc9",
+      "ref": "D31",
+      "value": "WS2812B-4020 radio LED",
+      "symbolUuid": "0bc8bb8b-90ae-4e3c-b97a-f05394355bad",
+      "libId": "LCSC:LED-SMD_WS2812B-4020",
+      "at": {
+        "x": 31.5,
+        "y": 131.35
+      },
+      "rotation": 180,
+      "side": "F",
+      "padNets": {
+        "1": "LED_D1",
+        "2": "+5V",
+        "3": "LED_D2",
+        "4": "GND"
+      }
+    },
+    {
+      "uuid": "38f9480f-94e6-403b-a575-aa717466d14d",
+      "ref": "J13",
+      "value": "Lid LEDs",
+      "symbolUuid": "99a61cda-9b96-4ec7-a51a-2e22fd0854fa",
+      "libId": "LCSC:CONN-TH_XH-3A",
+      "at": {
+        "x": 10.5,
+        "y": 90.5
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "LED_D2",
+        "3": "GND"
+      }
+    },
+    {
+      "uuid": "466e571e-0f0f-4dba-b551-fb0d74e66318",
+      "ref": "R111",
+      "value": "10k",
+      "symbolUuid": "624cd431-036c-49f3-9cfb-3118b8d74103",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 61.61,
+        "y": 34
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "MCU_BOOT0",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "8bfae279-18bf-4299-900e-cd47f0834bf5",
+      "ref": "R51",
+      "value": "24.9k",
+      "symbolUuid": "bafeec03-5eca-4c4c-aa46-9b7b8257729d",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 60.03,
+        "y": 128.72
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "U5_FB",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "d9a8d609-cdb2-49fe-975c-87b4551637e8",
+      "ref": "C110",
+      "value": "100n",
+      "symbolUuid": "94f1a9f8-5da7-4f14-9c73-5baa0279cfbb",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 49.98,
+        "y": 34
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "d7ed8c2d-8187-4a08-84d0-3365c14515ba",
+      "ref": "C111",
+      "value": "100n",
+      "symbolUuid": "77e4ef6d-6136-4920-97fe-8e2057acfc47",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 77.98,
+        "y": 71.38
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "ac0d6ae7-025a-4da1-911c-ac80fb8da5cc",
+      "ref": "C112",
+      "value": "100n",
+      "symbolUuid": "0bc44e1f-1082-4317-8b77-35e5e06867a4",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 14.59,
+        "y": 108.25
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "981b76f8-1932-4166-b7ea-4340a486be9d",
+      "ref": "J9",
+      "value": "SWD",
+      "symbolUuid": "a24f7345-ed75-4a5c-a8e2-17e602d47f10",
+      "libId": "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",
+      "at": {
+        "x": 55.69,
+        "y": 5
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "SWDIO",
+        "2": "SWCLK",
+        "3": "GND",
+        "4": "GND"
+      }
+    },
+    {
+      "uuid": "7bebffcc-ddb0-4290-b97b-6d7b828e46b8",
+      "ref": "R107",
+      "value": "10k",
+      "symbolUuid": "0e3cd8ec-f9b0-458a-a0c3-053f444ec80e",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 28.51,
+        "y": 108.2
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "TEMP_SENSE"
+      }
+    },
+    {
+      "uuid": "44e5e0d0-c6b7-4807-b359-31ef03aeaaa5",
+      "ref": "J11",
+      "value": "UART",
+      "symbolUuid": "c8f11cb6-7277-4b59-b278-b41bf7219d15",
+      "libId": "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",
+      "at": {
+        "x": 66.99,
+        "y": 5
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "UART_TX",
+        "2": "UART_RX",
+        "3": "GND",
+        "4": "GND"
+      }
+    },
+    {
+      "uuid": "6ce7e3e0-f56b-41ef-a27d-7c655b362ae9",
+      "ref": "J8",
+      "value": "Fan 12V",
+      "symbolUuid": "e9fec2e9-2edc-45d9-9585-5e5296ffa255",
+      "libId": "LCSC:CONN-TH_XH-2A",
+      "at": {
+        "x": 9.5,
+        "y": 83.5
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "+12V",
+        "2": "FAN_N"
+      }
+    },
+    {
+      "uuid": "52c0737e-c80f-4f6c-bd7c-eed63565387b",
+      "ref": "D32",
+      "value": "SS14 flyback",
+      "symbolUuid": "9180a2c5-d61d-4dcc-aa2d-71ee3fe09cd1",
+      "libId": "Diode_SMD:D_SMA",
+      "at": {
+        "x": 9,
+        "y": 97.75
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "+12V",
+        "2": "FAN_N"
+      }
+    },
+    {
+      "uuid": "03acab85-cd5a-4be4-b5dd-3f6a963cb61b",
+      "ref": "RT1",
+      "value": "10k NTC",
+      "symbolUuid": "8a7b4a6a-dd02-4f6f-9319-996e98c63bfc",
+      "libId": "Resistor_SMD:R_0603_1608Metric",
+      "at": {
+        "x": 25.73,
+        "y": 108.2
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "TEMP_SENSE",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "0888b1e3-bf72-4d31-9cff-3dcc7ebb475d",
+      "ref": "C114",
+      "value": "100n",
+      "symbolUuid": "fd3ee782-33b0-480c-bd47-e0761424ace9",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 31.54,
+        "y": 108.2
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "TEMP_SENSE",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "698fa01b-1d0c-4fd5-a228-abd263d86d71",
+      "ref": "R84",
+      "value": "1M",
+      "symbolUuid": "b92218e9-5b66-4b8d-8523-a9643c5536c3",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 6.45,
+        "y": 57.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BK_ON",
+        "2": "BK_REF"
+      }
+    },
+    {
+      "uuid": "ade3ca56-206c-4698-ba86-f0bcc8894bbf",
+      "ref": "R82",
+      "value": "10k",
+      "symbolUuid": "c6757f13-6f69-492d-897c-00814a14ac20",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 33.2,
+        "y": 52.23
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "BK_REF"
+      }
+    },
+    {
+      "uuid": "b080d88e-2bba-4007-adf1-d806ab1d9dab",
+      "ref": "Q30",
+      "value": "AO3400A",
+      "symbolUuid": "092cbc6f-5256-4672-a438-33c3bc48af29",
+      "libId": "Package_TO_SOT_SMD:SOT-23",
+      "at": {
+        "x": 15.54,
+        "y": 97.75
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "FAN_G",
+        "2": "FAN_SHUNT",
+        "3": "FAN_N"
+      }
+    },
+    {
+      "uuid": "67eb5ac9-23b0-4890-80fd-063afd49765f",
+      "ref": "R105",
+      "value": "10k",
+      "symbolUuid": "ee612817-4a53-4f21-aa44-747c6bfbc9e3",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 9.45,
+        "y": 102.98
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "FAN_SHUNT",
+        "2": "FAN_SENSE"
+      }
+    },
+    {
+      "uuid": "1b0a278d-f536-47e6-8924-89d856b5c868",
+      "ref": "Q8",
+      "value": "AOD4185",
+      "symbolUuid": "28149353-ec68-4fae-b853-053e2f0b0fe7",
+      "libId": "Package_TO_SOT_SMD:TO-252-2",
+      "at": {
+        "x": 11.89,
+        "y": 45
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "BK_GATE",
+        "2": "+12V",
+        "3": "PACK_F"
+      }
+    },
+    {
+      "uuid": "2ea503bf-8ac0-4a06-9537-397b04f8d2cd",
+      "ref": "R85",
+      "value": "24R 1W",
+      "symbolUuid": "deb55a4c-fdaa-46d5-be48-7f03fa9f62d6",
+      "libId": "Resistor_SMD:R_2512_6332Metric",
+      "at": {
+        "x": 10.14,
+        "y": 52.23
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "PACK_F",
+        "2": "TEST_NODE"
+      }
+    },
+    {
+      "uuid": "5463324c-8c83-4ba7-95a6-35959e977f03",
+      "ref": "R88",
+      "value": "24R 1W",
+      "symbolUuid": "99174f66-3f67-44b2-8145-c82a2eec66fe",
+      "libId": "Resistor_SMD:R_2512_6332Metric",
+      "at": {
+        "x": 20.51,
+        "y": 52.23
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "PACK_F",
+        "2": "TEST_NODE"
+      }
+    },
+    {
+      "uuid": "3c78c583-be44-4e3e-a31b-b8bc1d03f589",
+      "ref": "R86",
+      "value": "100k",
+      "symbolUuid": "9acdabc8-a085-4138-9e08-50f3f7d8107d",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 9.45,
+        "y": 57.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PACK_F",
+        "2": "PACK_SENSE"
+      }
+    },
+    {
+      "uuid": "bca19e5e-a3a4-4be4-b7d9-3b1e1f20f1c3",
+      "ref": "R106",
+      "value": "100R",
+      "symbolUuid": "7a0c6f32-e054-42f4-8d5e-7c7192d4a10e",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 12.45,
+        "y": 102.98
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "FAN_PWM",
+        "2": "FAN_G"
+      }
+    },
+    {
+      "uuid": "9c2795d3-6d3d-4949-98a9-507b55feeabd",
+      "ref": "R83",
+      "value": "10k",
+      "symbolUuid": "382035fc-069e-4c49-b119-1dd005ec0ecc",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 36.2,
+        "y": 52.23
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BK_REF",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "4f6f228c-9eb7-4072-a33c-446664090256",
+      "ref": "C113",
+      "value": "10n",
+      "symbolUuid": "c4130b23-8ca4-4c12-86e0-9913712cfb41",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 19.55,
+        "y": 97.75
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "FAN_SENSE",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "c610e794-713d-44fb-b35f-4a3d69361062",
+      "ref": "BT1",
+      "value": "CR123A",
+      "symbolUuid": "241679f8-3c16-4794-b180-1346dbcbb04c",
+      "libId": "LCSC:BAT-TH_BH-123A-A5BJ002",
+      "at": {
+        "x": 14.84,
+        "y": 59
+      },
+      "rotation": 90,
+      "side": "B",
+      "padNets": {
+        "1": "PACK_P",
+        "2": "PACK_1"
+      }
+    },
+    {
+      "uuid": "c670e981-9a83-4d29-9e64-375a2243c9b3",
+      "ref": "BT2",
+      "value": "CR123A",
+      "symbolUuid": "49632184-c9c8-4f9b-bfe1-0b1273c864dd",
+      "libId": "LCSC:BAT-TH_BH-123A-A5BJ002",
+      "at": {
+        "x": 34.28,
+        "y": 59
+      },
+      "rotation": 270,
+      "side": "B",
+      "padNets": {
+        "1": "PACK_1",
+        "2": "PACK_2"
+      }
+    },
+    {
+      "uuid": "ff39fffc-f0c0-48cc-933f-4de98a353979",
+      "ref": "BT3",
+      "value": "CR123A",
+      "symbolUuid": "d426de32-5cc5-49af-be82-5a39116fa221",
+      "libId": "LCSC:BAT-TH_BH-123A-A5BJ002",
+      "at": {
+        "x": 53.72,
+        "y": 59
+      },
+      "rotation": 90,
+      "side": "B",
+      "padNets": {
+        "1": "PACK_2",
+        "2": "PACK_3"
+      }
+    },
+    {
+      "uuid": "fea03ec8-bb2e-4349-aad1-c3c30c61424f",
+      "ref": "BT4",
+      "value": "CR123A",
+      "symbolUuid": "6516d48f-d65e-4caf-ad91-9476fece370c",
+      "libId": "LCSC:BAT-TH_BH-123A-A5BJ002",
+      "at": {
+        "x": 73.16,
+        "y": 59
+      },
+      "rotation": 270,
+      "side": "B",
+      "padNets": {
+        "1": "PACK_3",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "346ad419-c143-461f-8f3f-635a03a5eda3",
+      "ref": "F1",
+      "value": "2A",
+      "symbolUuid": "e28929f7-9428-4668-9359-a131e20958e3",
+      "libId": "Fuse:Fuse_1206_3216Metric",
+      "at": {
+        "x": 42.45,
+        "y": 45
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PACK_P",
+        "2": "PACK_F"
+      }
+    },
+    {
+      "uuid": "d517d824-e29c-444a-aa84-2683aee8bbc3",
+      "ref": "U10",
+      "value": "TLV7011",
+      "symbolUuid": "be3c0c1e-bcda-4ab4-91ff-f9d7d9c9965f",
+      "libId": "Package_TO_SOT_SMD:SOT-23-5",
+      "at": {
+        "x": 28.25,
+        "y": 45
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "BK_ON",
+        "2": "GND",
+        "3": "BK_REF",
+        "4": "VIN_SENSE",
+        "5": "GND"
+      }
+    },
+    {
+      "uuid": "71c04458-4706-4bc9-bb77-6f5bda89653b",
+      "ref": "C99",
+      "value": "100n",
+      "symbolUuid": "0389c293-48b4-4e9e-9327-395e6ee354a3",
+      "libId": "Capacitor_SMD:C_0805_2012Metric",
+      "at": {
+        "x": 18.48,
+        "y": 57.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "0ca85b5a-eec5-4d2d-a3a0-e0d743532947",
+      "ref": "R104",
+      "value": "1R",
+      "symbolUuid": "b5b701d7-5644-4896-9826-3d45a7de14ef",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 6.45,
+        "y": 102.98
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "FAN_SHUNT",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "d1e143bd-2bfd-4950-ac80-625290ef6cfe",
+      "ref": "R87",
+      "value": "11.5k",
+      "symbolUuid": "0299450a-f318-41ea-9f78-6cb0d4d50c4d",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 12.45,
+        "y": 57.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PACK_SENSE",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "337b1c18-99d2-42cb-b039-58efefe5015f",
+      "ref": "R101",
+      "value": "100k",
+      "symbolUuid": "922637cf-3c33-4344-9716-301e3dd324df",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 22.58,
+        "y": 97.75
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "FAN_G",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "13b9b99c-a90d-4c32-9b1b-e5a9b8adb8bc",
+      "ref": "R80",
+      "value": "100k",
+      "symbolUuid": "e3a57eee-adb9-4ba2-969d-51486c0b3f4f",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 27.2,
+        "y": 52.23
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "PACK_F",
+        "2": "BK_GATE"
+      }
+    },
+    {
+      "uuid": "85293382-e57d-4c58-b4a6-f02eebbc122b",
+      "ref": "Q9",
+      "value": "2N7002",
+      "symbolUuid": "f0e1250f-2311-4903-b346-28318f923542",
+      "libId": "Package_TO_SOT_SMD:SOT-23",
+      "at": {
+        "x": 33.33,
+        "y": 45
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "BK_DRV",
+        "2": "GND",
+        "3": "BK_GATE"
+      }
+    },
+    {
+      "uuid": "348e06ec-b9cf-4f48-97a6-ea67891e8d6a",
+      "ref": "Q11",
+      "value": "SI4470EY",
+      "symbolUuid": "cc0488f0-b414-41fe-bbac-3da83a6a8468",
+      "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+      "at": {
+        "x": 21.4,
+        "y": 45
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "TEST_LOAD",
+        "2": "GND",
+        "3": "TEST_NODE"
+      }
+    },
+    {
+      "uuid": "7bde5dd0-2ad7-4f7f-93c6-60377229ff51",
+      "ref": "R81",
+      "value": "1k",
+      "symbolUuid": "f721c695-daeb-4ad3-a90e-876df7d7ba8a",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 30.2,
+        "y": 52.23
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BK_ON",
+        "2": "BK_DRV"
+      }
+    },
+    {
+      "uuid": "fc2c89e4-b28b-4f1d-bd38-8aedddf665af",
+      "ref": "Q10",
+      "value": "2N7002",
+      "symbolUuid": "7f245b9c-1741-4927-bcb9-766771c6bcb0",
+      "libId": "Package_TO_SOT_SMD:SOT-23",
+      "at": {
+        "x": 38.29,
+        "y": 45
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "BK_KILL",
+        "2": "GND",
+        "3": "BK_DRV"
+      }
+    },
+    {
+      "uuid": "6167c2d8-5ed1-450d-9ec0-0050d1fe2a23",
+      "ref": "R89",
+      "value": "100k",
+      "symbolUuid": "f4b1a18a-58f4-4d41-a89d-b30a48eed297",
+      "libId": "Resistor_SMD:R_0805_2012Metric",
+      "at": {
+        "x": 15.45,
+        "y": 57.66
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "BK_KILL",
+        "2": "GND"
+      }
+    },
+    {
+      "uuid": "a1674d9f-81a7-4058-a776-45fff0b52ccd",
+      "ref": "U51",
+      "value": "AP2112K-3.3",
+      "symbolUuid": "efe79e5d-b712-4527-b534-ba186d233b42",
+      "libId": "Package_TO_SOT_SMD:SOT-23-5",
+      "at": {
+        "x": 64.05,
+        "y": 12.3
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "GND",
+        "3": "+5V",
+        "4": "N$8",
+        "5": "GND"
+      },
+      "blockId": "47b6c52e-3584-4a2f-83d5-52965c15a9fc"
+    },
+    {
+      "uuid": "5e4c361d-64c3-4272-a38b-64ce1475ba4f",
+      "ref": "C141",
+      "value": "1u",
+      "symbolUuid": "0c627fe2-53b5-499f-bdd9-8790f1bec6cf",
+      "libId": "Capacitor_SMD:C_0603_1608Metric",
+      "at": {
+        "x": 55.05,
+        "y": 12.3
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "+5V",
+        "2": "GND"
+      },
+      "blockId": "47b6c52e-3584-4a2f-83d5-52965c15a9fc"
+    },
+    {
+      "uuid": "1a8a508c-98cb-4ae0-9008-f859524c0482",
+      "ref": "C142",
+      "value": "10u",
+      "symbolUuid": "fe3e98b6-ece7-4b22-b90d-735ee55da24d",
+      "libId": "Capacitor_SMD:C_0603_1608Metric",
+      "at": {
+        "x": 57.61,
+        "y": 12.3
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "GND",
+        "2": "GND"
+      },
+      "blockId": "47b6c52e-3584-4a2f-83d5-52965c15a9fc"
+    },
+    {
+      "uuid": "f532f05c-dd32-46b1-a8ff-b93afdaed68f",
+      "ref": "R122",
+      "value": "5.1k",
+      "symbolUuid": "09df39fe-72d1-4d2b-9108-d69b35b82339",
+      "libId": "Resistor_SMD:R_0603_1608Metric",
+      "at": {
+        "x": 49.93,
+        "y": 12.3
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "CC1",
+        "2": "GND"
+      },
+      "blockId": "b9e9aa21-46d0-4ca1-9e69-5ead0877d9d6"
+    },
+    {
+      "uuid": "2d71d60e-0cc8-4b4d-be88-920757e7c614",
+      "ref": "R123",
+      "value": "5.1k",
+      "symbolUuid": "1f381102-b667-4aef-ad5b-c41142d334a4",
+      "libId": "Resistor_SMD:R_0603_1608Metric",
+      "at": {
+        "x": 52.49,
+        "y": 12.3
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "CC2",
+        "2": "GND"
+      },
+      "blockId": "b9e9aa21-46d0-4ca1-9e69-5ead0877d9d6"
+    },
+    {
+      "uuid": "57284a78-3ba5-4ecc-9a50-eaab364ccfa4",
+      "ref": "C143",
+      "value": "10u",
+      "symbolUuid": "3b2923fd-5e55-4fb7-ac38-37f811044abc",
+      "libId": "Capacitor_SMD:C_0603_1608Metric",
+      "at": {
+        "x": 60.17,
+        "y": 12.3
+      },
+      "rotation": 90,
+      "side": "F",
+      "padNets": {
+        "1": "USB_VBUS",
+        "2": "GND"
+      },
+      "blockId": "b9e9aa21-46d0-4ca1-9e69-5ead0877d9d6"
+    },
+    {
+      "uuid": "cf7f1c48-dbbb-4e75-a340-ae61fcc4048a",
+      "ref": "J12",
+      "value": "USB-C",
+      "symbolUuid": "ccbf91e1-b9f4-40b0-abbf-592f88e51deb",
+      "libId": "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12",
+      "at": {
+        "x": 48.5,
+        "y": 3.35
+      },
+      "rotation": 180,
+      "side": "F",
+      "padNets": {
+        "A1": "GND",
+        "A4": "USB_VBUS",
+        "A5": "CC1",
+        "A6": "USB_DP_CON",
+        "A7": "USB_DM_CON",
+        "A8": "N$28",
+        "B1": "GND",
+        "B4": "USB_VBUS",
+        "B5": "CC2",
+        "B6": "USB_DP_CON",
+        "B7": "USB_DM_CON",
+        "B8": "N$29",
+        "S1": "GND",
+        "B12": "GND",
+        "B9": "USB_VBUS",
+        "A9": "USB_VBUS",
+        "A12": "GND"
+      },
+      "blockId": "b9e9aa21-46d0-4ca1-9e69-5ead0877d9d6"
+    },
+    {
+      "uuid": "1dd7918c-0881-4f94-9c6e-57aecb13f69c",
+      "ref": "U52",
+      "value": "USBLC6-2SC6",
+      "symbolUuid": "fbb2285d-c168-4018-b67e-0c68e2045368",
+      "libId": "Package_TO_SOT_SMD:SOT-23-6",
+      "at": {
+        "x": 46.05,
+        "y": 12.3
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {
+        "1": "USB_DM_CON",
+        "2": "GND",
+        "3": "USB_DP_CON",
+        "4": "USB_D+",
+        "5": "USB_VBUS",
+        "6": "USB_D-"
+      },
+      "blockId": "b9e9aa21-46d0-4ca1-9e69-5ead0877d9d6"
+    },
+    {
+      "uuid": "c4c91ddb-00a6-4cbe-937f-94e3030bf4e4",
+      "ref": "H1",
+      "value": "M3 mount",
+      "libId": "MountingHole:MountingHole_3.2mm_M3",
+      "at": {
+        "x": 4,
+        "y": 4
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {}
+    },
+    {
+      "uuid": "ae773e0f-09aa-4268-83d3-c81a296ba3c3",
+      "ref": "H2",
+      "value": "M3 mount",
+      "libId": "MountingHole:MountingHole_3.2mm_M3",
+      "at": {
+        "x": 80,
+        "y": 4
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {}
+    },
+    {
+      "uuid": "9c9470f2-3a90-489a-b94b-ad4ea6e6ee4f",
+      "ref": "H3",
+      "value": "M3 mount",
+      "libId": "MountingHole:MountingHole_3.2mm_M3",
+      "at": {
+        "x": 4,
+        "y": 129
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {}
+    },
+    {
+      "uuid": "49d1bbad-aca4-4b38-86aa-ffe05efcb6f3",
+      "ref": "H4",
+      "value": "M3 mount",
+      "libId": "MountingHole:MountingHole_3.2mm_M3",
+      "at": {
+        "x": 80,
+        "y": 129
+      },
+      "rotation": 0,
+      "side": "F",
+      "padNets": {}
+    }
+  ],
+  "texts": [
+    {
+      "at": {
+        "x": 8,
+        "y": 343.5
+      },
+      "text": "FILIP KIN",
+      "layer": "F.SilkS",
+      "size": 2.2,
+      "bold": true
+    },
+    {
+      "at": {
+        "x": 8,
+        "y": 346.5
+      },
+      "text": "FRC RADIO KIOSK V2",
+      "layer": "F.SilkS",
+      "size": 1.6,
+      "bold": false
+    },
+    {
+      "at": {
+        "x": 8,
+        "y": 349.5
+      },
+      "text": "REV A   2026-09",
+      "layer": "F.SilkS",
+      "size": 1.6,
+      "bold": false
+    },
+    {
+      "at": {
+        "x": 15.5,
+        "y": 110.4
+      },
+      "text": "FRC RADIO KIOSK v2b",
+      "layer": "F.SilkS",
+      "size": 0.95,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 15.5,
+        "y": 112.4
+      },
+      "text": "Filip Kin  2026",
+      "layer": "F.SilkS",
+      "size": 0.95,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 15.5,
+        "y": 114.2
+      },
+      "text": "filipkin.com",
+      "layer": "F.SilkS",
+      "size": 0.9,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 19.7,
+        "y": 15.2
+      },
+      "text": "LAPTOP",
+      "layer": "F.SilkS",
+      "size": 1,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 35,
+        "y": 15.2
+      },
+      "text": "15.6V",
+      "layer": "F.SilkS",
+      "size": 1,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 48.5,
+        "y": 9
+      },
+      "text": "SERIAL",
+      "layer": "F.SilkS",
+      "size": 0.9,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 59.5,
+        "y": 8.2
+      },
+      "text": "SWD",
+      "layer": "F.SilkS",
+      "size": 0.8,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 70.8,
+        "y": 8.2
+      },
+      "text": "UART",
+      "layer": "F.SilkS",
+      "size": 0.8,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 73.6,
+        "y": 13
+      },
+      "text": "PD IN",
+      "layer": "F.SilkS",
+      "size": 1,
+      "thickness": 0.15,
+      "rotation": 90
+    },
+    {
+      "at": {
+        "x": 66.8,
+        "y": 30
+      },
+      "text": "DC IN",
+      "layer": "F.SilkS",
+      "size": 1,
+      "thickness": 0.15,
+      "rotation": 90
+    },
+    {
+      "at": {
+        "x": 20,
+        "y": 116
+      },
+      "text": "RADIO",
+      "layer": "F.SilkS",
+      "size": 1,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 14.6,
+        "y": 83
+      },
+      "text": "FAN",
+      "layer": "F.SilkS",
+      "size": 0.9,
+      "thickness": 0.15,
+      "rotation": 90
+    },
+    {
+      "at": {
+        "x": 10.5,
+        "y": 93.7
+      },
+      "text": "LID",
+      "layer": "F.SilkS",
+      "size": 0.9,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 8.6,
+        "y": 9.5
+      },
+      "text": "RESET",
+      "layer": "F.SilkS",
+      "size": 0.8,
+      "thickness": 0.15,
+      "rotation": 0
+    },
+    {
+      "at": {
+        "x": 8.4,
+        "y": 13.5
+      },
+      "text": "BOOT",
+      "layer": "F.SilkS",
+      "size": 0.8,
+      "thickness": 0.15,
+      "rotation": 0
+    }
+  ],
+  "tracks": [
+    {
+      "uuid": "2223f8d2-f825-4daa-873b-bd4691131cda",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 75.285,
+        "y": 43.745000000000005
+      },
+      "end": {
+        "x": 80.8,
+        "y": 43.745000000000005
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "b4a948bb-157b-416b-b698-2dc8e17dc9ab",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 78.345,
+        "y": 56.845
+      },
+      "end": {
+        "x": 80.8,
+        "y": 56.845
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "2650601f-0e81-4990-b8e8-0a21968d4636",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 80.8,
+        "y": 56.845
+      },
+      "end": {
+        "x": 80.8,
+        "y": 37.8
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "ebc585f8-62b0-4e3f-b324-5e15c74d4034",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 80.8,
+        "y": 37.8
+      },
+      "end": {
+        "x": 80,
+        "y": 37
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "16ea3384-24ca-4651-a34c-cbfbba0f90ea",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 80,
+        "y": 37
+      },
+      "end": {
+        "x": 43.3,
+        "y": 37
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "7fa6fdab-6c6c-4ae3-b3cd-d82abafbf7b0",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 43.3,
+        "y": 37
+      },
+      "end": {
+        "x": 42.5,
+        "y": 37.8
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "104f86d8-4e0a-4016-9ae2-98644c51e01e",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 42.5,
+        "y": 37.8
+      },
+      "end": {
+        "x": 42.5,
+        "y": 38.9
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "9cb754a3-5f70-477d-9056-06778ada91d9",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 42.5,
+        "y": 38.9
+      },
+      "end": {
+        "x": 44.35,
+        "y": 36.78
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "d0feba66-192d-4c1b-86ee-fb4f65f7ccfe",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 57.4,
+        "y": 37
+      },
+      "end": {
+        "x": 57.4,
+        "y": 114.9
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "ed1018d2-2154-4096-a5d0-47a1aa2875f2",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 57.4,
+        "y": 95.7
+      },
+      "end": {
+        "x": 59.7,
+        "y": 95.7
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "6d1be00a-acc9-44cf-8e63-3a3e99010f27",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 59.7,
+        "y": 95.7
+      },
+      "end": {
+        "x": 60.5,
+        "y": 96.5
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "377b16fa-b272-4c5e-ab49-aa7a0d30be84",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 60.5,
+        "y": 96.5
+      },
+      "end": {
+        "x": 60.5,
+        "y": 100.725
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "2a9538c5-9116-4415-a8a0-a3b59f216cf3",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 60.5,
+        "y": 100.725
+      },
+      "end": {
+        "x": 59.7,
+        "y": 101.52499999999999
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "b419e7ae-8426-456d-9d21-f4156a7423eb",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 59.7,
+        "y": 101.52499999999999
+      },
+      "end": {
+        "x": 57.45,
+        "y": 101.52499999999999
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "898c0e4e-b943-4c9d-8f02-32beceefd56a",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 57.4,
+        "y": 114.9
+      },
+      "end": {
+        "x": 60.2,
+        "y": 114.9
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "f40a4ac9-ee63-4af3-accd-f3e471040d0b",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 60.2,
+        "y": 114.9
+      },
+      "end": {
+        "x": 61,
+        "y": 115.7
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "5260d834-9267-4bb9-ab56-2663846d16fb",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 61,
+        "y": 115.7
+      },
+      "end": {
+        "x": 61,
+        "y": 121.225
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "d66780cc-5094-4333-bad3-ed77f2a02039",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 61,
+        "y": 121.225
+      },
+      "end": {
+        "x": 60.2,
+        "y": 122.02499999999999
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "8610bc69-6a4c-4740-85a2-cf04114aa0a5",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 60.2,
+        "y": 122.02499999999999
+      },
+      "end": {
+        "x": 58.45,
+        "y": 122.02499999999999
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "6525e09d-2f50-4c9b-ac62-d4bd52dba65c",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 37,
+        "y": 37
+      },
+      "end": {
+        "x": 37,
+        "y": 61.7
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "bb26b765-4e50-4cf1-a400-42a11b6d88ab",
+      "layer": "F.Cu",
+      "width": 0.6,
+      "start": {
+        "x": 77.24,
+        "y": 15.6
+      },
+      "end": {
+        "x": 75.3,
+        "y": 15.6
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "73234ec5-9516-4212-989a-5610ddd0c844",
+      "layer": "F.Cu",
+      "width": 0.6,
+      "start": {
+        "x": 77.24,
+        "y": 10.799999999999999
+      },
+      "end": {
+        "x": 75.3,
+        "y": 10.799999999999999
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "053064a9-4091-40f1-aa1c-3f891eb25445",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 75.3,
+        "y": 10.799999999999999
+      },
+      "end": {
+        "x": 75.3,
+        "y": 20
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "b7fa5ce2-79ee-49ad-a336-b0398207d6c2",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 75.3,
+        "y": 18
+      },
+      "end": {
+        "x": 75.3,
+        "y": 20
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "bb2f9563-cf07-4550-b31a-c5738a05ecba",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 75.3,
+        "y": 20
+      },
+      "end": {
+        "x": 82.5,
+        "y": 27.2
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "d5128c3c-c042-47fc-b0da-f7120861d361",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 82.5,
+        "y": 27.2
+      },
+      "end": {
+        "x": 82.5,
+        "y": 34.6
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "7e8573e8-3b93-41a7-a85d-d6593ee5edfc",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 82.5,
+        "y": 34.6
+      },
+      "end": {
+        "x": 82.5,
+        "y": 52.7
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "49ee5f0a-be15-4f91-a6e2-590f0a0f14f2",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 82.5,
+        "y": 52.7
+      },
+      "end": {
+        "x": 81.7,
+        "y": 53.5
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "db500890-9340-4876-a21b-8257bedf0c7b",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 81.7,
+        "y": 53.5
+      },
+      "end": {
+        "x": 66.36,
+        "y": 53.5
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "8b64eaaf-887e-4297-8992-1983c55baaec",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 66.36,
+        "y": 53.5
+      },
+      "end": {
+        "x": 65.56,
+        "y": 54.3
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "6c42cb3d-e75c-42f4-81f3-7169c719fb29",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 65.56,
+        "y": 54.3
+      },
+      "end": {
+        "x": 65.56,
+        "y": 57.48
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "68c98f89-81cd-4f5a-a94e-c5a5f7c4aa7a",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 70.2,
+        "y": 30.35
+      },
+      "end": {
+        "x": 70.2,
+        "y": 38.900000000000006
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "70f6fa34-9f7a-4bb1-8d14-4506359dfecb",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 70.2,
+        "y": 38.900000000000006
+      },
+      "end": {
+        "x": 69.4,
+        "y": 39.7
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "92b504a2-8fa4-43bf-acfc-eb55dbd88e82",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 69.4,
+        "y": 39.7
+      },
+      "end": {
+        "x": 63.3,
+        "y": 39.7
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "e9bfdfed-5ee1-421b-8a32-3ce95bd0182b",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 63.3,
+        "y": 39.7
+      },
+      "end": {
+        "x": 62.5,
+        "y": 40.5
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "d60fd68d-1c86-4c0c-bcc7-e0afca545e35",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 62.5,
+        "y": 40.5
+      },
+      "end": {
+        "x": 62.5,
+        "y": 44.38
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "6c84afa6-e245-4fc9-ba0a-cfbd70f1bea6",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 59.9,
+        "y": 40.9
+      },
+      "end": {
+        "x": 59.9,
+        "y": 124.1
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "b4c2634a-ae73-452c-9eb2-69ad489b34cd",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 59.9,
+        "y": 124.1
+      },
+      "end": {
+        "x": 62.3,
+        "y": 126.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "cf3f721e-03fa-4a27-9ee2-953af11593bd",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 59.9,
+        "y": 86
+      },
+      "end": {
+        "x": 63.6,
+        "y": 89.505
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "e65fc86b-bbcc-401d-8a4d-ebedfefedf72",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 62.3,
+        "y": 126.5
+      },
+      "end": {
+        "x": 62.3,
+        "y": 119.39
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "42b5ccaf-a948-4e69-858e-5a2b7c213d7b",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 62.3,
+        "y": 119.39
+      },
+      "end": {
+        "x": 63.099999999999994,
+        "y": 118.59
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "b48ac1d1-3116-4550-a85c-a4919cdff932",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 63.099999999999994,
+        "y": 118.59
+      },
+      "end": {
+        "x": 64.7,
+        "y": 118.59
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "93c72168-2fbb-47d9-a03e-85a8384424a5",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 59.9,
+        "y": 74.6
+      },
+      "end": {
+        "x": 55,
+        "y": 74.6
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "0100208d-79f7-4bdc-b15f-5fd20f822289",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 55,
+        "y": 74.6
+      },
+      "end": {
+        "x": 9,
+        "y": 74.6
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "378ee2db-1b7c-4824-a5f7-0e885de7a8ac",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 26,
+        "y": 74.6
+      },
+      "end": {
+        "x": 26,
+        "y": 71.3
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "896c1878-459a-45da-bfce-70408ccc6efd",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 26,
+        "y": 71.3
+      },
+      "end": {
+        "x": 25.2,
+        "y": 70.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "944da55b-c2b2-4fbb-9223-e6753eec84be",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 25.2,
+        "y": 70.5
+      },
+      "end": {
+        "x": 23.450000000000003,
+        "y": 70.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "04286939-d34c-4d6b-85a3-a2cf8c5832d8",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 23.450000000000003,
+        "y": 70.5
+      },
+      "end": {
+        "x": 22.650000000000002,
+        "y": 69.7
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "5d700577-f992-445b-8891-5000394b75d2",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 22.650000000000002,
+        "y": 69.7
+      },
+      "end": {
+        "x": 22.650000000000002,
+        "y": 67.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "4f6666ff-28ef-48c1-a12a-8bd288bbe3ee",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 12,
+        "y": 74.6
+      },
+      "end": {
+        "x": 12,
+        "y": 71.3
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "69f582c3-80c4-4623-999c-fe1f489dce3f",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 12,
+        "y": 71.3
+      },
+      "end": {
+        "x": 11.2,
+        "y": 70.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "4abd4c66-3743-4c83-8cf4-b1d8c0395d90",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 11.2,
+        "y": 70.5
+      },
+      "end": {
+        "x": 8.850000000000001,
+        "y": 70.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "59e65689-b194-4351-a398-9f828a0207a5",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 8.850000000000001,
+        "y": 70.5
+      },
+      "end": {
+        "x": 8.05,
+        "y": 69.7
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "fee8d13c-ba97-4748-8e30-bcdc26ef7ee8",
+      "layer": "F.Cu",
+      "width": 2,
+      "start": {
+        "x": 8.05,
+        "y": 69.7
+      },
+      "end": {
+        "x": 8.05,
+        "y": 67.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "1710d34b-1fe2-4117-81af-3c163f181661",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 12,
+        "y": 74.6
+      },
+      "end": {
+        "x": 12,
+        "y": 49.4
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "c9a93014-5689-44bd-8ffe-dca66e804d27",
+      "layer": "B.Cu",
+      "width": 1,
+      "start": {
+        "x": 9,
+        "y": 74.6
+      },
+      "end": {
+        "x": 9,
+        "y": 80
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "192f2ea4-fcaa-4128-95b4-e739703f9fa1",
+      "layer": "B.Cu",
+      "width": 1,
+      "start": {
+        "x": 9,
+        "y": 80
+      },
+      "end": {
+        "x": 8.25,
+        "y": 80.75
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "b8c2df50-52e1-4465-ab76-62452b54f2cb",
+      "layer": "B.Cu",
+      "width": 1,
+      "start": {
+        "x": 8.25,
+        "y": 80.75
+      },
+      "end": {
+        "x": 8.25,
+        "y": 83.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "9f2128e3-cb01-4833-8836-40672dffc223",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 6.725,
+        "y": 36.464999999999996
+      },
+      "end": {
+        "x": 5.3999999999999995,
+        "y": 36.464999999999996
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "6c12a35b-fe91-402a-9fbc-809b04b88e71",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 5.3999999999999995,
+        "y": 36.464999999999996
+      },
+      "end": {
+        "x": 4.6,
+        "y": 35.665
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "916225d0-37b7-4e91-840c-1717c71ed512",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 4.6,
+        "y": 35.665
+      },
+      "end": {
+        "x": 4.6,
+        "y": 16.8
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "4100f330-fcc8-4ec0-a6c0-fb21ba1b9d74",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 4.6,
+        "y": 16.8
+      },
+      "end": {
+        "x": 5.3999999999999995,
+        "y": 16
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "3ec6320a-8a86-4ddf-a159-95cafa9cc5e7",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 5.3999999999999995,
+        "y": 16
+      },
+      "end": {
+        "x": 36.550000000000004,
+        "y": 16
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "f522fb5d-db6f-4f5b-89f1-7e77aece887f",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 36.550000000000004,
+        "y": 16
+      },
+      "end": {
+        "x": 37.35,
+        "y": 15.2
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "a40bec00-a893-4a0a-9603-a5ec2b89cd6b",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 37.35,
+        "y": 15.2
+      },
+      "end": {
+        "x": 37.35,
+        "y": 13.8
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "c1480ccc-3f1a-4461-83cb-e0e3f5aa29dd",
+      "layer": "B.Cu",
+      "width": 0.5,
+      "start": {
+        "x": 20.51,
+        "y": 124.29
+      },
+      "end": {
+        "x": 19.49,
+        "y": 126.07000000000001
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "f9a0cd5d-6a7f-4247-b67d-ee776eb6465c",
+      "layer": "B.Cu",
+      "width": 0.5,
+      "start": {
+        "x": 16.43,
+        "y": 124.29
+      },
+      "end": {
+        "x": 17.45,
+        "y": 126.07000000000001
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "7a531d08-ad75-4edf-a496-98793d77de42",
+      "layer": "B.Cu",
+      "width": 1,
+      "start": {
+        "x": 20.51,
+        "y": 124.29
+      },
+      "end": {
+        "x": 20.51,
+        "y": 118.5
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "0b476615-14ae-4489-89df-9b8b1c0e84da",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 20.51,
+        "y": 118.5
+      },
+      "end": {
+        "x": 20.51,
+        "y": 106.39999999999999
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "94852904-fbcf-481b-a2a5-3febb300c609",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 20.51,
+        "y": 106.39999999999999
+      },
+      "end": {
+        "x": 19.71,
+        "y": 105.6
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "feb76d69-f680-4cfb-8d09-76f272bd1282",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 19.71,
+        "y": 105.6
+      },
+      "end": {
+        "x": 7.8,
+        "y": 105.6
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "f79d5920-85d9-4145-8f67-f15e1c55cca9",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 7.8,
+        "y": 105.6
+      },
+      "end": {
+        "x": 7,
+        "y": 106.39999999999999
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "f128538c-c632-46f5-a6ee-c88529d0a9de",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 7,
+        "y": 106.39999999999999
+      },
+      "end": {
+        "x": 7,
+        "y": 108.25
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "47e2f4c9-fb6e-4f97-bc4f-97e5bfa1363f",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 16.43,
+        "y": 124.29
+      },
+      "end": {
+        "x": 16.43,
+        "y": 112.8
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "296b2a16-5901-4918-a052-ab9e07ae6284",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 16.43,
+        "y": 112.8
+      },
+      "end": {
+        "x": 15.629999999999999,
+        "y": 112
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "3fefe8da-03f8-4771-a827-13b145d0df84",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 15.629999999999999,
+        "y": 112
+      },
+      "end": {
+        "x": 11.8,
+        "y": 112
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "87bed195-819c-43a4-ba9b-b917c9ffa2c6",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 11.8,
+        "y": 112
+      },
+      "end": {
+        "x": 11,
+        "y": 111.2
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "3c03837d-dc94-4566-a41d-5441312d8a97",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 11,
+        "y": 111.2
+      },
+      "end": {
+        "x": 11,
+        "y": 108.25
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "a8992cdc-5691-4f2e-8308-96bb6366c071",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.13,
+        "y": 6.93
+      },
+      "end": {
+        "x": 16.13,
+        "y": 2.6
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "9b799ae3-c4a3-40ca-b47c-a16565de3949",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.13,
+        "y": 2.6
+      },
+      "end": {
+        "x": 15.329999999999998,
+        "y": 1.8
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "a29ce693-5cef-4973-be1b-21a4313cb33f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.329999999999998,
+        "y": 1.8
+      },
+      "end": {
+        "x": 11.850000000000001,
+        "y": 1.8
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "b0ff11e2-f7b3-43c9-bfa2-d44f247e1311",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.850000000000001,
+        "y": 1.8
+      },
+      "end": {
+        "x": 11.05,
+        "y": 2.6
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "a25ae28e-c5d1-438b-9021-6b6f191b6234",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.05,
+        "y": 2.6
+      },
+      "end": {
+        "x": 11.05,
+        "y": 4.83
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "bf39ec62-9f44-4fab-9f52-7a7c28601181",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.05,
+        "y": 4.83
+      },
+      "end": {
+        "x": 10.25,
+        "y": 5.63
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "7c06be04-b8e3-4ad4-8743-e2718d0b3b99",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.25,
+        "y": 5.63
+      },
+      "end": {
+        "x": 8.8,
+        "y": 5.63
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "7c9d4c48-40be-477f-bcf8-4b65e0e932b7",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8.8,
+        "y": 5.63
+      },
+      "end": {
+        "x": 8,
+        "y": 6.43
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "9224d76f-d514-4c27-b0b3-37326235663b",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 23.57,
+        "y": 126.07000000000001
+      },
+      "end": {
+        "x": 23.57,
+        "y": 130.39999999999998
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "a440398b-d704-4ad6-b7c0-375d51c29bec",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 23.57,
+        "y": 130.39999999999998
+      },
+      "end": {
+        "x": 24.37,
+        "y": 131.2
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "28e477dc-4ef1-4694-8da3-4fd847ad926a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 24.37,
+        "y": 131.2
+      },
+      "end": {
+        "x": 27.85,
+        "y": 131.2
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "c0de9f88-76ae-4701-b33d-59fe51887c52",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 27.85,
+        "y": 131.2
+      },
+      "end": {
+        "x": 28.650000000000002,
+        "y": 130.39999999999998
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "b0c540ed-0a99-4568-b8f1-a4e251f34b3e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 28.650000000000002,
+        "y": 130.39999999999998
+      },
+      "end": {
+        "x": 28.650000000000002,
+        "y": 125.57000000000001
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "e5e4b8ca-ae60-4572-bafd-149d73a442bb",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 28.650000000000002,
+        "y": 125.57000000000001
+      },
+      "end": {
+        "x": 27.85,
+        "y": 124.77000000000001
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "80984643-bb6a-438a-91bb-ceda30a8958e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 27.85,
+        "y": 124.77000000000001
+      },
+      "end": {
+        "x": 25.6,
+        "y": 124.77000000000001
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "b8290ae9-e2f6-4253-b8ea-4b005f00d3d6",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 25.6,
+        "y": 124.77000000000001
+      },
+      "end": {
+        "x": 24.8,
+        "y": 123.97000000000001
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "60654ddc-27ff-4b41-b93c-bfb0bb6b4bfa",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8,
+        "y": 6.43
+      },
+      "end": {
+        "x": 8,
+        "y": 13
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "bd9467d8-2723-4b20-8cdb-bf420c1ed453",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8,
+        "y": 13
+      },
+      "end": {
+        "x": 2.3,
+        "y": 18.7
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "6ca24a59-7515-4d53-a21e-84f7795193f4",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 2.3,
+        "y": 18.7
+      },
+      "end": {
+        "x": 2.3,
+        "y": 95.5
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "6acc0cf6-3a89-4404-bbca-91d5a7e7559b",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 2.3,
+        "y": 95.5
+      },
+      "end": {
+        "x": 24.8,
+        "y": 118
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "7c88b3b0-040e-48ba-92fa-1e431f6c9daf",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 24.8,
+        "y": 118
+      },
+      "end": {
+        "x": 24.8,
+        "y": 123.97000000000001
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "56fbab5d-dd0c-4bce-8560-709a506b5234",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.15,
+        "y": 8.71
+      },
+      "end": {
+        "x": 17.15,
+        "y": 9.21
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "e7fee3fd-e7e3-4706-ae9e-2599761a7002",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.15,
+        "y": 9.21
+      },
+      "end": {
+        "x": 16.349999999999998,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "76d3f7d3-7890-44eb-8903-962d6192d037",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.349999999999998,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 15.749999999999998,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "870cb55c-b520-4db4-9268-9d48c61cc88f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.749999999999998,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 15.349999999999998,
+        "y": 10.410000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "bbaa043f-064a-4f9c-96d6-b5fdd61bd4ab",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.349999999999998,
+        "y": 10.410000000000002
+      },
+      "end": {
+        "x": 15.349999999999998,
+        "y": 16.768223304703362
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "ad35f329-aab3-4836-a05e-17ce7f8ea83c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.349999999999998,
+        "y": 16.768223304703362
+      },
+      "end": {
+        "x": 14.949999999999998,
+        "y": 17.16822330470336
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "13621a62-2e4e-44f6-ad68-4c2b216ebee4",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 14.949999999999998,
+        "y": 17.16822330470336
+      },
+      "end": {
+        "x": 14.549999999999999,
+        "y": 17.16822330470336
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "e44cc68d-8ec6-4e3f-bf76-d2dddfa58203",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 14.549999999999999,
+        "y": 17.16822330470336
+      },
+      "end": {
+        "x": 14.149999999999999,
+        "y": 16.768223304703362
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "ae5d62b5-5863-444b-b119-8abfb61f6dd8",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 14.149999999999999,
+        "y": 16.768223304703362
+      },
+      "end": {
+        "x": 14.149999999999999,
+        "y": 10.410000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "556a0337-b900-4a70-89e0-0d1370a9888f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 14.149999999999999,
+        "y": 10.410000000000002
+      },
+      "end": {
+        "x": 13.749999999999998,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "17f01a13-1d59-4b00-8942-1d3fa2ecbe38",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 13.749999999999998,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 12.95,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "bdb9cecc-6976-4b20-9c10-ab1ff0732849",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 12.95,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 12.549999999999999,
+        "y": 10.410000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "3e57c5f3-5d5f-4787-af2f-c6e356cc6333",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 12.549999999999999,
+        "y": 10.410000000000002
+      },
+      "end": {
+        "x": 12.549999999999999,
+        "y": 16.768223304703362
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "49f19fa8-0a0f-4cf9-a264-4d39ff64b456",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 12.549999999999999,
+        "y": 16.768223304703362
+      },
+      "end": {
+        "x": 12.149999999999999,
+        "y": 17.16822330470336
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "c7886047-3cea-432b-b977-63f1c5017cec",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 12.149999999999999,
+        "y": 17.16822330470336
+      },
+      "end": {
+        "x": 11.75,
+        "y": 17.16822330470336
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "7ecb30c0-977c-4fa6-b0e1-5422642fb8da",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.75,
+        "y": 17.16822330470336
+      },
+      "end": {
+        "x": 11.35,
+        "y": 16.768223304703362
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "509f6289-081d-4957-949f-d3c0979d2606",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.35,
+        "y": 16.768223304703362
+      },
+      "end": {
+        "x": 11.35,
+        "y": 10.410000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "085d5ff3-d5a7-4d7f-b126-d4e6ea5964bb",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.35,
+        "y": 10.410000000000002
+      },
+      "end": {
+        "x": 10.95,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "68f7b33f-bdc7-4e3e-864a-9dc0bf7e5fd3",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.95,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 9.3,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "383abfbc-dfbf-449c-b741-107488803154",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 9.3,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 8.5,
+        "y": 10.810000000000002
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "668217ae-75c8-4aae-b1df-6af281d76fbc",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 22.55,
+        "y": 124.29
+      },
+      "end": {
+        "x": 22.55,
+        "y": 123.79
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "08e91aa5-6536-48c3-9023-d6c5fe2306b8",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 22.55,
+        "y": 123.79
+      },
+      "end": {
+        "x": 23.35,
+        "y": 122.99000000000001
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "e42dcc67-bbf4-4ef0-9a5e-84c344ff2d4e",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 23.35,
+        "y": 122.99000000000001
+      },
+      "end": {
+        "x": 25.4,
+        "y": 122.99000000000001
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "b737d919-99e6-489a-93dc-4eeb03f29eef",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 25.4,
+        "y": 122.99000000000001
+      },
+      "end": {
+        "x": 26,
+        "y": 122.39000000000001
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "3ff8b39d-9371-4df3-8da2-ba9146e8e1fa",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 26,
+        "y": 122.39000000000001
+      },
+      "end": {
+        "x": 25.3,
+        "y": 121.69000000000001
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "d7cf2047-a9d7-4a49-803d-98373fc11f5c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8.5,
+        "y": 10.810000000000002
+      },
+      "end": {
+        "x": 8.5,
+        "y": 13.5
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "d10f1d41-8f18-4ee1-bfdb-d1f170db649e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8.5,
+        "y": 13.5
+      },
+      "end": {
+        "x": 2.8,
+        "y": 19.2
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "b2ea6927-696b-468f-85f3-575405cffb61",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 2.8,
+        "y": 19.2
+      },
+      "end": {
+        "x": 2.8,
+        "y": 95
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "dde93cea-84f4-431c-bf4d-7f705f05fa57",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 2.8,
+        "y": 95
+      },
+      "end": {
+        "x": 25.3,
+        "y": 117.5
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "fb3bbf51-9934-4890-8a51-53f85989ec26",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 25.3,
+        "y": 117.5
+      },
+      "end": {
+        "x": 25.3,
+        "y": 121.69000000000001
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "0d3afcb6-5442-4f19-8f14-bd74530e6a36",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.169999999999998,
+        "y": 6.93
+      },
+      "end": {
+        "x": 18.169999999999998,
+        "y": 2.6
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "b3c308c7-17f0-4443-8bc1-aec19dee80c7",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.169999999999998,
+        "y": 2.6
+      },
+      "end": {
+        "x": 17.369999999999997,
+        "y": 1.8
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "d73e517b-9176-475c-a87a-a15ac8c2aac7",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.369999999999997,
+        "y": 1.8
+      },
+      "end": {
+        "x": 11.850000000000001,
+        "y": 1.8
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "2b38f15a-15b0-41cd-a34e-6e031ec3ac46",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.850000000000001,
+        "y": 1.8
+      },
+      "end": {
+        "x": 11.05,
+        "y": 2.6
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "6403a855-09b1-4426-a5fa-aaad00135661",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.05,
+        "y": 2.6
+      },
+      "end": {
+        "x": 11.05,
+        "y": 4.83
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "657ae9ef-5689-4d0c-9a7c-16e7f43da619",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.05,
+        "y": 4.83
+      },
+      "end": {
+        "x": 10.25,
+        "y": 5.63
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "dfb9a0f1-c18a-437c-9b2f-ccbc76316a65",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.25,
+        "y": 5.63
+      },
+      "end": {
+        "x": 10.4,
+        "y": 5.63
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "4bedde9d-f2ed-4f07-96a1-6abc3978eaac",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.4,
+        "y": 5.63
+      },
+      "end": {
+        "x": 9.6,
+        "y": 6.43
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "b9dfe67c-3ef4-454f-9187-2f3ea6927d05",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 9.6,
+        "y": 6.43
+      },
+      "end": {
+        "x": 9.6,
+        "y": 12.410000000000002
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "dae8ad0b-7f07-44a6-a811-d73b87988c90",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 9.6,
+        "y": 12.410000000000002
+      },
+      "end": {
+        "x": 10,
+        "y": 12.810000000000002
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "72b5fa32-59be-483f-9820-24c816a01701",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.53,
+        "y": 126.07000000000001
+      },
+      "end": {
+        "x": 21.53,
+        "y": 130.89999999999998
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "155cd028-f0b1-423d-98d5-87f50088fffd",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.53,
+        "y": 130.89999999999998
+      },
+      "end": {
+        "x": 22.330000000000002,
+        "y": 131.7
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "4378e2ef-64c0-482c-8d01-5bcba3416a20",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 22.330000000000002,
+        "y": 131.7
+      },
+      "end": {
+        "x": 28.35,
+        "y": 131.7
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "fab83f89-562e-4aed-bc1c-86ecfcc6a866",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 28.35,
+        "y": 131.7
+      },
+      "end": {
+        "x": 29.150000000000002,
+        "y": 130.89999999999998
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "84edce00-fa20-4de0-bf00-9a243eda1542",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 29.150000000000002,
+        "y": 130.89999999999998
+      },
+      "end": {
+        "x": 29.150000000000002,
+        "y": 125.07000000000001
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "6f7c7586-fe59-4d76-8894-afa24f0d288a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 29.150000000000002,
+        "y": 125.07000000000001
+      },
+      "end": {
+        "x": 28.35,
+        "y": 124.27000000000001
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "ac582453-b78e-41fc-9c1f-38d859d9173f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 28.35,
+        "y": 124.27000000000001
+      },
+      "end": {
+        "x": 27.6,
+        "y": 124.27000000000001
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "b09de9ea-237a-4433-bb21-72049aa9bc01",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 27.6,
+        "y": 124.27000000000001
+      },
+      "end": {
+        "x": 26.8,
+        "y": 123.47000000000001
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "d980cd4b-c004-4967-a6f4-a46099c92f71",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10,
+        "y": 12.810000000000002
+      },
+      "end": {
+        "x": 10,
+        "y": 15
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "d646a0b5-6503-46c9-ad4b-0b0b8a296070",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10,
+        "y": 15
+      },
+      "end": {
+        "x": 4.3,
+        "y": 20.7
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "d890749f-aecc-496d-8178-152eddfaca42",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.3,
+        "y": 20.7
+      },
+      "end": {
+        "x": 4.3,
+        "y": 93.5
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "41e16e53-4686-40a1-9b96-785a7166b01f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.3,
+        "y": 93.5
+      },
+      "end": {
+        "x": 26.8,
+        "y": 116
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "9747a7f6-1a8c-412e-8d6b-e570913548f4",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 26.8,
+        "y": 116
+      },
+      "end": {
+        "x": 26.8,
+        "y": 123.47000000000001
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "e625a5db-774e-4fdd-a7f0-5199138f1ac2",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.23,
+        "y": 8.71
+      },
+      "end": {
+        "x": 21.23,
+        "y": 9.21
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "34f00999-2784-4d3f-8cc7-1726235c2c7b",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.23,
+        "y": 9.21
+      },
+      "end": {
+        "x": 20.43,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "4d99022f-5729-4c69-9ef0-a9ab1bd4e405",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 20.43,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 19.83,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "f61611da-3602-4882-b945-cc49b5859d2d",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.83,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 19.43,
+        "y": 10.410000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "7c9f625a-4e91-4d0f-8b16-feab7086730d",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.43,
+        "y": 10.410000000000002
+      },
+      "end": {
+        "x": 19.43,
+        "y": 15.46464466094067
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "dcf13eec-4450-40d3-8f06-dd7c15d98ce7",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.43,
+        "y": 15.46464466094067
+      },
+      "end": {
+        "x": 19.029999999999998,
+        "y": 15.86464466094067
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "17d6a33a-342c-4523-bd85-a186336882e1",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.029999999999998,
+        "y": 15.86464466094067
+      },
+      "end": {
+        "x": 18.63,
+        "y": 15.86464466094067
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "290d7dae-ced5-42a0-bcff-075c37c6cf88",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.63,
+        "y": 15.86464466094067
+      },
+      "end": {
+        "x": 18.229999999999997,
+        "y": 15.46464466094067
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "4986ca97-2d95-41e5-a4f3-22af8a6e7357",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.229999999999997,
+        "y": 15.46464466094067
+      },
+      "end": {
+        "x": 18.229999999999997,
+        "y": 10.410000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "5d84d6e2-04bb-45f4-8901-4bd122120be4",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.229999999999997,
+        "y": 10.410000000000002
+      },
+      "end": {
+        "x": 17.83,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "f42c1fee-77e1-42c3-8f78-7686d4486fbd",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.83,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 17.029999999999998,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "cb18f3e7-e471-4282-a7e8-cbbf39ed4be1",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.029999999999998,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 16.63,
+        "y": 10.410000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "68462e00-9f05-4ee7-b278-6af8e11ada39",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.63,
+        "y": 10.410000000000002
+      },
+      "end": {
+        "x": 16.63,
+        "y": 15.46464466094067
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "76a0b23e-c24a-4e48-a9c4-0e9f45a65893",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.63,
+        "y": 15.46464466094067
+      },
+      "end": {
+        "x": 16.229999999999997,
+        "y": 15.86464466094067
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "fa9ddee5-a2ff-4a07-ae0f-a8900ecbdb21",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.229999999999997,
+        "y": 15.86464466094067
+      },
+      "end": {
+        "x": 15.829999999999998,
+        "y": 15.86464466094067
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "60c01ae6-aba2-42f5-81c7-ddbd65da384e",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.829999999999998,
+        "y": 15.86464466094067
+      },
+      "end": {
+        "x": 15.429999999999998,
+        "y": 15.46464466094067
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "87884822-dff2-4f60-ba05-0cc770156325",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.429999999999998,
+        "y": 15.46464466094067
+      },
+      "end": {
+        "x": 15.429999999999998,
+        "y": 10.410000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "53b84802-f883-4882-ab04-3b0da150aef1",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.429999999999998,
+        "y": 10.410000000000002
+      },
+      "end": {
+        "x": 15.029999999999998,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "4ede7964-0818-4206-9874-b58b777b4639",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.029999999999998,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 11.3,
+        "y": 10.010000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "6296f4ca-f665-4755-aceb-8a6d1679298b",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.3,
+        "y": 10.010000000000002
+      },
+      "end": {
+        "x": 10.5,
+        "y": 10.810000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "5c2ec12a-8e23-43df-b941-6978bf4d2f7d",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.5,
+        "y": 10.810000000000002
+      },
+      "end": {
+        "x": 10.5,
+        "y": 11.010000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "809eb36f-b482-41af-8003-ee1335b02a30",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.47,
+        "y": 124.29
+      },
+      "end": {
+        "x": 18.47,
+        "y": 122.49000000000001
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "cc913881-4326-47fe-8d25-b5c3f999e8a9",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.47,
+        "y": 122.49000000000001
+      },
+      "end": {
+        "x": 19.27,
+        "y": 121.69000000000001
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "6f45d460-5fc9-4309-b6e2-b77587f7483f",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.27,
+        "y": 121.69000000000001
+      },
+      "end": {
+        "x": 27.4,
+        "y": 121.69000000000001
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "5076a9d4-8355-477c-8efe-f1bd5d3392cd",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 27.4,
+        "y": 121.69000000000001
+      },
+      "end": {
+        "x": 28,
+        "y": 121.09000000000002
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "272c1ad2-6e8e-407d-b516-bdfbb8878e4a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 28,
+        "y": 121.09000000000002
+      },
+      "end": {
+        "x": 27.3,
+        "y": 120.39000000000001
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "eb3385e8-d6b7-4c5f-9278-7bedc7e48b94",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.5,
+        "y": 11.010000000000002
+      },
+      "end": {
+        "x": 10.5,
+        "y": 15.5
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "316681af-e5db-44c9-b4d0-4869801625a4",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.5,
+        "y": 15.5
+      },
+      "end": {
+        "x": 4.8,
+        "y": 21.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "4cd78816-b938-4eec-af9b-d15a60e39ced",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.8,
+        "y": 21.2
+      },
+      "end": {
+        "x": 4.8,
+        "y": 93
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "8bcdeb0c-2030-4a3e-8b95-4bb358554b34",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.8,
+        "y": 93
+      },
+      "end": {
+        "x": 27.3,
+        "y": 115.5
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "3ba64c0a-d092-48e7-99f1-fd20f705642d",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 27.3,
+        "y": 115.5
+      },
+      "end": {
+        "x": 27.3,
+        "y": 120.39000000000001
+      },
+      "net": "ETH_6"
+    }
+  ],
+  "vias": [
+    {
+      "uuid": "190294e0-1f82-4730-9392-7074d5a3d9b1",
+      "at": {
+        "x": 80.8,
+        "y": 43.745000000000005
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "8dc93a3a-2e56-41fb-be31-36ab44344ee9",
+      "at": {
+        "x": 80.8,
+        "y": 56.845
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "481c41ae-a824-4413-a5b8-49daf4341c73",
+      "at": {
+        "x": 42.5,
+        "y": 38.9
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "0deabb6c-d8ab-4483-8e56-c4cace2b6efb",
+      "at": {
+        "x": 57.4,
+        "y": 95.7
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "35a4bbcc-f234-4016-9275-06e706d5b92a",
+      "at": {
+        "x": 57.4,
+        "y": 114.9
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "35fcaecb-2edc-4236-9fc6-0da6c2230890",
+      "at": {
+        "x": 37,
+        "y": 61.7
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "39979ea5-58c2-437f-83f0-2b77553c9b70",
+      "at": {
+        "x": 75.3,
+        "y": 18
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "95955442-b71f-42a5-a1fe-3fefe8976ea0",
+      "at": {
+        "x": 75.3,
+        "y": 20
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "16a711b5-f871-4933-b46f-7f95cc50ebbb",
+      "at": {
+        "x": 82.5,
+        "y": 34.6
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "c4e60a48-c398-48ad-8eaf-2c7bcdc3c20f",
+      "at": {
+        "x": 59.9,
+        "y": 40.9
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "+12V"
+    },
+    {
+      "uuid": "8ade1995-1740-44ca-b2bf-30c614483d42",
+      "at": {
+        "x": 59.9,
+        "y": 86
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "+12V"
+    },
+    {
+      "uuid": "bcf885bd-d315-4816-a966-375e2978722e",
+      "at": {
+        "x": 59.9,
+        "y": 107
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "+12V"
+    },
+    {
+      "uuid": "4a284b74-0fd5-4d30-a49b-11067f6db786",
+      "at": {
+        "x": 62.3,
+        "y": 126.5
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "+12V"
+    },
+    {
+      "uuid": "c3f137e5-03fd-47e3-9648-02c3b0af4d83",
+      "at": {
+        "x": 59.9,
+        "y": 74.6
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "+12V"
+    },
+    {
+      "uuid": "307970eb-9336-4d0e-9ebd-20cabd650cc6",
+      "at": {
+        "x": 55,
+        "y": 74.6
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "+12V"
+    },
+    {
+      "uuid": "c9b20e5b-8c1e-43ef-adda-e2a019f0dac3",
+      "at": {
+        "x": 26,
+        "y": 74.6
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "+12V"
+    },
+    {
+      "uuid": "f7c602cd-9987-478d-8138-1244fe6b0cac",
+      "at": {
+        "x": 12,
+        "y": 74.6
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "+12V"
+    },
+    {
+      "uuid": "16509b5e-b816-4e01-9335-d4bcd6dc99d3",
+      "at": {
+        "x": 12,
+        "y": 49.4
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "+12V"
+    },
+    {
+      "uuid": "5bef1777-99b0-4877-87aa-6677ab30a7d3",
+      "at": {
+        "x": 20.51,
+        "y": 118.5
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "4c73ad59-5324-4d35-a327-8585479e2be5",
+      "at": {
+        "x": 26,
+        "y": 122.39000000000001
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "c15a82c2-b9ce-4219-8856-30b86b264525",
+      "at": {
+        "x": 9.6,
+        "y": 12.410000000000002
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "726cc9ef-3114-4cc7-8a6a-80602ad0a9de",
+      "at": {
+        "x": 10.5,
+        "y": 11.010000000000002
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "e0c58472-9d7f-4092-861a-0cae92ab2fe3",
+      "at": {
+        "x": 28,
+        "y": 121.09000000000002
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "ETH_6"
+    }
+  ],
+  "zones": [
+    {
+      "uuid": "bfa07047-c238-425b-993b-01714407fedc",
+      "net": "GND",
+      "layer": "B.Cu",
+      "polygon": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 84,
+          "y": 0
+        },
+        {
+          "x": 84,
+          "y": 133
+        },
+        {
+          "x": 0,
+          "y": 133
+        }
+      ],
+      "priority": 0
+    },
+    {
+      "uuid": "49e08a96-d171-4432-b91d-6ba9ec2c33f5",
+      "net": "GND",
+      "layer": "F.Cu",
+      "polygon": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 84,
+          "y": 0
+        },
+        {
+          "x": 84,
+          "y": 133
+        },
+        {
+          "x": 0,
+          "y": 133
+        }
+      ],
+      "priority": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# only the radio kiosk lives here; other loon projects stay out
+/*
+!/.gitignore
+!/README.md
+!/Radio_Kiosk_Circuit.kicad_sch
+!/Radio_Kiosk_v2/
+!/Radio_Kiosk_v2b/
+# router scratch and caches
+.freerouting/
+lcsc.3dshapes/
+board.dsn
+board.ses
+board.kicad_prl
+*.pio/
+.pio/
+core
