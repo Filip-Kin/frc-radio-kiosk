@@ -10887,7 +10887,7 @@
 		)
 		(property "Value" "RJ45 laptop"
 			(at -9.3 -1.68 270)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "6e741f16-b9d6-4024-8da2-52d5e7fd6774")
 			(effects
 				(font
@@ -15158,7 +15158,7 @@
 		)
 		(property "Value" "RJ45 radio"
 			(at 0 -9.68 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "45e0d183-af8f-4c4b-b4b3-d9b4c34f1b10")
 			(effects
 				(font
@@ -18475,7 +18475,7 @@
 		)
 		(property "Value" "USB-C PD in"
 			(at 5.7 -1.21 180)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "775c4118-2c8c-4280-b9db-6149656e0be8")
 			(effects
 				(font
@@ -20736,7 +20736,7 @@
 		)
 		(property "Value" "DC in"
 			(at -5.2 2.5 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "cc7b97d4-ee41-4ea8-bf55-d045e34b3b16")
 			(effects
 				(font
@@ -21382,7 +21382,7 @@
 		)
 		(property "Value" "UART"
 			(at -2.5 7.62 180)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "51663b7c-2012-496f-8fd8-410df7f04810")
 			(effects
 				(font
@@ -27958,7 +27958,7 @@
 		)
 		(property "Value" "Serial"
 			(at -6.5 -4.15 270)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "0ca5cf76-e951-4e58-a402-14dc42a864b3")
 			(effects
 				(font
@@ -29039,7 +29039,7 @@
 		)
 		(property "Value" "Fan 12V"
 			(at 0 -4.5 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "860cc67e-70ae-446e-b723-570eda2e5b1c")
 			(effects
 				(font
@@ -29488,7 +29488,7 @@
 		)
 		(property "Value" "SWD"
 			(at -2.5 7.81 180)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "4d01a7af-bf93-47e1-ab3f-ede523991c1f")
 			(effects
 				(font
@@ -33630,7 +33630,7 @@
 		)
 		(property "Value" "Laptop 15.6V"
 			(at 0.8 8 270)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "ae9d5634-05d9-432a-8d42-be1ff142bff2")
 			(effects
 				(font
@@ -35056,7 +35056,7 @@
 		)
 		(property "Value" "Lid LEDs"
 			(at 0 3.5 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "62052eb2-5f1e-4892-89c2-07fa3a4c0d10")
 			(effects
 				(font

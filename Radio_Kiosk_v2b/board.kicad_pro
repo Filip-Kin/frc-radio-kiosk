@@ -51,11 +51,12 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "wire_width": 6,
-        "bus_width": 12
+        "bus_width": 12,
+        "priority": 2147483647
       }
     ],
     "meta": {
-      "version": 3
+      "version": 4
     }
   },
   "sheets": [],
