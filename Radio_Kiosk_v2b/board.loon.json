@@ -1667,7 +1667,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 7.15,
-        "y": 21
+        "y": 20.9
       },
       "rotation": 90,
       "side": "F",
@@ -1701,7 +1701,7 @@
       "libId": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
       "at": {
         "x": 13.63,
-        "y": 21
+        "y": 20.9
       },
       "rotation": 270,
       "side": "F",
@@ -1768,7 +1768,7 @@
       "symbolUuid": "9577aa0e-4237-4680-a34b-ded64d1af568",
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
-        "x": 46.5,
+        "x": 47,
         "y": 27.5
       },
       "rotation": 90,
@@ -1785,7 +1785,7 @@
       "symbolUuid": "04775512-a400-4cd9-9d2c-0c77bad99489",
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
-        "x": 33.95,
+        "x": 33.3,
         "y": 27.5
       },
       "rotation": 90,
@@ -1802,10 +1802,10 @@
       "symbolUuid": "ca73bb71-b56f-4581-a602-d10eb87ea657",
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
-        "x": 38.35,
-        "y": 27.5
+        "x": 40.15,
+        "y": 28.1
       },
-      "rotation": 90,
+      "rotation": 0,
       "side": "F",
       "padNets": {
         "1": "+15V6_BUCK",
@@ -1891,7 +1891,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 42,
-        "y": 36.9
+        "y": 37.15
       },
       "rotation": 0,
       "side": "F",
@@ -1959,7 +1959,7 @@
       "libId": "Package_TO_SOT_SMD:SOT-23-5",
       "at": {
         "x": 34.4,
-        "y": 33.4
+        "y": 33.6
       },
       "rotation": 0,
       "side": "F",
@@ -1979,7 +1979,7 @@
       "libId": "Diode_SMD:D_SOD-123",
       "at": {
         "x": 33.7,
-        "y": 36.9
+        "y": 37.15
       },
       "rotation": 0,
       "side": "F",
@@ -1996,7 +1996,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 38,
-        "y": 36.9
+        "y": 37.15
       },
       "rotation": 0,
       "side": "F",
@@ -2132,7 +2132,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 40.8,
-        "y": 33.4
+        "y": 33.6
       },
       "rotation": 90,
       "side": "F",
@@ -2274,6 +2274,7 @@
       "side": "F",
       "padNets": {
         "1": "+3V3",
+        "2": "LAPTOP_OK",
         "7": "MCU_NRST",
         "8": "GND",
         "9": "MCU_VDDA",
@@ -3594,7 +3595,7 @@
   ],
   "tracks": [
     {
-      "uuid": "76128c79-e374-4bb9-b65d-173c1dc4e051",
+      "uuid": "64d8dce3-96d9-463b-afa2-f0fe9a50902f",
       "layer": "B.Cu",
       "width": 2,
       "start": {
@@ -3608,7 +3609,7 @@
       "net": ""
     },
     {
-      "uuid": "5b3232d0-f3ee-43aa-b55c-05aadec29bf4",
+      "uuid": "f9505044-0717-4e6e-b0c3-71e57d821106",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3622,7 +3623,7 @@
       "net": "U4_SW"
     },
     {
-      "uuid": "10375cb7-9ab0-4389-ab27-066d71ebe80f",
+      "uuid": "b8b55bd3-e792-4326-bc77-fe708acc7c9e",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3636,7 +3637,7 @@
       "net": "GND"
     },
     {
-      "uuid": "76e0f940-5032-4122-9be1-0c17ff1b1ec0",
+      "uuid": "77859e1f-5ada-4593-8bcc-6a6335c76018",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3650,7 +3651,7 @@
       "net": "GND"
     },
     {
-      "uuid": "6aa67d9c-f4e2-4d05-aad2-6d2b46120b74",
+      "uuid": "542a5c1a-9b78-423a-be2c-e59f12f0158f",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3664,7 +3665,7 @@
       "net": "GND"
     },
     {
-      "uuid": "5e2ec1e1-6d42-45e3-b5a4-aee25a651a95",
+      "uuid": "575bd323-0765-46a1-874a-cd95f3421689",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3678,7 +3679,7 @@
       "net": "GND"
     },
     {
-      "uuid": "aa5e19c6-bb0c-4a99-b234-ccbcec78646f",
+      "uuid": "9acadf8f-d48d-44da-a08f-9a56f64b8a97",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3692,7 +3693,7 @@
       "net": "GND"
     },
     {
-      "uuid": "53601532-76d3-4a8e-9cad-f4ee8d327a85",
+      "uuid": "9a3791d1-282c-437f-b764-6d2706a08198",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3706,7 +3707,7 @@
       "net": "GND"
     },
     {
-      "uuid": "4d467dad-3c8d-490b-9879-6ba174cca701",
+      "uuid": "af466113-08d1-468b-80b0-6b52c9689e3a",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3720,7 +3721,7 @@
       "net": "GND"
     },
     {
-      "uuid": "8df333fb-32b9-4145-9cb5-6da9df7eed87",
+      "uuid": "99bf6e9c-36ea-4916-b8a8-c860692b7d0b",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3734,7 +3735,7 @@
       "net": "GND"
     },
     {
-      "uuid": "d8dfe0d7-d6dc-4b17-9998-319d26c8d20f",
+      "uuid": "532a0880-923a-491e-b967-d27961ef2e8b",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3748,7 +3749,7 @@
       "net": "GND"
     },
     {
-      "uuid": "bb2bc27c-c0e4-4f0d-ac0f-709ce07c5ca6",
+      "uuid": "844a42c4-ee2c-4b6d-aeb8-8e31d2392cb1",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3762,7 +3763,7 @@
       "net": "GND"
     },
     {
-      "uuid": "540d0100-9d42-4edc-a4a4-0be46941deeb",
+      "uuid": "8f1f68ae-0541-4ee8-984e-0f3618960f5e",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3776,7 +3777,7 @@
       "net": "GND"
     },
     {
-      "uuid": "8408e5dd-567b-4df6-ae5a-3937e0fc027f",
+      "uuid": "de1f44bd-db2a-4429-8fe4-f837d4619678",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3790,7 +3791,7 @@
       "net": "GND"
     },
     {
-      "uuid": "f3827a21-bd87-4d06-94b7-4d0a39f872c5",
+      "uuid": "f290cd71-e286-424c-8dac-11d21ea5a9c7",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3804,7 +3805,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e55f0a43-010b-4b67-8001-8f5fe93b4ea3",
+      "uuid": "ae53f073-97af-4378-a50b-a00967009501",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3818,7 +3819,7 @@
       "net": "GND"
     },
     {
-      "uuid": "384196c7-0221-4b98-9578-ef220dffdcb3",
+      "uuid": "da26931d-c8a2-436e-ad23-cc52bfb98e5a",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3832,7 +3833,7 @@
       "net": "GND"
     },
     {
-      "uuid": "2ffd7567-d41e-4a66-89a5-8a184d442b84",
+      "uuid": "2d5e915a-665f-4eb8-9d0e-1dfc13351ba1",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3846,7 +3847,7 @@
       "net": "GND"
     },
     {
-      "uuid": "5f215fee-775e-4ae9-a46f-7b554bb5af47",
+      "uuid": "10553aa6-89a6-4478-a45e-5e8261cc6ee2",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3860,7 +3861,7 @@
       "net": "GND"
     },
     {
-      "uuid": "ae48ba06-04ac-4005-aec5-a32ae4bf7ff2",
+      "uuid": "d7e44bdd-5a9d-4e77-bdb9-c2d719ecd355",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3874,7 +3875,7 @@
       "net": "GND"
     },
     {
-      "uuid": "9eef27c0-4432-4c43-8d00-8e5df2035ece",
+      "uuid": "372db641-2fb4-4cdb-ab67-d837217ad0ad",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3888,7 +3889,7 @@
       "net": "GND"
     },
     {
-      "uuid": "fdd73e9c-65fe-4b97-bb84-a22ca151f342",
+      "uuid": "72b8c294-4e08-4832-8aa0-98f2abddaab9",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3902,7 +3903,7 @@
       "net": "GND"
     },
     {
-      "uuid": "9e80e363-bfa3-4aa6-9dfb-899648a082f0",
+      "uuid": "cc11ef22-4ed0-4da7-9361-566029733ffb",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3916,7 +3917,7 @@
       "net": "GND"
     },
     {
-      "uuid": "c1950430-76e0-49e2-9061-66157760c931",
+      "uuid": "1a819e68-a8eb-4d07-bbe1-9eaeec0b3f84",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3930,7 +3931,7 @@
       "net": "GND"
     },
     {
-      "uuid": "1d89cd8a-fad1-4555-8535-9e87a4e63a1a",
+      "uuid": "0fc5efc5-acc9-45e4-8cfa-c753aac2cfa4",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3944,7 +3945,7 @@
       "net": "GND"
     },
     {
-      "uuid": "347ab0bf-72ad-4999-b88d-bce6b84fb752",
+      "uuid": "77e07ac0-b423-411c-be7f-0acd2816bba7",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3958,7 +3959,7 @@
       "net": "GND"
     },
     {
-      "uuid": "7700c81a-42dc-447d-b0d1-a8d30dccf183",
+      "uuid": "3a83aa7a-7b50-42a4-bace-26210ef3308b",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3972,7 +3973,7 @@
       "net": "GND"
     },
     {
-      "uuid": "0490dd47-e9ef-4b24-a51e-929ab894bccc",
+      "uuid": "4f2ad4eb-8aff-44fb-8d0b-01bd1cc0e8bd",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -3986,7 +3987,7 @@
       "net": "GND"
     },
     {
-      "uuid": "a8caf07d-223c-408c-a062-51f09441cc38",
+      "uuid": "7da6b8b2-55f3-4b81-8fa2-9460071eb3fa",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4000,7 +4001,7 @@
       "net": "GND"
     },
     {
-      "uuid": "1742e094-e922-4685-b331-d179ec8f87c1",
+      "uuid": "27326f46-d4fa-4843-a039-38acefc5dd14",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4014,7 +4015,7 @@
       "net": "GND"
     },
     {
-      "uuid": "2e601388-6466-48ff-bd5c-be4dce8caa9c",
+      "uuid": "340bfec6-9645-40bc-9027-08cc7af5567f",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4028,7 +4029,7 @@
       "net": "GND"
     },
     {
-      "uuid": "7612b82e-9c0f-4de8-beb6-86c50145c57c",
+      "uuid": "194f8447-f7ec-4d3f-8e60-6151e4af91a2",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4042,7 +4043,7 @@
       "net": "GND"
     },
     {
-      "uuid": "a7ee8dc6-a9ab-49f6-97a0-5ece01c6518e",
+      "uuid": "a394d1c8-af05-45f6-9a38-bb91c125997f",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4056,7 +4057,7 @@
       "net": "GND"
     },
     {
-      "uuid": "563d59e0-b8ed-4983-98cb-0dac12b52dfb",
+      "uuid": "79a89fa2-1a5f-4b9c-a7f6-48dbe37002c4",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4070,7 +4071,7 @@
       "net": "GND"
     },
     {
-      "uuid": "9d6e895e-372a-4f61-80e1-c6fcdde216f4",
+      "uuid": "197e1bcc-a697-4b1e-806e-26f9985247c9",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4084,7 +4085,7 @@
       "net": "GND"
     },
     {
-      "uuid": "147e7da0-099c-4077-8d84-88e04b090cdb",
+      "uuid": "a1599732-d8a8-4d52-8f2a-ec5366402cb3",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4098,7 +4099,7 @@
       "net": "GND"
     },
     {
-      "uuid": "3c25419b-3d9d-46ff-9e8b-a2d7933cc844",
+      "uuid": "362593a4-aac4-45d2-9e0f-aa533df242f2",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4112,7 +4113,7 @@
       "net": "GND"
     },
     {
-      "uuid": "262a3dc3-0c30-41ba-93e4-7616010780ae",
+      "uuid": "fbebb5af-e5c8-495b-b2fc-2431d6842df7",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4126,7 +4127,7 @@
       "net": "GND"
     },
     {
-      "uuid": "0174fe2e-07a6-4aae-9ba2-4e28f8625f70",
+      "uuid": "9236827d-fdc9-4d31-8b78-a3a11335d140",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4140,7 +4141,7 @@
       "net": "GND"
     },
     {
-      "uuid": "7814ccaf-092b-4397-90e2-e2b638f2fee7",
+      "uuid": "62adebcb-2830-40b4-82f2-9ae81615557f",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4154,7 +4155,7 @@
       "net": "GND"
     },
     {
-      "uuid": "5a880f14-98af-48bf-a645-b4e51c975802",
+      "uuid": "f0c48e20-0697-44a6-841e-53b30d8e1816",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4168,7 +4169,7 @@
       "net": "GND"
     },
     {
-      "uuid": "a64c913e-2b35-47f4-bcb1-abda5d633f5b",
+      "uuid": "69fbc7b7-e292-4097-9e3a-7625d2e97a57",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4182,7 +4183,7 @@
       "net": "GND"
     },
     {
-      "uuid": "1d4b69eb-5b49-43e9-8e3e-92bc9edb61bc",
+      "uuid": "cc948028-e17b-4690-b0a4-f327aa0003d7",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4196,7 +4197,7 @@
       "net": "GND"
     },
     {
-      "uuid": "aa7c273c-6977-4969-a8dd-6329e1e0fcdc",
+      "uuid": "44e420ac-4197-421c-a2f4-c636085533c6",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4210,7 +4211,7 @@
       "net": "GND"
     },
     {
-      "uuid": "12940448-194c-4bd9-992d-d534a8160fea",
+      "uuid": "46d7114c-2517-4fd4-96e9-0c00f3535522",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4224,7 +4225,7 @@
       "net": "GND"
     },
     {
-      "uuid": "64a8e8e4-1870-457a-a7d6-d1e34224ae5c",
+      "uuid": "7ddf5ca0-00c6-4831-aa37-a32c4cbeb7b4",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4238,7 +4239,7 @@
       "net": "GND"
     },
     {
-      "uuid": "31a7c252-21a9-4eb6-bd65-65654ff324a0",
+      "uuid": "4c68380e-9396-4cee-805b-06464b0609a7",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4252,7 +4253,7 @@
       "net": "GND"
     },
     {
-      "uuid": "a2c2e009-4ffa-45d6-81b0-2de8b3bfee0e",
+      "uuid": "a581b81e-284a-477c-a6af-0b473ef5cdbd",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4266,7 +4267,7 @@
       "net": "GND"
     },
     {
-      "uuid": "7422e23f-eab1-4060-89e8-3522934d9962",
+      "uuid": "ec8ce328-9f3d-4d8a-b6d6-70b6d76cda73",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4280,7 +4281,7 @@
       "net": "GND"
     },
     {
-      "uuid": "074acdd5-3f62-4642-a345-caf947f6a16b",
+      "uuid": "83ba977a-2ba8-4fc6-afc2-ecf9be5f9efb",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4294,7 +4295,7 @@
       "net": "GND"
     },
     {
-      "uuid": "895710c1-ff1c-47f8-a618-a12a22acf458",
+      "uuid": "a43f1b5b-676d-4491-9ddf-d235e4216f30",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4308,7 +4309,7 @@
       "net": "GND"
     },
     {
-      "uuid": "bee2219a-e7e8-425c-b251-05a40a146d46",
+      "uuid": "9e08a398-39bb-46bd-bd22-dd9fe8192198",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4322,7 +4323,7 @@
       "net": "GND"
     },
     {
-      "uuid": "65ac3ba5-779b-42f0-bdf2-730f29d87e54",
+      "uuid": "49f10d89-fe3e-4f67-a018-15c33ac29587",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4336,7 +4337,7 @@
       "net": "GND"
     },
     {
-      "uuid": "8582ac75-b470-49d3-806b-6fdfc2cc1644",
+      "uuid": "a0e6fc49-f2c9-4067-9bdf-51e36680050d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4350,7 +4351,7 @@
       "net": "GND"
     },
     {
-      "uuid": "4d310301-8ffd-4f05-b428-fd969c54b1f4",
+      "uuid": "80d3d260-6139-43e3-80ee-67715dbaa521",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4364,7 +4365,7 @@
       "net": "GND"
     },
     {
-      "uuid": "c427603a-a04d-41f1-bd02-d6ad5e63e473",
+      "uuid": "559a0269-572f-4825-9d74-f9cb3a33c9a4",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4378,7 +4379,7 @@
       "net": "GND"
     },
     {
-      "uuid": "2a6829e9-6e92-4259-b62f-5849137e15d6",
+      "uuid": "689d5ee1-40e3-44d4-9fde-e8f544688754",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4392,7 +4393,7 @@
       "net": "GND"
     },
     {
-      "uuid": "d3121c8f-ab93-4306-a618-7660400a1ac4",
+      "uuid": "be270e56-b5d6-4bc8-9df5-e4f76ece89cf",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4406,7 +4407,7 @@
       "net": "GND"
     },
     {
-      "uuid": "28800893-a346-4bab-836c-8158f54764ca",
+      "uuid": "016191a4-844f-4719-8017-0f9d1284088a",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4420,7 +4421,7 @@
       "net": "GND"
     },
     {
-      "uuid": "162d55b0-30d6-43f7-b4f5-0e9ec0a1b54e",
+      "uuid": "0b83dfd8-85c4-47d0-a4cc-beafdb5b9504",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4434,7 +4435,7 @@
       "net": "GND"
     },
     {
-      "uuid": "c2dfb1da-048f-41f6-8c56-3318ef5b03ae",
+      "uuid": "7b5249d5-54f6-473a-8b0f-5223fdf924b9",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4448,7 +4449,7 @@
       "net": "GND"
     },
     {
-      "uuid": "cb04969a-169d-4031-848e-388299835359",
+      "uuid": "f96fc610-2d4f-4dab-8f4a-75bf72544bbb",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4462,7 +4463,7 @@
       "net": "GND"
     },
     {
-      "uuid": "1038e214-ad7e-47db-805b-c02a3ce5c536",
+      "uuid": "d3a2657c-8285-4b28-a86a-938fcd8bbf60",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4476,7 +4477,7 @@
       "net": "GND"
     },
     {
-      "uuid": "98bd94c6-539c-403c-b782-685cfc42a0f5",
+      "uuid": "b594004a-9dec-4f3e-8f93-bdbd5579d34c",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4490,7 +4491,7 @@
       "net": "GND"
     },
     {
-      "uuid": "1f577e7f-3bdf-4358-875a-fb7d12a12468",
+      "uuid": "8f3a915d-f04b-488b-856e-4f25072a740c",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4504,7 +4505,7 @@
       "net": "GND"
     },
     {
-      "uuid": "6fb9499b-e484-42e8-8b08-a6b7f03040f0",
+      "uuid": "05e4498e-6acc-4573-b320-9b1d7510e6b2",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4518,7 +4519,7 @@
       "net": "GND"
     },
     {
-      "uuid": "c3bb3f12-1640-4f78-8cb2-817b3303649f",
+      "uuid": "cf1a852b-1635-4274-9157-bc72b679b0aa",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4532,7 +4533,7 @@
       "net": "GND"
     },
     {
-      "uuid": "5d9d4c60-b973-49b9-8f93-e843477b29ed",
+      "uuid": "f2ee3455-db5d-4919-8f3e-4e2fd806578b",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4546,7 +4547,7 @@
       "net": "GND"
     },
     {
-      "uuid": "41c91a8f-99a6-4c82-9554-1da265fcc9df",
+      "uuid": "63feb823-8730-41f3-956e-782b87cec801",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4560,7 +4561,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e0c4b002-8d7b-4663-8425-8599cf6d634d",
+      "uuid": "395591cc-ff5c-4f2a-bbe8-a351cb59bbb2",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4574,7 +4575,7 @@
       "net": "GND"
     },
     {
-      "uuid": "235b947e-15a6-44fb-aa6c-c8ca9c71cdc0",
+      "uuid": "1f8dd901-eda2-4992-b3a6-9721ece1c113",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4588,7 +4589,7 @@
       "net": "GND"
     },
     {
-      "uuid": "74f766c9-dba9-43a4-a7b9-844f956a5fdf",
+      "uuid": "9c402481-943a-4813-b0c7-4e499db1bcf6",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4602,7 +4603,7 @@
       "net": "GND"
     },
     {
-      "uuid": "60676cdf-10b6-47bb-a046-d7d7d01f7b56",
+      "uuid": "97f83101-fb32-4e28-9d3f-41c454a25e52",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4616,7 +4617,7 @@
       "net": "GND"
     },
     {
-      "uuid": "da9cfb87-9023-4883-b2da-279adfea80a4",
+      "uuid": "ba19ccac-e10a-4e87-9756-638a9a60cc36",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4630,7 +4631,7 @@
       "net": "USB_DM_CON"
     },
     {
-      "uuid": "4a65110d-4484-4d0f-9337-0894207b7d7d",
+      "uuid": "31fb1982-1e61-4859-b2fc-67ef7abe44cc",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4644,7 +4645,7 @@
       "net": "USB_DM_CON"
     },
     {
-      "uuid": "5d9e5d22-c0d9-41b4-ad56-f2ee2bf9b8d1",
+      "uuid": "3d87b823-6f87-458b-bae6-b7419bdabcec",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4658,7 +4659,7 @@
       "net": "USB_DP_CON"
     },
     {
-      "uuid": "d547bd51-2af0-4f59-a4d2-c976ba276863",
+      "uuid": "a85bda32-6c18-41b4-a835-e550e042006e",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4672,7 +4673,7 @@
       "net": "USB_DP_CON"
     },
     {
-      "uuid": "426e5aac-0024-40b4-a827-037daf69658d",
+      "uuid": "24e07be1-d31b-4a10-9dbd-5ea808957ad2",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4686,7 +4687,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "67cb91fa-3b26-4ff0-9e1a-b30c7dc281a9",
+      "uuid": "050a215b-29a8-486a-9a33-304c6b4c3f21",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4700,7 +4701,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "a49b8b17-e571-4d86-a8c2-7a4c48bf74c8",
+      "uuid": "acaf364a-74e7-4c09-b354-196cce0deb09",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4714,7 +4715,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "e13ccc9d-be08-435e-b78e-56317a5c6b16",
+      "uuid": "ac223ddf-8d56-473e-8030-58183b3dc152",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4728,7 +4729,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "d3660a3e-384b-4466-b184-492543cbb783",
+      "uuid": "1795a261-ef45-4039-8144-2bf6e593a67a",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4742,7 +4743,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "ea67bf48-6c9a-45c0-b672-39d2d9b02521",
+      "uuid": "9052e2ff-5c35-4ae8-9d28-fa7e4190e49e",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4756,7 +4757,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "a104161c-0de1-4274-956b-043941b11183",
+      "uuid": "c857421c-3ccb-4ed9-a95e-0ab086f9d53f",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4770,7 +4771,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "258763d6-566a-49e8-bf82-2c3f851a4f73",
+      "uuid": "d7046927-f591-4fdd-bd5d-8c8462477e30",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4784,7 +4785,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "c61b7381-5a2e-4ce8-a9c6-df539f74fa2d",
+      "uuid": "eea44771-1b3d-4396-b895-97e2ca56ed4b",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -4798,7 +4799,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "b4713f3b-9d60-4f53-80e3-32aad8d59cc7",
+      "uuid": "4b669a23-2bcb-4726-916b-52614ddf0cfc",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
@@ -4812,7 +4813,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "dec3f844-2a33-4fd8-9f23-c4a869c8f432",
+      "uuid": "6b2ecd45-cae9-46d8-9ac3-2b663df0d2a7",
       "layer": "F.Cu",
       "width": 2,
       "start": {
@@ -4826,7 +4827,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "66b1bb05-a204-421f-92f5-44e51e10c963",
+      "uuid": "858f1d67-e680-4db7-b5ce-ac17445a1d46",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
@@ -4840,7 +4841,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "3e384849-71ae-494d-8073-bbfa0844bfce",
+      "uuid": "dbc919d7-0046-4166-8e8d-854232b61c81",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
@@ -4854,7 +4855,21 @@
       "net": "+12V"
     },
     {
-      "uuid": "7a0ecd1e-eb3e-4c57-b176-cee7d8db4449",
+      "uuid": "d093f259-0de7-4a1d-89f2-d9cea08f9694",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 59.9,
+        "y": 111.2
+      },
+      "end": {
+        "x": 59.9,
+        "y": 112.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "525ba234-a86b-4d5b-be34-86dd5ea075e1",
       "layer": "F.Cu",
       "width": 2,
       "start": {
@@ -4868,7 +4883,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "67ecbf0f-212f-4467-bd37-0e3f719c0305",
+      "uuid": "20d7367e-1199-4918-9706-543dae99c9ac",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
@@ -4882,7 +4897,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "c5249c48-5b4d-4f5f-9f10-60ea44b391a9",
+      "uuid": "f16ee515-1e94-40a0-9fca-17019227d935",
       "layer": "F.Cu",
       "width": 2,
       "start": {
@@ -4896,7 +4911,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "c4542469-23b6-48f0-95e4-5d4a957684d7",
+      "uuid": "968356d4-3cb0-4225-8468-80c891606089",
       "layer": "F.Cu",
       "width": 2,
       "start": {
@@ -4910,3087 +4925,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "86ed1ad0-0f40-4492-a135-2616eca04e0e",
-      "layer": "B.Cu",
-      "width": 1,
-      "start": {
-        "x": 9,
-        "y": 74.6
-      },
-      "end": {
-        "x": 9,
-        "y": 80
-      },
-      "net": "+12V"
-    },
-    {
-      "uuid": "4704deeb-95fc-4548-8900-0a5238f554a0",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 55,
-        "y": 74.6
-      },
-      "end": {
-        "x": 9,
-        "y": 74.6
-      },
-      "net": "+12V"
-    },
-    {
-      "uuid": "f7fdfb1a-db8d-4955-b7e6-7d73eb984782",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 59.9,
-        "y": 112.5
-      },
-      "end": {
-        "x": 59.9,
-        "y": 40.9
-      },
-      "net": "+12V"
-    },
-    {
-      "uuid": "f6448104-7195-4031-a1ee-67887102055f",
-      "layer": "B.Cu",
-      "width": 1,
-      "start": {
-        "x": 8.25,
-        "y": 80.75
-      },
-      "end": {
-        "x": 8.25,
-        "y": 83.5
-      },
-      "net": "+12V"
-    },
-    {
-      "uuid": "2e742cad-73ea-47ec-8c03-2fb13505b4f1",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 12,
-        "y": 74.6
-      },
-      "end": {
-        "x": 12,
-        "y": 49.4
-      },
-      "net": "+12V"
-    },
-    {
-      "uuid": "6d407117-e62e-4bb9-8721-be82eac58b61",
-      "layer": "B.Cu",
-      "width": 1,
-      "start": {
-        "x": 9,
-        "y": 80
-      },
-      "end": {
-        "x": 8.25,
-        "y": 80.75
-      },
-      "net": "+12V"
-    },
-    {
-      "uuid": "ebacd1cf-810b-4bd3-bba0-ff843716e742",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 70.2,
-        "y": 38.9
-      },
-      "end": {
-        "x": 69.4,
-        "y": 39.7
-      },
-      "net": "VIN_DC"
-    },
-    {
-      "uuid": "d374bb96-ef2c-43b8-92ee-2e18acf524f2",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 63.3,
-        "y": 39.7
-      },
-      "end": {
-        "x": 62.5,
-        "y": 40.5
-      },
-      "net": "VIN_DC"
-    },
-    {
-      "uuid": "752905c2-8531-4c24-b504-43270c7feffa",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 69.4,
-        "y": 39.7
-      },
-      "end": {
-        "x": 63.3,
-        "y": 39.7
-      },
-      "net": "VIN_DC"
-    },
-    {
-      "uuid": "65cdbb6c-6be6-4b1e-8aec-d9e0d9fd6742",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 62.5,
-        "y": 40.5
-      },
-      "end": {
-        "x": 62.5,
-        "y": 44.38
-      },
-      "net": "VIN_DC"
-    },
-    {
-      "uuid": "de58bbf7-09ed-4365-afa7-53dee4c6b3c4",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 70.2,
-        "y": 30.35
-      },
-      "end": {
-        "x": 70.2,
-        "y": 38.9
-      },
-      "net": "VIN_DC"
-    },
-    {
-      "uuid": "6db6df0a-f084-4ffd-a937-c9092d1a2251",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 19.49,
-        "y": 126.07
-      },
-      "end": {
-        "x": 19.49,
-        "y": 130.2
-      },
-      "net": "PORT_P"
-    },
-    {
-      "uuid": "98eaf589-8598-4893-96cb-56223b2abbc8",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 6.7,
-        "y": 108.4
-      },
-      "end": {
-        "x": 6.85,
-        "y": 108.25
-      },
-      "net": "PORT_P"
-    },
-    {
-      "uuid": "a7260535-b7c3-459d-aaff-1e2352b9c5c6",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 7.5,
-        "y": 131
-      },
-      "end": {
-        "x": 6.7,
-        "y": 130.2
-      },
-      "net": "PORT_P"
-    },
-    {
-      "uuid": "3a83c091-9ff6-4264-8ce5-0e322120b545",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 18.69,
-        "y": 131
-      },
-      "end": {
-        "x": 7.5,
-        "y": 131
-      },
-      "net": "PORT_P"
-    },
-    {
-      "uuid": "9ffd2d2a-3361-410d-af81-52a8c95ba253",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 19.49,
-        "y": 130.2
-      },
-      "end": {
-        "x": 18.69,
-        "y": 131
-      },
-      "net": "PORT_P"
-    },
-    {
-      "uuid": "67dbad57-a099-46a0-8736-5fa07485da9e",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 6.85,
-        "y": 108.25
-      },
-      "end": {
-        "x": 7,
-        "y": 108.25
-      },
-      "net": "PORT_P"
-    },
-    {
-      "uuid": "e492be3a-4261-4cdc-a2e4-b58ad222b3da",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 6.7,
-        "y": 130.2
-      },
-      "end": {
-        "x": 6.7,
-        "y": 108.4
-      },
-      "net": "PORT_P"
-    },
-    {
-      "uuid": "228ca206-ed93-41ea-a3fe-0f41cbfdc713",
-      "layer": "B.Cu",
-      "width": 0.5,
-      "start": {
-        "x": 20.51,
-        "y": 124.29
-      },
-      "end": {
-        "x": 19.49,
-        "y": 126.07
-      },
-      "net": "PORT_P"
-    },
-    {
-      "uuid": "f8dc2c64-65cf-4b13-a046-94b00565f24a",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 75.285,
-        "y": 43.745
-      },
-      "end": {
-        "x": 80.8,
-        "y": 43.745
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "ac0bc0ce-bf16-42dd-87c8-6638b1f8b6fb",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 78.345,
-        "y": 56.845
-      },
-      "end": {
-        "x": 80.8,
-        "y": 56.845
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "a7366a7f-ea50-4a77-8c29-5f297f682193",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 57.4,
-        "y": 37
-      },
-      "end": {
-        "x": 57.4,
-        "y": 101.53
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "1d5167bc-f8b6-4ae0-a28d-85c6fd9f64dc",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 80.8,
-        "y": 56.845
-      },
-      "end": {
-        "x": 80.8,
-        "y": 37.8
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "992078c3-0997-45a3-acb7-87c781516fcb",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 80.8,
-        "y": 37.8
-      },
-      "end": {
-        "x": 80,
-        "y": 37
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "469a8885-5fff-44fe-aafa-752d2d28ad62",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 80,
-        "y": 37
-      },
-      "end": {
-        "x": 46.6,
-        "y": 37
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "39530be9-ba96-458a-829a-7549109bd225",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 13.7,
-        "y": 32.6
-      },
-      "end": {
-        "x": 13.7,
-        "y": 34.22
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "8e28dd83-8aee-47e3-83c6-9326fc406c0c",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 35.7,
-        "y": 13.8
-      },
-      "end": {
-        "x": 37.35,
-        "y": 13.8
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "b5f211a0-7b37-477d-882d-7d031a0811f3",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 34,
-        "y": 15.5
-      },
-      "end": {
-        "x": 35.7,
-        "y": 13.8
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "0b3583b7-2747-4f2e-a166-d1a104078fe1",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 12.72766,
-        "y": 35.195
-      },
-      "end": {
-        "x": 11.675,
-        "y": 35.195
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "d80a0202-d7bc-4596-9e74-3272466611d8",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 17.6,
-        "y": 15.5
-      },
-      "end": {
-        "x": 34,
-        "y": 15.5
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "a8f39848-0a65-4f87-a089-151ea4cc933d",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 13.7,
-        "y": 34.22266
-      },
-      "end": {
-        "x": 12.72766,
-        "y": 35.195
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "ac384d26-4962-4f1a-8c05-9858c2fc6c64",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 81.7,
-        "y": 53.5
-      },
-      "end": {
-        "x": 66.36,
-        "y": 53.5
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "677aae25-456c-4a6d-9d7e-f96898fe8595",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 65.56,
-        "y": 54.3
-      },
-      "end": {
-        "x": 65.56,
-        "y": 57.48
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "adb68c25-6abe-4907-8c50-dc0551576b90",
-      "layer": "F.Cu",
-      "width": 0.5,
-      "start": {
-        "x": 77.24,
-        "y": 15.6
-      },
-      "end": {
-        "x": 75.3,
-        "y": 15.6
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "cd9f9987-7e3a-4b11-b7ea-fa5419f2b1a8",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 66.36,
-        "y": 53.5
-      },
-      "end": {
-        "x": 65.56,
-        "y": 54.3
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "f4716d2e-ba9d-4095-af37-783706ad559e",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 75.3,
-        "y": 10.8
-      },
-      "end": {
-        "x": 75.3,
-        "y": 20
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "2178ddbe-b738-43f0-975b-aed0bdbbeaf5",
-      "layer": "F.Cu",
-      "width": 0.5,
-      "start": {
-        "x": 77.24,
-        "y": 10.8
-      },
-      "end": {
-        "x": 75.3,
-        "y": 10.8
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "96ed52d7-570a-4260-ab79-3db48dc837de",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 82.5,
-        "y": 52.7
-      },
-      "end": {
-        "x": 81.7,
-        "y": 53.5
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "c7c64c72-9a3a-479c-93c8-947041612858",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 82.5,
-        "y": 34.6
-      },
-      "end": {
-        "x": 82.5,
-        "y": 52.7
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "b5a6e8c2-91c7-497d-b7da-9c82a6e0268f",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 75.3,
-        "y": 18
-      },
-      "end": {
-        "x": 75.3,
-        "y": 20
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "bd3aef16-8c8f-41d8-b16f-5fc254596bcd",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 75.3,
-        "y": 20
-      },
-      "end": {
-        "x": 82.5,
-        "y": 27.2
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "8d4765be-0b89-47ef-9dd0-47d1d265efe7",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 82.5,
-        "y": 27.2
-      },
-      "end": {
-        "x": 82.5,
-        "y": 34.6
-      },
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "1ebf3f4c-d3e4-4809-86c7-ee3f48d37396",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.33,
-        "y": 1.8
-      },
-      "end": {
-        "x": 11.85,
-        "y": 1.8
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "ce54ca43-9f0d-4d38-8260-a9cd95ffde31",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 16.13,
-        "y": 2.6
-      },
-      "end": {
-        "x": 15.33,
-        "y": 1.8
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "b22ccbda-eeba-4332-aba1-ad771d4efd50",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 12.15,
-        "y": 131.2
-      },
-      "end": {
-        "x": 11.35,
-        "y": 130.4
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "6bee7614-1f91-444d-b454-3019d0d3a4f9",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.35,
-        "y": 128.17
-      },
-      "end": {
-        "x": 10.55,
-        "y": 127.37
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "55226987-ee22-4d76-85b1-388af881e06f",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 8.8,
-        "y": 5.63
-      },
-      "end": {
-        "x": 8,
-        "y": 6.43
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "e30b3a49-f971-43f5-9154-357fcdf8ab62",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.05,
-        "y": 4.83
-      },
-      "end": {
-        "x": 10.25,
-        "y": 5.63
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "d7aa30ae-f3ab-46e3-89f4-29d09ab28fbd",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 23.57,
-        "y": 130.4
-      },
-      "end": {
-        "x": 22.77,
-        "y": 131.2
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "2842b3f3-eb22-41a6-98a2-01f0ca9fee85",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 8,
-        "y": 13
-      },
-      "end": {
-        "x": 2,
-        "y": 19
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "cf998b99-341f-4aaa-baff-956ac08f7e76",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.25,
-        "y": 5.63
-      },
-      "end": {
-        "x": 8.8,
-        "y": 5.63
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "8ecdb2f1-b5da-4971-9b62-4fe09441883b",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 22.77,
-        "y": 131.2
-      },
-      "end": {
-        "x": 12.15,
-        "y": 131.2
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "68483a4d-d66d-445d-a10d-93a048db375a",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 8,
-        "y": 6.43
-      },
-      "end": {
-        "x": 8,
-        "y": 13
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "2c73f102-a2b2-4a7d-972c-6573e23db408",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.85,
-        "y": 1.8
-      },
-      "end": {
-        "x": 11.05,
-        "y": 2.6
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "2cd2c574-0967-4ade-8189-500b044e4aa5",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.55,
-        "y": 127.37
-      },
-      "end": {
-        "x": 8.8,
-        "y": 127.37
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "8f474716-0df3-4f0c-87a9-5b4cb311d5db",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 2,
-        "y": 113
-      },
-      "end": {
-        "x": 8,
-        "y": 119
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "22cc6fab-3075-4603-ab12-44c01293f268",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 8.8,
-        "y": 127.37
-      },
-      "end": {
-        "x": 8,
-        "y": 126.57
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "78d05383-7695-4af5-83dd-fafa3bab353f",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.05,
-        "y": 2.6
-      },
-      "end": {
-        "x": 11.05,
-        "y": 4.83
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "c3e3ff03-e2f2-49de-803b-4c82af56e92f",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.35,
-        "y": 130.4
-      },
-      "end": {
-        "x": 11.35,
-        "y": 128.17
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "f349a1a4-c20e-4feb-81c4-070e84f4812d",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 8,
-        "y": 119
-      },
-      "end": {
-        "x": 8,
-        "y": 126.57
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "bac3a9bb-9044-4285-9e6f-129197172a15",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 23.57,
-        "y": 126.07
-      },
-      "end": {
-        "x": 23.57,
-        "y": 130.4
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "d77248cf-f0fb-4234-87ae-f31a83573fe0",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 2,
-        "y": 19
-      },
-      "end": {
-        "x": 2,
-        "y": 113
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "774abcc6-86c7-40e6-b72d-c234a3913176",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 16.13,
-        "y": 6.93
-      },
-      "end": {
-        "x": 16.13,
-        "y": 2.6
-      },
-      "net": "ETH_1"
-    },
-    {
-      "uuid": "551153b8-eae3-4263-b801-9ef10103987e",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 9.3,
-        "y": 122.99
-      },
-      "end": {
-        "x": 8.5,
-        "y": 122.19
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "c64cd9be-d1b4-40e5-b9d3-6d4e8c6dfa05",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 13.75,
-        "y": 10.01
-      },
-      "end": {
-        "x": 12.95,
-        "y": 10.01
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "32624ad9-a4c1-443e-91c6-4b4a6979e329",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 12.55,
-        "y": 10.41
-      },
-      "end": {
-        "x": 12.55,
-        "y": 13.94621
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "25bfce9c-e2be-495c-86c5-0ca766a1b658",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 2.5,
-        "y": 112.5
-      },
-      "end": {
-        "x": 8.5,
-        "y": 118.5
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "ad7f7adf-ded7-42c2-ae01-cdc48219d606",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.75,
-        "y": 10.01
-      },
-      "end": {
-        "x": 15.35,
-        "y": 10.41
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "bb3207c8-b033-42d7-973f-795b4489121a",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 17.15,
-        "y": 8.71
-      },
-      "end": {
-        "x": 17.15,
-        "y": 9.21
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "28d4572f-f13f-43a1-bdd6-29571f12ad8d",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 17.15,
-        "y": 9.21
-      },
-      "end": {
-        "x": 16.35,
-        "y": 10.01
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "6a151f66-802c-4c6d-af79-bd0bfe1e8d9f",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 19.55,
-        "y": 122.59
-      },
-      "end": {
-        "x": 19.15,
-        "y": 122.99
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "62095b22-0075-4831-bb18-9604d95f85d7",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 12.15,
-        "y": 14.34621
-      },
-      "end": {
-        "x": 11.75,
-        "y": 14.34621
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "bf5b8d30-2989-4009-91df-61208c6836a1",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 8.5,
-        "y": 10.81
-      },
-      "end": {
-        "x": 8.5,
-        "y": 13.5
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "9f7c134d-9606-4a75-a26a-da048f6ed068",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.35,
-        "y": 13.94621
-      },
-      "end": {
-        "x": 14.95,
-        "y": 14.34621
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "32c505ff-9a70-4075-bfa0-90d27d037cb3",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 21.15,
-        "y": 122.99
-      },
-      "end": {
-        "x": 20.75,
-        "y": 122.59
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "d49e3b87-102a-4ce8-b3a6-43487281a252",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 20.35,
-        "y": 118.65379
-      },
-      "end": {
-        "x": 19.95,
-        "y": 118.65379
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "6f169025-8546-4456-8779-e72147a9449a",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 22.55,
-        "y": 124.29
-      },
-      "end": {
-        "x": 22.55,
-        "y": 123.79
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "2c875764-7b59-4aa2-b4a7-92758a1a7798",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 14.55,
-        "y": 14.34621
-      },
-      "end": {
-        "x": 14.15,
-        "y": 13.94621
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "6dfc9174-7b94-4af7-9fad-6db716acd542",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 20.75,
-        "y": 122.59
-      },
-      "end": {
-        "x": 20.75,
-        "y": 119.05379
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "15554355-6665-4240-acb2-91b637601414",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 21.75,
-        "y": 122.99
-      },
-      "end": {
-        "x": 21.15,
-        "y": 122.99
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "4036d142-5a36-4d9c-a804-a1a23f586d18",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.35,
-        "y": 13.94621
-      },
-      "end": {
-        "x": 11.35,
-        "y": 10.41
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "f7ec9bd2-7ad7-4102-a11f-7ef8583c530d",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 19.15,
-        "y": 122.99
-      },
-      "end": {
-        "x": 9.3,
-        "y": 122.99
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "3bf8a933-f0de-4283-9023-fec1c0523d95",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 8.5,
-        "y": 13.5
-      },
-      "end": {
-        "x": 2.5,
-        "y": 19.5
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "572a2860-0691-47d3-9367-3c54ad9c5f12",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 14.15,
-        "y": 10.41
-      },
-      "end": {
-        "x": 13.75,
-        "y": 10.01
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "e1fdb603-a840-44f0-bb70-45e28421acd7",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 9.3,
-        "y": 10.01
-      },
-      "end": {
-        "x": 8.5,
-        "y": 10.81
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "c591881a-3745-4c6f-8029-37af2db6982a",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 2.5,
-        "y": 19.5
-      },
-      "end": {
-        "x": 2.5,
-        "y": 112.5
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "aff4b66e-31db-4ed7-a868-d9eba8682eed",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 12.95,
-        "y": 10.01
-      },
-      "end": {
-        "x": 12.55,
-        "y": 10.41
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "706681ad-c4f4-42b1-8d2b-82be7c770722",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.35,
-        "y": 10.41
-      },
-      "end": {
-        "x": 15.35,
-        "y": 13.94621
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "5c2e93c6-50d3-47af-b6e2-3336aee5ceb6",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 12.55,
-        "y": 13.94621
-      },
-      "end": {
-        "x": 12.15,
-        "y": 14.34621
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "3132b4c1-8ca6-40e5-989f-51da72b098fd",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 20.75,
-        "y": 119.05379
-      },
-      "end": {
-        "x": 20.35,
-        "y": 118.65379
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "e16f273f-d6e7-4bd2-83d5-455463c5c89f",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 22.55,
-        "y": 123.79
-      },
-      "end": {
-        "x": 21.75,
-        "y": 122.99
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "6d01408b-8874-45a2-9f92-8897d5bdfdd3",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.75,
-        "y": 14.34621
-      },
-      "end": {
-        "x": 11.35,
-        "y": 13.94621
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "072817bd-5296-47bf-9258-902e2fe9cafe",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 16.35,
-        "y": 10.01
-      },
-      "end": {
-        "x": 15.75,
-        "y": 10.01
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "c9b475c7-4dd3-484a-9139-cb671300370b",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 19.55,
-        "y": 119.05379
-      },
-      "end": {
-        "x": 19.55,
-        "y": 122.59
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "b982ae7f-d810-484f-b1c1-70042aaeb74d",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 19.95,
-        "y": 118.65379
-      },
-      "end": {
-        "x": 19.55,
-        "y": 119.05379
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "4229b968-cf37-4c47-85e0-5fa059eec6da",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 14.15,
-        "y": 13.94621
-      },
-      "end": {
-        "x": 14.15,
-        "y": 10.41
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "5e218703-fefd-4614-b6a8-30ef925b66af",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 14.95,
-        "y": 14.34621
-      },
-      "end": {
-        "x": 14.55,
-        "y": 14.34621
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "48498fce-47d1-49b2-a04a-7467b0082578",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.35,
-        "y": 10.41
-      },
-      "end": {
-        "x": 10.95,
-        "y": 10.01
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "a1c803b9-ac67-4ac8-b107-7c87adcc13f2",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.95,
-        "y": 10.01
-      },
-      "end": {
-        "x": 9.3,
-        "y": 10.01
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "95f0bf38-014f-4137-b893-cb412eb4a052",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 8.5,
-        "y": 118.5
-      },
-      "end": {
-        "x": 8.5,
-        "y": 122.19
-      },
-      "net": "ETH_2"
-    },
-    {
-      "uuid": "3acb1efc-c393-40c2-83e1-b6a9fe3f22b6",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 18.17,
-        "y": 2.6
-      },
-      "end": {
-        "x": 17.37,
-        "y": 1.8
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "d43e4c3d-d132-48f1-9ab8-6c9d52fef7bb",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.4,
-        "y": 5.63
-      },
-      "end": {
-        "x": 9.6,
-        "y": 6.43
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "eba87caa-b023-49bb-b4d8-78ce11b9ab3c",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 9.6,
-        "y": 6.43
-      },
-      "end": {
-        "x": 9.6,
-        "y": 12.41
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "cbde6aa8-72bc-4448-a9a0-cb9c9b8baf58",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 21.53,
-        "y": 130.4
-      },
-      "end": {
-        "x": 22.33,
-        "y": 131.2
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "f9d0cee6-a93f-4c40-b8fb-043410563d78",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 28.9,
-        "y": 117.79
-      },
-      "end": {
-        "x": 28.1,
-        "y": 116.99
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "b0413018-1c7f-4662-972c-310166415f94",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.25,
-        "y": 5.63
-      },
-      "end": {
-        "x": 10.4,
-        "y": 5.63
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "e7b710e7-5c3c-48a2-88af-50a2bbbbf341",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 28.9,
-        "y": 130.4
-      },
-      "end": {
-        "x": 28.9,
-        "y": 117.79
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "38a5802f-8654-4b2f-a667-405b9d4b2d93",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 28.1,
-        "y": 131.2
-      },
-      "end": {
-        "x": 28.9,
-        "y": 130.4
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "15174266-ff6e-4bd3-ba16-13ee08bdc42c",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.05,
-        "y": 2.6
-      },
-      "end": {
-        "x": 11.05,
-        "y": 4.83
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "e3f4ea25-beea-45f5-b882-21c2abe2bd82",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 9.6,
-        "y": 117.79
-      },
-      "end": {
-        "x": 9.6,
-        "y": 119.59
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "9554c51b-7615-4385-ab48-e9b9fb240971",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.05,
-        "y": 4.83
-      },
-      "end": {
-        "x": 10.25,
-        "y": 5.63
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "6f746fd1-1856-4aca-973d-6159e343b113",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 22.33,
-        "y": 131.2
-      },
-      "end": {
-        "x": 28.1,
-        "y": 131.2
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "0de8a5dd-934f-4c46-bb08-189fc5179dad",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.4,
-        "y": 116.99
-      },
-      "end": {
-        "x": 9.6,
-        "y": 117.79
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "f2a41b40-d9f7-4553-b725-5eaa3f3ad7b3",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 17.37,
-        "y": 1.8
-      },
-      "end": {
-        "x": 11.85,
-        "y": 1.8
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "315cd3d8-721e-4d53-bcf2-24abe0b203fc",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 28.1,
-        "y": 116.99
-      },
-      "end": {
-        "x": 10.4,
-        "y": 116.99
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "07d27f27-22f0-4c51-87d7-6b68dfa6c9cc",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 21.53,
-        "y": 126.07
-      },
-      "end": {
-        "x": 21.53,
-        "y": 130.4
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "d0e323a0-c584-47fa-8e34-be5592862a2b",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.85,
-        "y": 1.8
-      },
-      "end": {
-        "x": 11.05,
-        "y": 2.6
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "772b4771-2567-40b5-82ab-177e86738416",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 18.17,
-        "y": 6.93
-      },
-      "end": {
-        "x": 18.17,
-        "y": 2.6
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "8230aac9-3e9a-4f48-ab81-4539bc791514",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10,
-        "y": 117
-      },
-      "end": {
-        "x": 10,
-        "y": 119.19
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "00c2852d-a6f8-4354-b198-48bd91c1f120",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10,
-        "y": 15
-      },
-      "end": {
-        "x": 4,
-        "y": 21
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "66b4cae8-d9c5-4a12-9e23-1a69e7a99173",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10,
-        "y": 12.81
-      },
-      "end": {
-        "x": 10,
-        "y": 15
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "9d89db3d-02e0-4f05-9c00-47fba1edec93",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 9.6,
-        "y": 119.59
-      },
-      "end": {
-        "x": 10,
-        "y": 119.19
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "cb8a90e3-f259-4163-a821-e03426422b0a",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 9.6,
-        "y": 12.41
-      },
-      "end": {
-        "x": 10,
-        "y": 12.81
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "dc09d601-d326-4a50-8d30-5663bd49ab04",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4,
-        "y": 111
-      },
-      "end": {
-        "x": 10,
-        "y": 117
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "7fa288cf-e40d-48f4-ad02-5abff466b304",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4,
-        "y": 21
-      },
-      "end": {
-        "x": 4,
-        "y": 111
-      },
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "3bb6cd1a-4932-4b88-a6cb-b09decdd6d69",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 17.07,
-        "y": 122.99
-      },
-      "end": {
-        "x": 16.67,
-        "y": 122.59
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "4dee0e7f-0361-4d99-bf05-c42f645cbb84",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.43,
-        "y": 13.60381
-      },
-      "end": {
-        "x": 15.43,
-        "y": 10.41
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "88b4c1f0-da6f-4da2-9fa7-fbf70fa9a18b",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 16.67,
-        "y": 119.39619
-      },
-      "end": {
-        "x": 16.27,
-        "y": 118.99619
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "e0010cc4-3d6e-43bf-a859-60a19bf4b1a0",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.5,
-        "y": 10.81
-      },
-      "end": {
-        "x": 10.5,
-        "y": 11.01
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "3314899e-bf92-4494-b1cb-13add57390ba",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 18.47,
-        "y": 124.29
-      },
-      "end": {
-        "x": 18.47,
-        "y": 123.79
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "33e47492-a146-479a-8e36-5bd9f660f4d9",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.5,
-        "y": 122.19
-      },
-      "end": {
-        "x": 10.5,
-        "y": 121.99
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "fc6ab0f2-4490-405f-852b-d06073a82a4d",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 17.03,
-        "y": 10.01
-      },
-      "end": {
-        "x": 16.63,
-        "y": 10.41
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "871bb9a9-3d39-4e8c-a2eb-70633f2a5c8f",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 19.83,
-        "y": 10.01
-      },
-      "end": {
-        "x": 19.43,
-        "y": 10.41
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "602f14bb-e833-45d0-a74b-c56af5fbd825",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.83,
-        "y": 14.00381
-      },
-      "end": {
-        "x": 15.43,
-        "y": 13.60381
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "c67a90e5-c3b3-4731-b3da-538bc8bcc220",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 19.43,
-        "y": 10.41
-      },
-      "end": {
-        "x": 19.43,
-        "y": 13.60381
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "4c274f5d-74cc-4750-83b7-dcae561f7b8a",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 16.63,
-        "y": 10.41
-      },
-      "end": {
-        "x": 16.63,
-        "y": 13.60381
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "5ef5a9ca-ef18-450f-a525-4c535afeeb8c",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.3,
-        "y": 10.01
-      },
-      "end": {
-        "x": 10.5,
-        "y": 10.81
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "c8637868-7ee0-4c5b-a847-5de743473626",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.07,
-        "y": 122.99
-      },
-      "end": {
-        "x": 11.3,
-        "y": 122.99
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "c8ad0b7a-5f1d-481b-ab93-cfce3f381b96",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 16.23,
-        "y": 14.00381
-      },
-      "end": {
-        "x": 15.83,
-        "y": 14.00381
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "3aca66f5-da77-4900-b6b9-494b96b791a3",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.43,
-        "y": 10.41
-      },
-      "end": {
-        "x": 15.03,
-        "y": 10.01
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "b324cb1a-6ed5-48d2-ae60-318b596b5176",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 16.63,
-        "y": 13.60381
-      },
-      "end": {
-        "x": 16.23,
-        "y": 14.00381
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "7b4c8299-8c06-4491-ac20-72ca638bbb73",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 16.67,
-        "y": 122.59
-      },
-      "end": {
-        "x": 16.67,
-        "y": 119.39619
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "c7c048bb-84f4-4618-9a61-687d5b884d51",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 18.23,
-        "y": 13.60381
-      },
-      "end": {
-        "x": 18.23,
-        "y": 10.41
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "4032817e-890d-40be-9ad3-2e1dfe76682e",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.47,
-        "y": 119.39619
-      },
-      "end": {
-        "x": 15.47,
-        "y": 122.59
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "93f49396-3234-4ba9-9759-f79ad6199600",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 17.83,
-        "y": 10.01
-      },
-      "end": {
-        "x": 17.03,
-        "y": 10.01
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "0cffc028-4665-42f8-9fc1-1b050358f607",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.03,
-        "y": 10.01
-      },
-      "end": {
-        "x": 11.3,
-        "y": 10.01
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "123299d3-d596-4797-ab1c-8478b3010ba8",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.87,
-        "y": 118.99619
-      },
-      "end": {
-        "x": 15.47,
-        "y": 119.39619
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "143ab2b5-02ef-4baf-b436-cac9f38f080a",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 18.63,
-        "y": 14.00381
-      },
-      "end": {
-        "x": 18.23,
-        "y": 13.60381
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "d1f9df52-fb42-41aa-9593-4d869afa40cd",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 15.47,
-        "y": 122.59
-      },
-      "end": {
-        "x": 15.07,
-        "y": 122.99
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "24b74bb1-6094-4240-8b4a-3b1defb8152f",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 21.23,
-        "y": 8.71
-      },
-      "end": {
-        "x": 21.23,
-        "y": 9.21
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "55b28d7c-500d-4f05-9072-fc75a098e26a",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 11.3,
-        "y": 122.99
-      },
-      "end": {
-        "x": 10.5,
-        "y": 122.19
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "2c9e57b8-c048-484f-ae85-f333225270e7",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 18.23,
-        "y": 10.41
-      },
-      "end": {
-        "x": 17.83,
-        "y": 10.01
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "64bfd47b-bc50-4a97-8def-e71b1ed37b36",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 17.67,
-        "y": 122.99
-      },
-      "end": {
-        "x": 17.07,
-        "y": 122.99
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "6345465a-c582-48ab-bea9-53b1a12b7bbf",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 18.47,
-        "y": 123.79
-      },
-      "end": {
-        "x": 17.67,
-        "y": 122.99
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "33e9d878-5f30-4eb3-959f-0cc39cec0f98",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 19.43,
-        "y": 13.60381
-      },
-      "end": {
-        "x": 19.03,
-        "y": 14.00381
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "f4e92866-7bc1-4fb1-a2b4-566c321991c9",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 16.27,
-        "y": 118.99619
-      },
-      "end": {
-        "x": 15.87,
-        "y": 118.99619
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "c07718cb-4555-4343-89fe-16f5e622811e",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 20.43,
-        "y": 10.01
-      },
-      "end": {
-        "x": 19.83,
-        "y": 10.01
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "085c0532-1470-496a-9d90-19442ff5b1f9",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 21.23,
-        "y": 9.21
-      },
-      "end": {
-        "x": 20.43,
-        "y": 10.01
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "d53fc9fa-a1ba-4b1d-8823-378d35cfa4e0",
-      "layer": "F.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 19.03,
-        "y": 14.00381
-      },
-      "end": {
-        "x": 18.63,
-        "y": 14.00381
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "1f8ebdb7-0ef5-4043-8329-49c934864cc2",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 45
-      },
-      "end": {
-        "x": 4.9,
-        "y": 45.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "451db07b-2fd3-45ef-a712-3223e3609f39",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 45.8
-      },
-      "end": {
-        "x": 6.7,
-        "y": 46.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "157db822-7bce-4c89-be86-de929de05d08",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 46.6
-      },
-      "end": {
-        "x": 4.5,
-        "y": 47
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "e38c0ca4-e7ed-4e7f-b4d3-54a1f2b64fd7",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 57.8
-      },
-      "end": {
-        "x": 4.5,
-        "y": 58.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "68392b31-0836-4a92-b455-74e02d429b75",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 49.4
-      },
-      "end": {
-        "x": 4.9,
-        "y": 49.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "4bf3a6f3-3902-4ab6-8027-7d73f22e7b91",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.5,
-        "y": 11.01
-      },
-      "end": {
-        "x": 10.5,
-        "y": 15.5
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "8dcaf04a-a099-4cea-b83b-22e2055e0e11",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 48.6
-      },
-      "end": {
-        "x": 6.7,
-        "y": 49
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "d2fdbe1b-163f-46a3-bbff-d411861c6cd5",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 57.4
-      },
-      "end": {
-        "x": 6.3,
-        "y": 57.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "8255d335-e538-4daa-a0d4-278ef7445221",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 58.2
-      },
-      "end": {
-        "x": 4.5,
-        "y": 59
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "088ff37e-bfe9-4428-bffd-3dfbaee5507d",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 47
-      },
-      "end": {
-        "x": 4.5,
-        "y": 47.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "b5a52500-e364-442e-a2fa-ae8ffb801520",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 54.6
-      },
-      "end": {
-        "x": 6.3,
-        "y": 55
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "df0ae8e3-42f8-48e8-99a5-9e80060f2aa9",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 60.6
-      },
-      "end": {
-        "x": 4.5,
-        "y": 61
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "f972c10d-cc18-45a0-88bb-a58d4db814de",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 59.8
-      },
-      "end": {
-        "x": 6.7,
-        "y": 60.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "0b9444a6-4eb9-4f27-928c-379143806ee6",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 57.8
-      },
-      "end": {
-        "x": 4.9,
-        "y": 57.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "fe92d7a5-4875-4d98-9b91-c4c9dbf0ee96",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 52.2
-      },
-      "end": {
-        "x": 4.9,
-        "y": 52.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "f48903b6-023b-4ce2-92a1-f2424f02b107",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 49.8
-      },
-      "end": {
-        "x": 4.5,
-        "y": 50.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "41e809a2-4fc3-43c2-b5d7-dd2bda33b1cb",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 55
-      },
-      "end": {
-        "x": 4.9,
-        "y": 55
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "d4b81b80-3737-46cc-91f0-df8186f4e3bb",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 56.6
-      },
-      "end": {
-        "x": 6.3,
-        "y": 56.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "cfdfbe85-ece8-40e9-9f67-f3ebb3db4507",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 46.2
-      },
-      "end": {
-        "x": 6.3,
-        "y": 46.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "42e3125e-66fe-4e7e-9b56-d54784ed23f7",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 52.2
-      },
-      "end": {
-        "x": 4.5,
-        "y": 52.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "c30ba369-40c4-4e5d-8b00-159f7aa83e70",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 56.6
-      },
-      "end": {
-        "x": 6.7,
-        "y": 57
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "a6b739c9-0122-4d59-8189-42f51063eda9",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 59
-      },
-      "end": {
-        "x": 4.9,
-        "y": 59.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "8177cdc1-cf33-48a5-bed4-595fa3eaf0af",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 60.2
-      },
-      "end": {
-        "x": 6.3,
-        "y": 60.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "508f610f-4d15-4b3f-ad83-2b822aca2d53",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 59.4
-      },
-      "end": {
-        "x": 6.3,
-        "y": 59.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "ee1be31e-ca6d-40b7-b4f0-f545d2a30944",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 21.5
-      },
-      "end": {
-        "x": 4.5,
-        "y": 45
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "fe2354e9-9c29-4df1-afc3-fdac34f9b2a6",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 48.2
-      },
-      "end": {
-        "x": 6.7,
-        "y": 48.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "8f50543b-8e6d-49d4-9f9b-cf75d6ed5687",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 55.4
-      },
-      "end": {
-        "x": 4.5,
-        "y": 56.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "f9e40eaa-e1ff-4890-9019-8a7fb2397471",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.5,
-        "y": 15.5
-      },
-      "end": {
-        "x": 4.5,
-        "y": 21.5
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "31f0f9b7-1c69-4503-9c2a-76cf8aec2afc",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 52.6
-      },
-      "end": {
-        "x": 4.5,
-        "y": 53.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "29d340cf-dff0-4d3c-a79d-f3ddcbae2437",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 53.8
-      },
-      "end": {
-        "x": 6.3,
-        "y": 53.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "4a811545-c1bc-46ec-bd55-cf8df6830e84",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 51
-      },
-      "end": {
-        "x": 6.7,
-        "y": 51.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "fc29965a-c076-4617-94a6-3c6952bb21a6",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 60.6
-      },
-      "end": {
-        "x": 4.9,
-        "y": 60.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "a6ee3c1b-e54c-40ce-a192-17ca342b8f6d",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 51.4
-      },
-      "end": {
-        "x": 6.7,
-        "y": 51.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "78a08651-5bf7-4537-beca-e85e4de3704d",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 45.4
-      },
-      "end": {
-        "x": 6.7,
-        "y": 45.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "d84db88b-e311-4cfb-8d8e-9c05e742e01e",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 59.4
-      },
-      "end": {
-        "x": 6.7,
-        "y": 59.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "9b6b1d26-5fc1-4966-b947-072188ac99b4",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 56.2
-      },
-      "end": {
-        "x": 4.9,
-        "y": 56.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "69098405-1a99-45ef-9761-25b87782be74",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 57
-      },
-      "end": {
-        "x": 6.7,
-        "y": 57.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "b1016bc9-f63f-489d-9157-d28425eec2d9",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 49.4
-      },
-      "end": {
-        "x": 4.5,
-        "y": 49.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "fe28ea63-874f-4bef-bf7a-e4cdcc333267",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 51
-      },
-      "end": {
-        "x": 6.3,
-        "y": 51
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "6249ff8a-acf6-47c1-a841-d706efcb5d91",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 54.2
-      },
-      "end": {
-        "x": 6.7,
-        "y": 54.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "83215362-81a8-44a9-b45b-32f3d28ff614",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 45.4
-      },
-      "end": {
-        "x": 6.3,
-        "y": 45.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "f367b314-7684-4cb9-addb-131baa7b1fba",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 48.2
-      },
-      "end": {
-        "x": 6.3,
-        "y": 48.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "71a249a9-7226-4ea0-b7d0-55f69baf90a3",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 49
-      },
-      "end": {
-        "x": 6.3,
-        "y": 49.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "01191759-3158-42c2-800b-b8e1e7b846bd",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 55
-      },
-      "end": {
-        "x": 4.5,
-        "y": 55.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "3ac1fb5c-8ba7-4a49-bfb7-19150a4352dd",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 53.8
-      },
-      "end": {
-        "x": 6.7,
-        "y": 54.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "fafd9cf8-6ac3-4e5f-bf9d-b181f07ce5e4",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.5,
-        "y": 116.5
-      },
-      "end": {
-        "x": 10.5,
-        "y": 121.99
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "52c84585-701a-436c-a0ea-9939cd0e9501",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 53.4
-      },
-      "end": {
-        "x": 4.9,
-        "y": 53.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "635cb956-a5cc-4cea-8a7c-5c8f3286e7c4",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 50.6
-      },
-      "end": {
-        "x": 4.9,
-        "y": 51
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "cd8fef5b-c394-45b4-a888-05b8a091f8e9",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 47.8
-      },
-      "end": {
-        "x": 4.9,
-        "y": 48.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "d2d09180-6ef6-4e5b-b897-d1bd4594669a",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 110.5
-      },
-      "end": {
-        "x": 10.5,
-        "y": 116.5
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "d54661b4-6cd3-48a6-a94f-17b959c68342",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 61
-      },
-      "end": {
-        "x": 4.5,
-        "y": 110.5
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "61fa66a5-3dad-4223-b100-cc12a23ff017",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 51.8
-      },
-      "end": {
-        "x": 6.3,
-        "y": 52.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "1f930293-e182-4f94-874c-9630f3b7c6bf",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 46.6
-      },
-      "end": {
-        "x": 4.9,
-        "y": 46.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "86074fc3-08bb-4a02-b27b-f19d475714c4",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 8.8,
-        "y": 124.29
-      },
-      "end": {
-        "x": 8,
-        "y": 123.49
-      },
-      "net": "PORT_N"
-    },
-    {
-      "uuid": "f4e64f36-45f6-4a1c-87cd-7ca955d1d5d6",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 8,
-        "y": 123.49
-      },
-      "end": {
-        "x": 8,
-        "y": 112.8
-      },
-      "net": "PORT_N"
-    },
-    {
-      "uuid": "1a7781ce-f8bd-4944-8986-59b9b87feb26",
-      "layer": "F.Cu",
-      "width": 0.8,
-      "start": {
-        "x": 16.43,
-        "y": 124.29
-      },
-      "end": {
-        "x": 8.8,
-        "y": 124.29
-      },
-      "net": "PORT_N"
-    },
-    {
-      "uuid": "4acce58a-ebf2-4872-8a16-3c5dae49c2c6",
-      "layer": "B.Cu",
-      "width": 0.5,
-      "start": {
-        "x": 16.43,
-        "y": 124.29
-      },
-      "end": {
-        "x": 17.45,
-        "y": 126.07
-      },
-      "net": "PORT_N"
-    },
-    {
-      "uuid": "64dcb2e4-6db9-4a91-830d-7a92d287c26f",
-      "layer": "F.Cu",
-      "width": 0.4,
-      "start": {
-        "x": 32.392,
-        "y": 45.95
-      },
-      "end": {
-        "x": 33.444,
-        "y": 47.002
-      },
-      "net": "BK_ARM"
-    },
-    {
-      "uuid": "230ac2c6-83f1-447f-9bce-9baad467fa8c",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 46.6,
-        "y": 37
-      },
-      "end": {
-        "x": 44.85,
-        "y": 36.78
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "e900ed16-f1eb-4664-9164-8ec6e35a38cc",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 59.9,
-        "y": 112.5
-      },
-      "end": {
-        "x": 59.9,
-        "y": 122.15
-      },
-      "net": "+12V"
-    },
-    {
-      "uuid": "36738c6d-e157-4a47-aca6-12fcba86c1d2",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 59.9,
-        "y": 122.15
-      },
-      "end": {
-        "x": 58.45,
-        "y": 123.6
-      },
-      "net": "+12V"
-    },
-    {
-      "uuid": "e22660b2-442e-404f-a065-40246187e703",
+      "uuid": "48836034-6c75-494b-b2be-b3f7d08c7738",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
@@ -8004,77 +4939,343 @@
       "net": "+12V"
     },
     {
-      "uuid": "7d501513-a488-4dac-b4aa-86e62e0ace2b",
-      "layer": "F.Cu",
-      "width": 1.2,
+      "uuid": "1e4a4dcb-ca11-419c-a676-3e3b7f075831",
+      "layer": "B.Cu",
+      "width": 1,
       "start": {
-        "x": 59.9,
-        "y": 111.2
+        "x": 9,
+        "y": 74.6
       },
       "end": {
-        "x": 59.9,
-        "y": 112.5
+        "x": 9,
+        "y": 80
       },
       "net": "+12V"
     },
     {
-      "uuid": "ced1944e-6d7f-4cea-89e4-49accb002bd3",
+      "uuid": "24eff18f-b076-4977-96ea-273cdde3ffe5",
       "layer": "B.Cu",
-      "width": 1.2,
+      "width": 2,
       "start": {
-        "x": 17.6,
-        "y": 15.5
+        "x": 55,
+        "y": 74.6
       },
       "end": {
-        "x": 17.6,
-        "y": 32.6
+        "x": 9,
+        "y": 74.6
       },
-      "net": "LAPTOP_OUT"
+      "net": "+12V"
     },
     {
-      "uuid": "c97e2cb6-8750-47ce-b7b7-a8d2e9f7785f",
+      "uuid": "5a1da681-63b1-4274-b661-a333e22b8948",
       "layer": "B.Cu",
-      "width": 1.2,
+      "width": 2,
       "start": {
-        "x": 17.6,
-        "y": 15.5
+        "x": 59.9,
+        "y": 112.5
       },
       "end": {
-        "x": 18.9,
-        "y": 15.5
+        "x": 59.9,
+        "y": 40.9
       },
-      "net": "LAPTOP_OUT"
+      "net": "+12V"
     },
     {
-      "uuid": "f852db51-a610-4065-874c-170e79d8ad6a",
+      "uuid": "46fa08c2-7692-41f7-b9f8-2e9e72fec983",
+      "layer": "B.Cu",
+      "width": 1,
+      "start": {
+        "x": 8.25,
+        "y": 80.75
+      },
+      "end": {
+        "x": 8.25,
+        "y": 83.5
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "03b5f9bd-b98f-413b-b6c9-cf38ca6ca0cc",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 12,
+        "y": 74.6
+      },
+      "end": {
+        "x": 12,
+        "y": 49.4
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "b362ee7a-eff2-4e62-ad61-874a926d7431",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 59.9,
+        "y": 112.5
+      },
+      "end": {
+        "x": 59.9,
+        "y": 122.15
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "d7dcd599-071c-42cb-aa90-bda236f30f9b",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 59.9,
+        "y": 122.15
+      },
+      "end": {
+        "x": 58.45,
+        "y": 123.6
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "82758cd0-8f63-4af2-a85e-b71f37037f29",
+      "layer": "B.Cu",
+      "width": 1,
+      "start": {
+        "x": 9,
+        "y": 80
+      },
+      "end": {
+        "x": 8.25,
+        "y": 80.75
+      },
+      "net": "+12V"
+    },
+    {
+      "uuid": "c778e570-fd29-44ba-b67b-7929fd7e20d5",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 70.2,
+        "y": 38.9
+      },
+      "end": {
+        "x": 69.4,
+        "y": 39.7
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "0c242147-1008-4d68-893d-d527b86e4203",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 63.3,
+        "y": 39.7
+      },
+      "end": {
+        "x": 62.5,
+        "y": 40.5
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "c68e446a-5355-44cc-9962-63fdd0ae046d",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 69.4,
+        "y": 39.7
+      },
+      "end": {
+        "x": 63.3,
+        "y": 39.7
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "66248319-3cf5-4739-a457-caa6ed91db5d",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 62.5,
+        "y": 40.5
+      },
+      "end": {
+        "x": 62.5,
+        "y": 44.38
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "01f5c470-67ff-466a-a8aa-489904f550aa",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 70.2,
+        "y": 30.35
+      },
+      "end": {
+        "x": 70.2,
+        "y": 38.9
+      },
+      "net": "VIN_DC"
+    },
+    {
+      "uuid": "e939bf24-6db6-494a-a451-ecc9221c5be5",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 19.49,
+        "y": 126.07
+      },
+      "end": {
+        "x": 19.49,
+        "y": 130.2
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "222be221-05bc-476e-9a96-bd68da556675",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 6.7,
+        "y": 108.4
+      },
+      "end": {
+        "x": 6.85,
+        "y": 108.25
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "e21f4496-012a-44b5-94dd-ee299a323823",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 7.5,
+        "y": 131
+      },
+      "end": {
+        "x": 6.7,
+        "y": 130.2
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "63b72d60-1ee4-4859-95f5-76e9e764c9f1",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 18.69,
+        "y": 131
+      },
+      "end": {
+        "x": 7.5,
+        "y": 131
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "35e91193-eb16-4714-bb89-73bdeac7a906",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 19.49,
+        "y": 130.2
+      },
+      "end": {
+        "x": 18.69,
+        "y": 131
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "0f3931d1-d54d-4bf6-93a9-c3ee1a7feb37",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 6.85,
+        "y": 108.25
+      },
+      "end": {
+        "x": 7,
+        "y": 108.25
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "66c4419e-2726-408f-91a5-e411d28e80a5",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 6.7,
+        "y": 130.2
+      },
+      "end": {
+        "x": 6.7,
+        "y": 108.4
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "e1d5c6f6-1571-49e5-9011-1cd1a515ff9d",
+      "layer": "B.Cu",
+      "width": 0.5,
+      "start": {
+        "x": 20.51,
+        "y": 124.29
+      },
+      "end": {
+        "x": 19.49,
+        "y": 126.07
+      },
+      "net": "PORT_P"
+    },
+    {
+      "uuid": "da454a5b-a290-4d21-87ea-27841bd0ceeb",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
-        "x": 17.6,
-        "y": 32.6
+        "x": 46.6,
+        "y": 37
       },
       "end": {
-        "x": 13.7,
-        "y": 32.6
+        "x": 44.85,
+        "y": 36.78
       },
-      "net": "LAPTOP_OUT"
+      "net": "VIN"
     },
     {
-      "uuid": "4e9779a5-918e-45e9-91d0-4e8ea30e7094",
-      "layer": "B.Cu",
-      "width": 1.2,
+      "uuid": "a6500401-771f-4c6a-accd-fc8c3174677e",
+      "layer": "F.Cu",
+      "width": 1.5,
       "start": {
-        "x": 17.6,
-        "y": 32.6
+        "x": 75.285,
+        "y": 43.745
       },
       "end": {
-        "x": 15.2,
-        "y": 32.6
+        "x": 80.8,
+        "y": 43.745
       },
-      "net": "LAPTOP_OUT"
+      "net": "VIN"
     },
     {
-      "uuid": "f5b31697-5427-4bb4-9e77-1d8568551b4f",
+      "uuid": "400927f9-7628-4f5a-b5c1-6a908e22aa55",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 80.8,
+        "y": 56.84
+      },
+      "end": {
+        "x": 80.8,
+        "y": 55.6
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "77719964-b2bc-463c-b65e-9c659470f1cf",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
@@ -8088,23 +5289,2823 @@
       "net": "VIN"
     },
     {
-      "uuid": "8ed87333-5b89-495d-9c95-a88c06219172",
+      "uuid": "b273499c-0b51-4394-abc3-f54cc3b640c2",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
-        "x": 80.8,
-        "y": 56.84
+        "x": 78.345,
+        "y": 56.845
       },
       "end": {
         "x": 80.8,
-        "y": 55.6
+        "y": 56.845
       },
       "net": "VIN"
+    },
+    {
+      "uuid": "1c272023-e676-4852-ac2a-817470d5e914",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 57.4,
+        "y": 37
+      },
+      "end": {
+        "x": 57.4,
+        "y": 101.53
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "4f3f3dfd-24bd-4722-871f-c4cac971a5b4",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 80.8,
+        "y": 56.845
+      },
+      "end": {
+        "x": 80.8,
+        "y": 37.8
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "8ea5c1f0-19db-4fbc-80bc-5b885a55e4f5",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 80.8,
+        "y": 37.8
+      },
+      "end": {
+        "x": 80,
+        "y": 37
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "20e29b77-fe8d-4b33-8db5-c0486713fa5c",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 80,
+        "y": 37
+      },
+      "end": {
+        "x": 46.6,
+        "y": 37
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "ec7cc000-d80e-4bc7-9ed3-92d7acbc6825",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 13.7,
+        "y": 32.6
+      },
+      "end": {
+        "x": 13.7,
+        "y": 34.22
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "c128a84c-7a1f-4768-b785-e2a2ab49fd57",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 35.7,
+        "y": 13.8
+      },
+      "end": {
+        "x": 37.35,
+        "y": 13.8
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "c555869b-2e51-4b11-8f9d-3173a5e3c9e1",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 34,
+        "y": 15.5
+      },
+      "end": {
+        "x": 35.7,
+        "y": 13.8
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "bf96b78c-f1ba-4465-8444-b72eaf9ecfc6",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 12.72766,
+        "y": 35.195
+      },
+      "end": {
+        "x": 11.675,
+        "y": 35.195
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "8a29de73-d5a2-419e-96b3-42c655ef0c86",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 17.6,
+        "y": 32.6
+      },
+      "end": {
+        "x": 13.7,
+        "y": 32.6
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "ce0d9afd-2eee-423d-bb0a-5814bc029bab",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 17.6,
+        "y": 15.5
+      },
+      "end": {
+        "x": 34,
+        "y": 15.5
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "5219ae5c-ecff-4503-af6c-4c82f4c01e31",
+      "layer": "F.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 13.7,
+        "y": 34.22266
+      },
+      "end": {
+        "x": 12.72766,
+        "y": 35.195
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "2c322610-16b9-4b85-86df-455c8104693f",
+      "layer": "B.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 17.6,
+        "y": 15.5
+      },
+      "end": {
+        "x": 17.6,
+        "y": 32.6
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "237a797e-2178-4ea0-8d48-09ff7856e948",
+      "layer": "B.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 17.6,
+        "y": 32.6
+      },
+      "end": {
+        "x": 15.2,
+        "y": 32.6
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "8088ee1c-e075-4377-894e-c690767d7fe5",
+      "layer": "B.Cu",
+      "width": 1.2,
+      "start": {
+        "x": 17.6,
+        "y": 15.5
+      },
+      "end": {
+        "x": 18.9,
+        "y": 15.5
+      },
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "ac31294a-0827-4a2b-9a83-a6be576955a5",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 81.7,
+        "y": 53.5
+      },
+      "end": {
+        "x": 66.36,
+        "y": 53.5
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "ed7efab9-de99-4f42-bb7e-bd3d5509e5e6",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 65.56,
+        "y": 54.3
+      },
+      "end": {
+        "x": 65.56,
+        "y": 57.48
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "a750b0c4-f79a-49be-8564-e2a8f8fa3629",
+      "layer": "F.Cu",
+      "width": 0.5,
+      "start": {
+        "x": 77.24,
+        "y": 15.6
+      },
+      "end": {
+        "x": 75.3,
+        "y": 15.6
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "39bb5bd0-a595-4e89-a83f-23655cc268e9",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 66.36,
+        "y": 53.5
+      },
+      "end": {
+        "x": 65.56,
+        "y": 54.3
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "cf89d9f6-59eb-4208-842e-debd663eb3f8",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 75.3,
+        "y": 10.8
+      },
+      "end": {
+        "x": 75.3,
+        "y": 20
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "64a7c21d-4693-4c79-8502-eec123e9a939",
+      "layer": "F.Cu",
+      "width": 0.5,
+      "start": {
+        "x": 77.24,
+        "y": 10.8
+      },
+      "end": {
+        "x": 75.3,
+        "y": 10.8
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "6ee9f5b8-4c3f-4c40-bf92-7be48233eb2b",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 82.5,
+        "y": 52.7
+      },
+      "end": {
+        "x": 81.7,
+        "y": 53.5
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "540b788e-73d8-4a00-90d8-98362b170240",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 82.5,
+        "y": 34.6
+      },
+      "end": {
+        "x": 82.5,
+        "y": 52.7
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "cd507a95-ebb0-4a99-aaa8-2038e4eef7d5",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 75.3,
+        "y": 18
+      },
+      "end": {
+        "x": 75.3,
+        "y": 20
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "1419ecad-21a4-44d8-8d35-69026d7467e8",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 75.3,
+        "y": 20
+      },
+      "end": {
+        "x": 82.5,
+        "y": 27.2
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "05b9ae05-e740-4e13-b18b-f4d2a4603bbb",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 82.5,
+        "y": 27.2
+      },
+      "end": {
+        "x": 82.5,
+        "y": 34.6
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "c56f4b59-e6e8-4081-aad0-81fa4c34c2d2",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.33,
+        "y": 1.8
+      },
+      "end": {
+        "x": 11.85,
+        "y": 1.8
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "c89624e6-f5eb-4b8e-a906-343bfaeee0cc",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.13,
+        "y": 2.6
+      },
+      "end": {
+        "x": 15.33,
+        "y": 1.8
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "2e6c5d37-07f9-41bc-a66d-08cfb9cb57d4",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 12.15,
+        "y": 131.2
+      },
+      "end": {
+        "x": 11.35,
+        "y": 130.4
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "c411ecc1-7764-45dd-b1a4-deb21d0743dc",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.35,
+        "y": 128.17
+      },
+      "end": {
+        "x": 10.55,
+        "y": 127.37
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "c8a44b4b-66d4-482d-8248-7deed71fea00",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8.8,
+        "y": 5.63
+      },
+      "end": {
+        "x": 8,
+        "y": 6.43
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "386dfe4e-0870-4bf6-af8b-ad881f89739e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.05,
+        "y": 4.83
+      },
+      "end": {
+        "x": 10.25,
+        "y": 5.63
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "21ea5fe7-b81f-47c4-b955-dd1dd2517e63",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 23.57,
+        "y": 130.4
+      },
+      "end": {
+        "x": 22.77,
+        "y": 131.2
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "6cfacb06-9176-435d-9d2b-3074f02b9421",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8,
+        "y": 13
+      },
+      "end": {
+        "x": 2,
+        "y": 19
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "f89f3e3a-55d2-483f-9232-2d4bd36d6cd3",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.25,
+        "y": 5.63
+      },
+      "end": {
+        "x": 8.8,
+        "y": 5.63
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "65bdcfbb-1012-4252-80fa-e383b7b8c33f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 22.77,
+        "y": 131.2
+      },
+      "end": {
+        "x": 12.15,
+        "y": 131.2
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "45a5c051-cb45-4a7a-ab7d-0305b66c7e27",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8,
+        "y": 6.43
+      },
+      "end": {
+        "x": 8,
+        "y": 13
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "1a2eeff2-99cc-4cb6-bb31-78e4b9446915",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.85,
+        "y": 1.8
+      },
+      "end": {
+        "x": 11.05,
+        "y": 2.6
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "f4212b9d-6e52-4ca8-a42d-cbafeb4f2ac8",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.55,
+        "y": 127.37
+      },
+      "end": {
+        "x": 8.8,
+        "y": 127.37
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "de8466f5-d896-4449-b548-3c483170e34a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 2,
+        "y": 113
+      },
+      "end": {
+        "x": 8,
+        "y": 119
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "1bbca353-d2d7-4463-a42d-51e400d9b43c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8.8,
+        "y": 127.37
+      },
+      "end": {
+        "x": 8,
+        "y": 126.57
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "d1384a9e-c8fa-4a4c-8e3a-bc2c5c5160f1",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.05,
+        "y": 2.6
+      },
+      "end": {
+        "x": 11.05,
+        "y": 4.83
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "797e256e-ea69-4fa5-8473-9c015d86f173",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.35,
+        "y": 130.4
+      },
+      "end": {
+        "x": 11.35,
+        "y": 128.17
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "cf7775fa-4868-4fa7-bdd4-a27d4773fc3c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8,
+        "y": 119
+      },
+      "end": {
+        "x": 8,
+        "y": 126.57
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "4a321a01-dccd-4e7b-9221-d438737a6af5",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 23.57,
+        "y": 126.07
+      },
+      "end": {
+        "x": 23.57,
+        "y": 130.4
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "93b19f2d-4ddd-42e4-80f0-26949dcc5d96",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 2,
+        "y": 19
+      },
+      "end": {
+        "x": 2,
+        "y": 113
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "14c52fac-b03f-4eac-b286-00ed8feb35fb",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.13,
+        "y": 6.93
+      },
+      "end": {
+        "x": 16.13,
+        "y": 2.6
+      },
+      "net": "ETH_1"
+    },
+    {
+      "uuid": "47b6e4d4-d633-4a83-a579-fac994c2090c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 9.3,
+        "y": 122.99
+      },
+      "end": {
+        "x": 8.5,
+        "y": 122.19
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "ca44d6ad-dd88-4896-871a-ad1646ffa568",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 13.75,
+        "y": 10.01
+      },
+      "end": {
+        "x": 12.95,
+        "y": 10.01
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "da82c0e5-e30c-41c3-9a98-d2dad12bc335",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 12.55,
+        "y": 10.41
+      },
+      "end": {
+        "x": 12.55,
+        "y": 13.94621
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "34d0bcb5-f013-4764-a36f-b56afc07535b",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 2.5,
+        "y": 112.5
+      },
+      "end": {
+        "x": 8.5,
+        "y": 118.5
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "c42e9359-a245-4fec-8dd8-eed812b084ec",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.75,
+        "y": 10.01
+      },
+      "end": {
+        "x": 15.35,
+        "y": 10.41
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "30bb6d4e-5393-4221-890a-5a82a9501202",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.15,
+        "y": 8.71
+      },
+      "end": {
+        "x": 17.15,
+        "y": 9.21
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "1b042cf6-5f54-41bd-9b29-3efb0a518d07",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.15,
+        "y": 9.21
+      },
+      "end": {
+        "x": 16.35,
+        "y": 10.01
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "9e1a1d86-3155-43cb-8cf8-49ddf37223b6",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.55,
+        "y": 122.59
+      },
+      "end": {
+        "x": 19.15,
+        "y": 122.99
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "e3071bc2-82e9-41d4-8960-96239d02cb7a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 12.15,
+        "y": 14.34621
+      },
+      "end": {
+        "x": 11.75,
+        "y": 14.34621
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "b0adbc44-9e7c-4b14-a156-c97d72b1df41",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8.5,
+        "y": 10.81
+      },
+      "end": {
+        "x": 8.5,
+        "y": 13.5
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "96e7ee55-ea2d-4891-adb7-a4439b238012",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.35,
+        "y": 13.94621
+      },
+      "end": {
+        "x": 14.95,
+        "y": 14.34621
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "5375ee7d-e613-4962-a907-5490d1bc6f00",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.15,
+        "y": 122.99
+      },
+      "end": {
+        "x": 20.75,
+        "y": 122.59
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "dd911e35-0298-48e5-a744-c0542c32a82d",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 20.35,
+        "y": 118.65379
+      },
+      "end": {
+        "x": 19.95,
+        "y": 118.65379
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "168a4b5d-9377-4732-94c2-ffaaaa91b4c2",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 22.55,
+        "y": 124.29
+      },
+      "end": {
+        "x": 22.55,
+        "y": 123.79
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "0a7dc99d-d2f6-4275-8b16-57b4d0e6d4ea",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 14.55,
+        "y": 14.34621
+      },
+      "end": {
+        "x": 14.15,
+        "y": 13.94621
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "6c6459a5-0712-449c-9ecf-e2728f50cf64",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 20.75,
+        "y": 122.59
+      },
+      "end": {
+        "x": 20.75,
+        "y": 119.05379
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "524a9d34-d9c3-4a63-9ef3-fcbd3d254e86",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.75,
+        "y": 122.99
+      },
+      "end": {
+        "x": 21.15,
+        "y": 122.99
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "076e0033-3c81-4df9-af9c-2ca99cc6c307",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.35,
+        "y": 13.94621
+      },
+      "end": {
+        "x": 11.35,
+        "y": 10.41
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "8e29684f-3855-4613-b661-46586826f6ae",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.15,
+        "y": 122.99
+      },
+      "end": {
+        "x": 9.3,
+        "y": 122.99
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "272e42db-ca08-4dbc-aba6-d78d5d9ed19a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8.5,
+        "y": 13.5
+      },
+      "end": {
+        "x": 2.5,
+        "y": 19.5
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "59358891-5aa9-4b70-b768-02a2baf98aae",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 14.15,
+        "y": 10.41
+      },
+      "end": {
+        "x": 13.75,
+        "y": 10.01
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "65c21922-4b86-49ba-8811-8f88dd7fee8c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 9.3,
+        "y": 10.01
+      },
+      "end": {
+        "x": 8.5,
+        "y": 10.81
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "f718462a-4348-4a2a-a03a-4c9477ee6f5f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 2.5,
+        "y": 19.5
+      },
+      "end": {
+        "x": 2.5,
+        "y": 112.5
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "7cf3881a-7cd4-4efb-9308-0cf0dac54c5d",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 12.95,
+        "y": 10.01
+      },
+      "end": {
+        "x": 12.55,
+        "y": 10.41
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "f7aa7d92-0932-46c5-805d-df44cc3d44e1",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.35,
+        "y": 10.41
+      },
+      "end": {
+        "x": 15.35,
+        "y": 13.94621
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "f08aecba-ec95-44a0-a430-6fa86555d6f1",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 12.55,
+        "y": 13.94621
+      },
+      "end": {
+        "x": 12.15,
+        "y": 14.34621
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "0b44cc48-f05a-41cc-8e37-16b8dda973e3",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 20.75,
+        "y": 119.05379
+      },
+      "end": {
+        "x": 20.35,
+        "y": 118.65379
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "0c209e29-52b9-4bb7-a299-064c1d4c7f16",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 22.55,
+        "y": 123.79
+      },
+      "end": {
+        "x": 21.75,
+        "y": 122.99
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "2845b98e-e1d5-43d3-a66d-e4b6e8e096e1",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.75,
+        "y": 14.34621
+      },
+      "end": {
+        "x": 11.35,
+        "y": 13.94621
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "1bb88e0b-2280-4a18-8ff5-2dcb308cadbc",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.35,
+        "y": 10.01
+      },
+      "end": {
+        "x": 15.75,
+        "y": 10.01
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "008d64dd-ad4e-41bf-a3ef-a1215a0be35f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.55,
+        "y": 119.05379
+      },
+      "end": {
+        "x": 19.55,
+        "y": 122.59
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "093f6f52-6b11-41ba-8c85-2de4d4f88b2b",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.95,
+        "y": 118.65379
+      },
+      "end": {
+        "x": 19.55,
+        "y": 119.05379
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "213e0124-b58c-4518-97da-d89b15783c3e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 14.15,
+        "y": 13.94621
+      },
+      "end": {
+        "x": 14.15,
+        "y": 10.41
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "1f190be2-a29d-4e87-ba30-9c551b254811",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 14.95,
+        "y": 14.34621
+      },
+      "end": {
+        "x": 14.55,
+        "y": 14.34621
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "f3339bc4-7f85-4eb2-9444-0c756d287a33",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.35,
+        "y": 10.41
+      },
+      "end": {
+        "x": 10.95,
+        "y": 10.01
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "a97c1548-57cd-4377-99fc-6d150e283e77",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.95,
+        "y": 10.01
+      },
+      "end": {
+        "x": 9.3,
+        "y": 10.01
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "51ac0b5a-5a43-4134-95af-ecccf71ffdd4",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 8.5,
+        "y": 118.5
+      },
+      "end": {
+        "x": 8.5,
+        "y": 122.19
+      },
+      "net": "ETH_2"
+    },
+    {
+      "uuid": "05b6cead-ac0b-46af-bc16-d81012efc568",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.17,
+        "y": 2.6
+      },
+      "end": {
+        "x": 17.37,
+        "y": 1.8
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "9d2313ad-13f7-4432-9dad-a83b8316b92e",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.4,
+        "y": 5.63
+      },
+      "end": {
+        "x": 9.6,
+        "y": 6.43
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "d4c56d0f-d207-4fb2-a24d-824109188146",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 9.6,
+        "y": 6.43
+      },
+      "end": {
+        "x": 9.6,
+        "y": 12.41
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "69b6fdf4-ddf0-4f58-ac4f-c1daccc8af61",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.53,
+        "y": 130.4
+      },
+      "end": {
+        "x": 22.33,
+        "y": 131.2
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "6b1ffcb9-2197-4bb3-b492-8d730d82af44",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 28.9,
+        "y": 117.79
+      },
+      "end": {
+        "x": 28.1,
+        "y": 116.99
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "4be62d43-ac90-43ba-a944-008eb34651de",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.25,
+        "y": 5.63
+      },
+      "end": {
+        "x": 10.4,
+        "y": 5.63
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "ad992426-4df8-4db4-996e-446a490f6d21",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 28.9,
+        "y": 130.4
+      },
+      "end": {
+        "x": 28.9,
+        "y": 117.79
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "e50dc18f-1ac5-4983-974b-eb15f9ae760b",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 28.1,
+        "y": 131.2
+      },
+      "end": {
+        "x": 28.9,
+        "y": 130.4
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "93f9fdca-1e27-4b44-bcd6-c197194fe193",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.05,
+        "y": 2.6
+      },
+      "end": {
+        "x": 11.05,
+        "y": 4.83
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "1693002b-e883-4dcc-b28f-b892b79635ce",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 9.6,
+        "y": 117.79
+      },
+      "end": {
+        "x": 9.6,
+        "y": 119.59
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "22dd937c-6a54-4ca3-aa7f-ecc182854a0c",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.05,
+        "y": 4.83
+      },
+      "end": {
+        "x": 10.25,
+        "y": 5.63
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "b2e83b95-aadd-4bb4-b169-52827314800d",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 22.33,
+        "y": 131.2
+      },
+      "end": {
+        "x": 28.1,
+        "y": 131.2
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "38d2cc21-5e7f-4c46-9dd3-a9c1297e916a",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.4,
+        "y": 116.99
+      },
+      "end": {
+        "x": 9.6,
+        "y": 117.79
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "7fcb2eac-9f40-4c10-a9e5-494f1766c43d",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.37,
+        "y": 1.8
+      },
+      "end": {
+        "x": 11.85,
+        "y": 1.8
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "2eccd4be-0e60-415d-ba69-41e660eed661",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 28.1,
+        "y": 116.99
+      },
+      "end": {
+        "x": 10.4,
+        "y": 116.99
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "ec0f1d15-9b06-456e-ba9d-bda8b7059c4d",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.53,
+        "y": 126.07
+      },
+      "end": {
+        "x": 21.53,
+        "y": 130.4
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "800f5a9e-c71b-4f68-91de-27894920a363",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.85,
+        "y": 1.8
+      },
+      "end": {
+        "x": 11.05,
+        "y": 2.6
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "edc933eb-469b-4382-b87a-761ac1fe05cd",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.17,
+        "y": 6.93
+      },
+      "end": {
+        "x": 18.17,
+        "y": 2.6
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "c1db20c5-8521-45b1-935d-8339bdc15074",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10,
+        "y": 117
+      },
+      "end": {
+        "x": 10,
+        "y": 119.19
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "60d55244-c3ae-49eb-84c1-612c0ca0adb0",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10,
+        "y": 15
+      },
+      "end": {
+        "x": 4,
+        "y": 21
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "c72d2801-cc40-4a61-91d8-008dee84a8e2",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10,
+        "y": 12.81
+      },
+      "end": {
+        "x": 10,
+        "y": 15
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "78c703b2-3e8f-4c4d-ae79-f1bf96535168",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 9.6,
+        "y": 119.59
+      },
+      "end": {
+        "x": 10,
+        "y": 119.19
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "faa57437-e8c7-45d5-a708-3fe6739e6a33",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 9.6,
+        "y": 12.41
+      },
+      "end": {
+        "x": 10,
+        "y": 12.81
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "571ec0ee-262c-4c61-be66-c9f824ba96cd",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4,
+        "y": 111
+      },
+      "end": {
+        "x": 10,
+        "y": 117
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "3e024812-13e4-439b-95a3-310c5adc46e6",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4,
+        "y": 21
+      },
+      "end": {
+        "x": 4,
+        "y": 111
+      },
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "9492cbfa-e083-4787-b21f-b7cd0005c089",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.07,
+        "y": 122.99
+      },
+      "end": {
+        "x": 16.67,
+        "y": 122.59
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "7c9d50e3-3c2e-48a4-82e4-d7669c21cb14",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.43,
+        "y": 13.60381
+      },
+      "end": {
+        "x": 15.43,
+        "y": 10.41
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "f879d875-e496-423c-997c-3f07b2ddbcdb",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.67,
+        "y": 119.39619
+      },
+      "end": {
+        "x": 16.27,
+        "y": 118.99619
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "3817ab48-bd1f-4841-baac-cdb66f27fa4f",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.5,
+        "y": 10.81
+      },
+      "end": {
+        "x": 10.5,
+        "y": 11.01
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "9a9d2f52-2213-43b0-824a-611650aaa1da",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.47,
+        "y": 124.29
+      },
+      "end": {
+        "x": 18.47,
+        "y": 123.79
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "75a8af7b-d6cb-4abd-bb97-c65c4e006e30",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.5,
+        "y": 122.19
+      },
+      "end": {
+        "x": 10.5,
+        "y": 121.99
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "04fc7773-1543-4537-8378-1b0264ac1e71",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.03,
+        "y": 10.01
+      },
+      "end": {
+        "x": 16.63,
+        "y": 10.41
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "898edb75-e06a-4f6c-b657-bdf4c2926fd2",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.83,
+        "y": 10.01
+      },
+      "end": {
+        "x": 19.43,
+        "y": 10.41
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "35845c7c-2480-4230-8f5e-02902b7a1a28",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.83,
+        "y": 14.00381
+      },
+      "end": {
+        "x": 15.43,
+        "y": 13.60381
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "da7ce620-1945-4345-9052-0ba55eddfcf5",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.43,
+        "y": 10.41
+      },
+      "end": {
+        "x": 19.43,
+        "y": 13.60381
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "70d0f38d-ee54-487f-b76b-56247aba3c6b",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.63,
+        "y": 10.41
+      },
+      "end": {
+        "x": 16.63,
+        "y": 13.60381
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "d9a7c007-8aca-4eb2-a1eb-55ceee599a0c",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.3,
+        "y": 10.01
+      },
+      "end": {
+        "x": 10.5,
+        "y": 10.81
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "49fdd204-e4cc-4c6d-b29c-b2413e253d7e",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.07,
+        "y": 122.99
+      },
+      "end": {
+        "x": 11.3,
+        "y": 122.99
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "f4e81fc5-5cf3-4b7d-a851-c6191f3effad",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.23,
+        "y": 14.00381
+      },
+      "end": {
+        "x": 15.83,
+        "y": 14.00381
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "7703d82d-6bbc-4cb3-ac77-00fe24dfdf52",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.43,
+        "y": 10.41
+      },
+      "end": {
+        "x": 15.03,
+        "y": 10.01
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "bb7a0b5f-d4bd-4284-b3a5-a978b1dc3f60",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.63,
+        "y": 13.60381
+      },
+      "end": {
+        "x": 16.23,
+        "y": 14.00381
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "3cc63c6b-c16f-477a-b3f0-856ca175d629",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.67,
+        "y": 122.59
+      },
+      "end": {
+        "x": 16.67,
+        "y": 119.39619
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "af2f1ca5-922e-4ca9-b8c0-b7cc3e72bdb9",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.23,
+        "y": 13.60381
+      },
+      "end": {
+        "x": 18.23,
+        "y": 10.41
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "6377773f-46d6-4e8c-8798-97a20a1091eb",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.47,
+        "y": 119.39619
+      },
+      "end": {
+        "x": 15.47,
+        "y": 122.59
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "6ab2f0b8-3f25-41ee-84bf-eeb1e2f04dad",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.83,
+        "y": 10.01
+      },
+      "end": {
+        "x": 17.03,
+        "y": 10.01
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "f9a93783-c1b6-42eb-98bc-ed2079d6a0ce",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.03,
+        "y": 10.01
+      },
+      "end": {
+        "x": 11.3,
+        "y": 10.01
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "3b68c988-a524-4bac-982c-38f92d42f0db",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.87,
+        "y": 118.99619
+      },
+      "end": {
+        "x": 15.47,
+        "y": 119.39619
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "b34f4c38-11e9-414d-8a94-b22b3df0ff45",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.63,
+        "y": 14.00381
+      },
+      "end": {
+        "x": 18.23,
+        "y": 13.60381
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "fbecd05f-f30f-4727-a7f0-1d9b6080fe56",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 15.47,
+        "y": 122.59
+      },
+      "end": {
+        "x": 15.07,
+        "y": 122.99
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "44ac38c7-41f0-4c61-ad81-3d6e3fa6f6bc",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.23,
+        "y": 8.71
+      },
+      "end": {
+        "x": 21.23,
+        "y": 9.21
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "8da7759c-2bab-451b-a729-3dd0ba180391",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 11.3,
+        "y": 122.99
+      },
+      "end": {
+        "x": 10.5,
+        "y": 122.19
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "af2af4c6-a2cc-4c46-b14d-6d12cbb849c8",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.23,
+        "y": 10.41
+      },
+      "end": {
+        "x": 17.83,
+        "y": 10.01
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "d7b7431f-f26d-4f84-8f2a-f6b499cf3e3c",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 17.67,
+        "y": 122.99
+      },
+      "end": {
+        "x": 17.07,
+        "y": 122.99
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "890f109c-fb8e-4cb7-ab3d-c9948326ec8e",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 18.47,
+        "y": 123.79
+      },
+      "end": {
+        "x": 17.67,
+        "y": 122.99
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "5d55276d-e3a8-49a0-b2a5-eaa04bde8821",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.43,
+        "y": 13.60381
+      },
+      "end": {
+        "x": 19.03,
+        "y": 14.00381
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "bb40c961-6b6d-48b4-9029-6deb1e16d28b",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 16.27,
+        "y": 118.99619
+      },
+      "end": {
+        "x": 15.87,
+        "y": 118.99619
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "424450d6-94fb-4a0e-8e4b-963d75a01af2",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 20.43,
+        "y": 10.01
+      },
+      "end": {
+        "x": 19.83,
+        "y": 10.01
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "391b3930-d8b9-4d0e-bbe6-130835d3a6e6",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 21.23,
+        "y": 9.21
+      },
+      "end": {
+        "x": 20.43,
+        "y": 10.01
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "4870aedb-a5c0-43d5-b5cd-06017ed2b4ed",
+      "layer": "F.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 19.03,
+        "y": 14.00381
+      },
+      "end": {
+        "x": 18.63,
+        "y": 14.00381
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "f6db5b87-4db9-4bdb-868c-09f182913cc1",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 45
+      },
+      "end": {
+        "x": 4.9,
+        "y": 45.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "a253ee7f-c77a-4325-8727-03e53f8b4772",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 45.8
+      },
+      "end": {
+        "x": 6.7,
+        "y": 46.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "bdef8ade-0e7d-4ebe-83b7-5d7ccc0c4806",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 46.6
+      },
+      "end": {
+        "x": 4.5,
+        "y": 47
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "881b93ce-b516-4c87-b65e-1afe9b8c3ddd",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 57.8
+      },
+      "end": {
+        "x": 4.5,
+        "y": 58.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "91118c0d-77b0-4833-8187-1912cb45fa6e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 49.4
+      },
+      "end": {
+        "x": 4.9,
+        "y": 49.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "872da0b3-0b62-4ce1-a09b-90311d4bdd18",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.5,
+        "y": 11.01
+      },
+      "end": {
+        "x": 10.5,
+        "y": 15.5
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "e7b8847d-8415-4d06-bc7d-faacfab1c2d8",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 48.6
+      },
+      "end": {
+        "x": 6.7,
+        "y": 49
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "d3bb6f79-4c3c-4e14-abfc-73ccdf0f9aff",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 57.4
+      },
+      "end": {
+        "x": 6.3,
+        "y": 57.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "ebe3c9a7-06c1-4566-a853-af9f620c9fba",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 58.2
+      },
+      "end": {
+        "x": 4.5,
+        "y": 59
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "d924a044-2ec1-4483-b47a-81f6d1f93fbf",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 47
+      },
+      "end": {
+        "x": 4.5,
+        "y": 47.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "490b15be-3db6-4dbf-8526-b0276fc7eb11",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 54.6
+      },
+      "end": {
+        "x": 6.3,
+        "y": 55
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "8b06045c-a21a-452f-ada0-08a8bd674db1",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 60.6
+      },
+      "end": {
+        "x": 4.5,
+        "y": 61
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "8df3ce84-db51-4823-8e82-58c4e4d71500",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 59.8
+      },
+      "end": {
+        "x": 6.7,
+        "y": 60.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "fb32eb5b-d051-49ad-b22f-9b325d495dcc",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 57.8
+      },
+      "end": {
+        "x": 4.9,
+        "y": 57.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "6c053b98-ca73-4f48-a2c7-9b7899c9ab59",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 52.2
+      },
+      "end": {
+        "x": 4.9,
+        "y": 52.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "b74609d7-3b7b-4626-82e4-bb6f5861f788",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 49.8
+      },
+      "end": {
+        "x": 4.5,
+        "y": 50.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "30a8d002-2c08-4f92-b5fe-c7c7da556c65",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 55
+      },
+      "end": {
+        "x": 4.9,
+        "y": 55
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "2bef3890-cb24-4c5e-822e-00a1544d579c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 56.6
+      },
+      "end": {
+        "x": 6.3,
+        "y": 56.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "eb2789b1-b7f6-48ff-b61c-46138ffa72d8",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 46.2
+      },
+      "end": {
+        "x": 6.3,
+        "y": 46.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "c1b574ec-6df6-428b-b369-3de46fa171c5",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 52.2
+      },
+      "end": {
+        "x": 4.5,
+        "y": 52.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "72bde7bc-1c46-4441-9563-80dae2f890bb",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 56.6
+      },
+      "end": {
+        "x": 6.7,
+        "y": 57
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "ba7d0d5d-8a49-4a2f-87cd-969635c7de7f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 59
+      },
+      "end": {
+        "x": 4.9,
+        "y": 59.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "57ea013d-12ca-4e56-b07a-705cea9c8d13",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 60.2
+      },
+      "end": {
+        "x": 6.3,
+        "y": 60.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "991372c5-3be8-453b-854e-95d6259c1f47",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 59.4
+      },
+      "end": {
+        "x": 6.3,
+        "y": 59.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "1767f503-126e-493a-bc77-eeb213594d99",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 21.5
+      },
+      "end": {
+        "x": 4.5,
+        "y": 45
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "9210d2ae-acfd-4a5d-bcba-3b1f50931ab0",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 48.2
+      },
+      "end": {
+        "x": 6.7,
+        "y": 48.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "15128077-f3a7-4497-825d-4b771e327520",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 55.4
+      },
+      "end": {
+        "x": 4.5,
+        "y": 56.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "08aca005-ce6e-4428-9c6d-aa1469fa124c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.5,
+        "y": 15.5
+      },
+      "end": {
+        "x": 4.5,
+        "y": 21.5
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "858364f4-8246-47ca-974a-e10e51ce91d4",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 52.6
+      },
+      "end": {
+        "x": 4.5,
+        "y": 53.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "bf95dd8f-16e6-4fb0-8e21-da8b2108f5d6",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 53.8
+      },
+      "end": {
+        "x": 6.3,
+        "y": 53.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "719de551-1f7d-4dcd-98a4-937300f7bf5e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 51
+      },
+      "end": {
+        "x": 6.7,
+        "y": 51.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "847bf238-a642-40d3-8138-76a2925920d6",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 60.6
+      },
+      "end": {
+        "x": 4.9,
+        "y": 60.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "9a41fd49-be42-4da0-baf1-d5db970e17b7",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 51.4
+      },
+      "end": {
+        "x": 6.7,
+        "y": 51.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "56ff0ca1-fbc7-45df-a74c-2a8537517ed8",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 45.4
+      },
+      "end": {
+        "x": 6.7,
+        "y": 45.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "54950c09-72bd-4766-815d-da9c789272da",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 59.4
+      },
+      "end": {
+        "x": 6.7,
+        "y": 59.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "04ed3fb5-399f-4a11-bbb2-d3f9617ca1e8",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 56.2
+      },
+      "end": {
+        "x": 4.9,
+        "y": 56.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "ba6fff45-3153-463a-96e6-8d266df60393",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 57
+      },
+      "end": {
+        "x": 6.7,
+        "y": 57.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "91c1ed89-a311-44c9-9ace-f357d1f83178",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 49.4
+      },
+      "end": {
+        "x": 4.5,
+        "y": 49.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "b26b524d-f4b5-4c5d-8b6d-c49d80a57ed9",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 51
+      },
+      "end": {
+        "x": 6.3,
+        "y": 51
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "694dd177-6198-44e1-a527-d2e33e604a30",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 54.2
+      },
+      "end": {
+        "x": 6.7,
+        "y": 54.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "e48b6490-71ae-4908-8005-9466b913342d",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 45.4
+      },
+      "end": {
+        "x": 6.3,
+        "y": 45.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "f1ffcf26-7818-4a61-8638-0968ae7a2f2a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 48.2
+      },
+      "end": {
+        "x": 6.3,
+        "y": 48.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "402e9297-cad5-47d5-a2a7-eb44f9dd3bd7",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 49
+      },
+      "end": {
+        "x": 6.3,
+        "y": 49.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "c01a0983-9a09-4e05-ac7b-ef1b980d77e2",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 55
+      },
+      "end": {
+        "x": 4.5,
+        "y": 55.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "c7dcb80c-72ad-405c-b2b6-7823b20f7c90",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 53.8
+      },
+      "end": {
+        "x": 6.7,
+        "y": 54.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "cca8b310-d40a-42d6-ac2d-7a52d974c59b",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.5,
+        "y": 116.5
+      },
+      "end": {
+        "x": 10.5,
+        "y": 121.99
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "d5f3a371-55e1-4f4a-a7ca-538ac29052fa",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 53.4
+      },
+      "end": {
+        "x": 4.9,
+        "y": 53.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "66631e30-9757-4f8c-884c-1ebb1b324bc0",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 50.6
+      },
+      "end": {
+        "x": 4.9,
+        "y": 51
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "d7bd3b50-38f3-4076-898f-c31a47d6991a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 47.8
+      },
+      "end": {
+        "x": 4.9,
+        "y": 48.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "964ca902-ec9b-435e-8f57-69604787f41e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 110.5
+      },
+      "end": {
+        "x": 10.5,
+        "y": 116.5
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "2b0094bc-c5a6-4e26-b495-4b952375c87d",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 61
+      },
+      "end": {
+        "x": 4.5,
+        "y": 110.5
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "36bf2722-c17d-4f26-89ce-ec681b4102fc",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 51.8
+      },
+      "end": {
+        "x": 6.3,
+        "y": 52.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "1227620d-ed20-417f-a840-1c541c881b33",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 46.6
+      },
+      "end": {
+        "x": 4.9,
+        "y": 46.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "b740c38b-9473-437c-9cca-04f3ffcc8692",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 8.8,
+        "y": 124.29
+      },
+      "end": {
+        "x": 8,
+        "y": 123.49
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "fc710246-c6a5-4aa9-bd07-27f0a0567ec6",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 8,
+        "y": 123.49
+      },
+      "end": {
+        "x": 8,
+        "y": 112.8
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "674f626c-7c44-4d0a-88c1-5ec805a78504",
+      "layer": "F.Cu",
+      "width": 0.8,
+      "start": {
+        "x": 16.43,
+        "y": 124.29
+      },
+      "end": {
+        "x": 8.8,
+        "y": 124.29
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "64736af6-d470-48cf-bead-e715a0d7e252",
+      "layer": "B.Cu",
+      "width": 0.5,
+      "start": {
+        "x": 16.43,
+        "y": 124.29
+      },
+      "end": {
+        "x": 17.45,
+        "y": 126.07
+      },
+      "net": "PORT_N"
+    },
+    {
+      "uuid": "4a18f567-0cb5-4e91-8188-6e589f0b116a",
+      "layer": "F.Cu",
+      "width": 0.4,
+      "start": {
+        "x": 32.392,
+        "y": 45.95
+      },
+      "end": {
+        "x": 33.444,
+        "y": 47.002
+      },
+      "net": "BK_ARM"
     }
   ],
   "vias": [
     {
-      "uuid": "57ebad03-c0c7-4c0a-92c4-0d4b14107527",
+      "uuid": "259c3671-9b0d-48cc-9cb2-7e148f595a8f",
       "at": {
         "x": 37,
         "y": 61.7
@@ -8114,7 +8115,7 @@
       "net": ""
     },
     {
-      "uuid": "f1d4d354-ae46-411e-96d5-06672e514a0c",
+      "uuid": "ae93c081-dead-44e3-9454-88a7c1845cf8",
       "at": {
         "x": 35,
         "y": 20
@@ -8124,7 +8125,7 @@
       "net": "U4_SW"
     },
     {
-      "uuid": "1ab5f10f-0ee4-432f-9700-b935d9807ed1",
+      "uuid": "a36fc6c7-6eef-496d-a8b2-6b4f3d36a3a4",
       "at": {
         "x": 39.3,
         "y": 20
@@ -8134,7 +8135,7 @@
       "net": "U4_SW"
     },
     {
-      "uuid": "ec746751-c075-48b1-9757-fcf2fbbb82e9",
+      "uuid": "92c5be13-8bf7-4072-aa94-869f7fa7d4c2",
       "at": {
         "x": 55.35,
         "y": 98.575
@@ -8144,7 +8145,7 @@
       "net": "GND"
     },
     {
-      "uuid": "2da776bc-5597-4043-85c8-219907dea94b",
+      "uuid": "2916674d-d67a-4acd-ae27-6cca68c3396e",
       "at": {
         "x": 70,
         "y": 86.555
@@ -8154,7 +8155,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e9886471-70dd-4138-945f-32ff9bc2b0cf",
+      "uuid": "649cfbec-c4eb-4d92-8700-cbdac584640e",
       "at": {
         "x": 61.48,
         "y": 127.808
@@ -8164,7 +8165,7 @@
       "net": "GND"
     },
     {
-      "uuid": "c45aa8b1-41f6-40fb-8d55-89a77d4514c0",
+      "uuid": "17a5d10c-fe2e-40d9-a36b-a620081ded4c",
       "at": {
         "x": 38.515,
         "y": 113.71
@@ -8174,7 +8175,7 @@
       "net": "GND"
     },
     {
-      "uuid": "a4731ea9-d215-49fb-8ff3-5473a82184f9",
+      "uuid": "d007647b-ec0c-4df0-b72d-770d82b5c716",
       "at": {
         "x": 60.225,
         "y": 10.95
@@ -8184,7 +8185,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e6a9b486-3acc-402d-af52-7d5747c54f62",
+      "uuid": "35a707b2-506c-4d4c-a92e-ec4539d1578e",
       "at": {
         "x": 55.4,
         "y": 57.777
@@ -8194,7 +8195,7 @@
       "net": "GND"
     },
     {
-      "uuid": "797d4d32-77c9-4e77-af09-b6f3e1e900a7",
+      "uuid": "56bcec90-27e8-4004-b4a7-a30f7cdca1f5",
       "at": {
         "x": 24.03,
         "y": 96.838
@@ -8204,7 +8205,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e0db5c36-6a3b-46d5-9372-9c007d4530a1",
+      "uuid": "38e44eb8-4891-4846-806b-69ffb24d32e7",
       "at": {
         "x": 36.7,
         "y": 106.805
@@ -8214,7 +8215,7 @@
       "net": "GND"
     },
     {
-      "uuid": "5fc7c3f0-f775-4180-94b0-f4dd2a64a932",
+      "uuid": "b24931c5-d018-4e62-ba25-758490ea95d2",
       "at": {
         "x": 71.56,
         "y": 57.48
@@ -8224,7 +8225,7 @@
       "net": "GND"
     },
     {
-      "uuid": "c2b80c48-c0e8-4415-b974-3e5761cea074",
+      "uuid": "49ca62df-db05-4883-ba66-050542d6f668",
       "at": {
         "x": 32.583,
         "y": 108.293
@@ -8234,7 +8235,7 @@
       "net": "GND"
     },
     {
-      "uuid": "14c96a86-a18d-4a89-a227-5911244b0121",
+      "uuid": "c05ecc0b-447d-40d6-aa02-379124e47791",
       "at": {
         "x": 51.1,
         "y": 50.915
@@ -8244,7 +8245,7 @@
       "net": "GND"
     },
     {
-      "uuid": "d61b7c74-76d2-439a-a93d-36a66e69f005",
+      "uuid": "22cfac5f-6f19-4157-8482-cd94e1113eaf",
       "at": {
         "x": 57.225,
         "y": 11.85
@@ -8254,7 +8255,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e1edcf7c-c91d-47f4-b757-bbeb976c4dfc",
+      "uuid": "6d0e273b-af2d-406f-9888-790371b385b7",
       "at": {
         "x": 74.8,
         "y": 104.85
@@ -8264,7 +8265,7 @@
       "net": "GND"
     },
     {
-      "uuid": "535a1143-90f7-4a30-a4af-15e70fa31eff",
+      "uuid": "88e2f9e5-bf53-4acc-af97-450d140c4661",
       "at": {
         "x": 67.225,
         "y": 10.95
@@ -8274,7 +8275,7 @@
       "net": "GND"
     },
     {
-      "uuid": "333b5277-77ce-4dea-9396-2f93d3df17fd",
+      "uuid": "e97c1d46-067e-41fc-8519-2175e9122031",
       "at": {
         "x": 40.79,
         "y": 66.165
@@ -8284,7 +8285,7 @@
       "net": "GND"
     },
     {
-      "uuid": "d55322d8-506e-4b2f-a70c-21736e56d885",
+      "uuid": "96a0dea0-dc45-4add-a1e1-dfc29893c348",
       "at": {
         "x": 64.455,
         "y": 80.75
@@ -8294,7 +8295,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e0e18602-96fb-470f-8276-0d6f5940cee9",
+      "uuid": "8e09deeb-6e41-491b-88b0-4aa746e1174a",
       "at": {
         "x": 43.265,
         "y": 34.88
@@ -8304,7 +8305,7 @@
       "net": "GND"
     },
     {
-      "uuid": "a8104593-8c4c-4d31-94d0-69d762d45f20",
+      "uuid": "78842176-093c-4ff1-a3dd-ebc63b977b46",
       "at": {
         "x": 52.38,
         "y": 91.118
@@ -8314,7 +8315,7 @@
       "net": "GND"
     },
     {
-      "uuid": "957b34d8-e7c0-4689-aed8-12a922fc52b9",
+      "uuid": "b3b16e00-a627-4dd0-b1c0-f68e79cd2957",
       "at": {
         "x": 60.16,
         "y": 33.087
@@ -8324,7 +8325,7 @@
       "net": "GND"
     },
     {
-      "uuid": "eb1983c0-5258-4f38-9b4e-22fc0cb2efe3",
+      "uuid": "f6a1dee0-b42a-4479-8405-64c8fc6a97f4",
       "at": {
         "x": 21.025,
         "y": 96.8
@@ -8334,7 +8335,7 @@
       "net": "GND"
     },
     {
-      "uuid": "715d69b2-ae31-468c-a04f-f3dfa34cb687",
+      "uuid": "1c38a51f-8135-4046-bad2-7c0cfa464c02",
       "at": {
         "x": 49.355,
         "y": 127.77
@@ -8344,7 +8345,7 @@
       "net": "GND"
     },
     {
-      "uuid": "78a762e4-ea9c-4655-9026-d6c3f7a5c5c4",
+      "uuid": "3474f6d5-0a02-4769-9676-cf7edd23cc59",
       "at": {
         "x": 41,
         "y": 106.805
@@ -8354,7 +8355,7 @@
       "net": "GND"
     },
     {
-      "uuid": "4fc8e1f2-4d10-4b19-9d81-30498f174283",
+      "uuid": "6c2694ab-8f6d-4a23-8ce4-9120cb1a7999",
       "at": {
         "x": 53.9,
         "y": 63.768
@@ -8364,7 +8365,7 @@
       "net": "GND"
     },
     {
-      "uuid": "8d7393cb-0452-4406-a0c3-5d2540995bc7",
+      "uuid": "14339eca-c312-48a9-83cd-ff813886c98d",
       "at": {
         "x": 79.755,
         "y": 107.812
@@ -8374,7 +8375,7 @@
       "net": "GND"
     },
     {
-      "uuid": "4bda8287-9de7-413a-bc68-c9cc066dcfd9",
+      "uuid": "91611208-fa18-4dd6-8815-d64912abc88f",
       "at": {
         "x": 70.4,
         "y": 69.905
@@ -8384,7 +8385,7 @@
       "net": "GND"
     },
     {
-      "uuid": "7cbff061-6d98-4548-a60f-61c3aa5b7d8c",
+      "uuid": "a7e49727-eeba-4405-900e-54f19d101db6",
       "at": {
         "x": 70.52,
         "y": 80.788
@@ -8394,7 +8395,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e040a42b-4af5-46a8-9175-583bf044a723",
+      "uuid": "4b753a21-e97b-42e7-a051-53a0ef8188ba",
       "at": {
         "x": 54.975,
         "y": 27.85
@@ -8404,7 +8405,7 @@
       "net": "GND"
     },
     {
-      "uuid": "35dfcc56-6d72-40cd-8e76-b5dd307668a0",
+      "uuid": "e0196f05-adbb-4624-977e-9d72286a907e",
       "at": {
         "x": 47.58,
         "y": 113.748
@@ -8414,7 +8415,7 @@
       "net": "GND"
     },
     {
-      "uuid": "79f87575-b611-4928-bf6a-08d5e33e2986",
+      "uuid": "8f0c6a52-5205-4935-9566-7a5a3ce96d1d",
       "at": {
         "x": 58.475,
         "y": 27.85
@@ -8424,7 +8425,7 @@
       "net": "GND"
     },
     {
-      "uuid": "440a26a7-a53a-4edb-97d6-d27451948ddd",
+      "uuid": "b6d4c004-30d1-42fd-9ce5-c6964472aff5",
       "at": {
         "x": 45.3,
         "y": 106.805
@@ -8434,7 +8435,7 @@
       "net": "GND"
     },
     {
-      "uuid": "3317754a-89e3-4c4b-8c29-906817532051",
+      "uuid": "3dac9a38-8b57-4ce1-9cf9-c770209e9b47",
       "at": {
         "x": 19.4,
         "y": 67.5
@@ -8444,7 +8445,7 @@
       "net": "GND"
     },
     {
-      "uuid": "d676a6b9-c6ed-4089-a5c2-7d5cbfdb4919",
+      "uuid": "05d9adea-6937-438f-a266-6d773fc39cfa",
       "at": {
         "x": 47.7,
         "y": 50.915
@@ -8454,7 +8455,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e033a9c2-a33e-4f03-a37b-12f6b753fc64",
+      "uuid": "b57de35d-794e-4ce4-b94d-fc3148541348",
       "at": {
         "x": 46.4,
         "y": 57.777
@@ -8464,7 +8465,7 @@
       "net": "GND"
     },
     {
-      "uuid": "cf35ae37-70e5-4ead-bdad-2fcef2511b8a",
+      "uuid": "95522c26-645b-4b9c-b4f5-763c0b33f7c9",
       "at": {
         "x": 55.635,
         "y": 120.56
@@ -8474,7 +8475,7 @@
       "net": "GND"
     },
     {
-      "uuid": "4e1454ff-b9a6-4c70-9ff5-5a7225fd736e",
+      "uuid": "adcd2234-0911-4295-9cab-0a9970d65725",
       "at": {
         "x": 63.725,
         "y": 10.95
@@ -8484,7 +8485,7 @@
       "net": "GND"
     },
     {
-      "uuid": "bb738f4d-cfcf-4a70-91d7-bda86ab6418d",
+      "uuid": "f1a52d22-50b5-4c9b-9db6-588e94e8a572",
       "at": {
         "x": 66.515,
         "y": 22
@@ -8494,7 +8495,7 @@
       "net": "GND"
     },
     {
-      "uuid": "67da20cf-b00a-4993-bcb3-e49ebc74ace7",
+      "uuid": "f09d72f9-a9bc-4966-bef3-4bb3bc4a88ab",
       "at": {
         "x": 26.225,
         "y": 107.375
@@ -8504,7 +8505,7 @@
       "net": "GND"
     },
     {
-      "uuid": "ad099cf8-2431-4758-9910-ad304a698725",
+      "uuid": "c3147b10-5f0d-4f63-b8b6-a2bfb29961a5",
       "at": {
         "x": 40.95,
         "y": 83.7
@@ -8514,7 +8515,7 @@
       "net": "GND"
     },
     {
-      "uuid": "3eb519b2-30c0-47d0-8182-e8a51db7c945",
+      "uuid": "b7e4241a-ac97-4f7a-9bad-01ecd295f37e",
       "at": {
         "x": 19.955,
         "y": 56.71
@@ -8524,7 +8525,7 @@
       "net": "GND"
     },
     {
-      "uuid": "e06d2e29-dca0-4484-85f3-a4e38c8ab60b",
+      "uuid": "58264837-e0bd-4709-ae03-0e1f22a5642f",
       "at": {
         "x": 13.9,
         "y": 56.747
@@ -8534,7 +8535,7 @@
       "net": "GND"
     },
     {
-      "uuid": "468f5716-2b0d-4a8b-ae8b-f2996ca80648",
+      "uuid": "54df8361-c742-44f8-a988-fe10dd3bfb0b",
       "at": {
         "x": 73,
         "y": 13.1
@@ -8544,7 +8545,7 @@
       "net": "GND"
     },
     {
-      "uuid": "0364c05d-1f75-4ad2-aa6c-bed70adb6c11",
+      "uuid": "c532d2a4-d5f5-4cba-a3cf-1197f7ba9722",
       "at": {
         "x": 46.3,
         "y": 127.245
@@ -8554,7 +8555,7 @@
       "net": "GND"
     },
     {
-      "uuid": "569b2c80-8f89-4a78-9669-48e06529ab08",
+      "uuid": "82ce1fab-60de-4db4-994d-2956be9395e6",
       "at": {
         "x": 42,
         "y": 127.245
@@ -8564,7 +8565,7 @@
       "net": "GND"
     },
     {
-      "uuid": "1380166d-abb9-44c8-aeff-4107988178aa",
+      "uuid": "c0ae70c9-f004-41ff-a9c2-e1a014224f33",
       "at": {
         "x": 51.455,
         "y": 33.05
@@ -8574,7 +8575,7 @@
       "net": "GND"
     },
     {
-      "uuid": "2f608f23-8eed-42e1-b771-3103d440a72b",
+      "uuid": "be269718-2e25-4303-aa79-6f368021d928",
       "at": {
         "x": 74.66,
         "y": 49.847
@@ -8584,7 +8585,7 @@
       "net": "GND"
     },
     {
-      "uuid": "c87e0a3c-4035-4ae8-aff8-c792df44f2f8",
+      "uuid": "e22b0ca2-5e18-49bc-8d1d-d2a34d7ccb91",
       "at": {
         "x": 61.975,
         "y": 27.85
@@ -8594,7 +8595,7 @@
       "net": "GND"
     },
     {
-      "uuid": "ff20e5b1-18cf-495f-865c-93512df18133",
+      "uuid": "3b43f4a4-a16a-4b24-9559-382cbebf49eb",
       "at": {
         "x": 73.4,
         "y": 70.468
@@ -8604,7 +8605,7 @@
       "net": "GND"
     },
     {
-      "uuid": "a8a4940c-e8cb-4dad-af02-4ecaffd6b87f",
+      "uuid": "03798a6b-08ae-421a-b970-235ab56d1a62",
       "at": {
         "x": 54.635,
         "y": 100.06
@@ -8614,7 +8615,7 @@
       "net": "GND"
     },
     {
-      "uuid": "be68df18-7a6b-4710-b813-6fd3922ecf1e",
+      "uuid": "72cd3a1d-e50a-4dbc-9c64-f13a94ffc5de",
       "at": {
         "x": 34.627,
         "y": 92.03
@@ -8624,7 +8625,7 @@
       "net": "GND"
     },
     {
-      "uuid": "c5eb414c-5583-492c-83c5-77a061178ba9",
+      "uuid": "0eca66a3-36f4-48be-af89-5660321f763b",
       "at": {
         "x": 69.975,
         "y": 22
@@ -8634,7 +8635,7 @@
       "net": "GND"
     },
     {
-      "uuid": "2bfb6094-c129-4f38-aaa7-cdc03a48cad0",
+      "uuid": "21cc52ff-6024-40ac-bc1a-9d61a39f285b",
       "at": {
         "x": 68.5,
         "y": 44.38
@@ -8644,7 +8645,7 @@
       "net": "GND"
     },
     {
-      "uuid": "630378d2-f1e1-4231-acb4-49fbec7afa44",
+      "uuid": "4a7bf6c3-f197-4ca6-9ecb-73eb8ac75a24",
       "at": {
         "x": 49.38,
         "y": 91.118
@@ -8654,7 +8655,7 @@
       "net": "GND"
     },
     {
-      "uuid": "1a1b82f0-3842-4ba6-8393-b572056536ad",
+      "uuid": "c8497f85-a19f-4abc-a4b1-d6ab84064392",
       "at": {
         "x": 81.717,
         "y": 64.183
@@ -8664,7 +8665,7 @@
       "net": "GND"
     },
     {
-      "uuid": "9c306667-035d-4437-a470-013a257764c8",
+      "uuid": "b16f1036-4c3e-4ca6-92a3-ccc649cc8e72",
       "at": {
         "x": 48.155,
         "y": 64.68
@@ -8674,7 +8675,7 @@
       "net": "GND"
     },
     {
-      "uuid": "a2e61d42-db57-4efe-ad11-5d1d891cf5fe",
+      "uuid": "9d9f8c92-eab3-448a-b737-0d0f7d3bf9f6",
       "at": {
         "x": 9.2,
         "y": 18.675
@@ -8684,7 +8685,7 @@
       "net": "GND"
     },
     {
-      "uuid": "61b104d3-695b-4f25-bbb3-9c40abb7b36e",
+      "uuid": "21276e90-9665-4ea1-bed0-acc44d5425fa",
       "at": {
         "x": 79.455,
         "y": 70.43
@@ -8694,7 +8695,7 @@
       "net": "GND"
     },
     {
-      "uuid": "d45c7581-b988-40ef-b4c8-22a7030abd0a",
+      "uuid": "cb489f7d-76c3-43e2-85e3-0f157881fd26",
       "at": {
         "x": 55.48,
         "y": 91.118
@@ -8704,7 +8705,7 @@
       "net": "GND"
     },
     {
-      "uuid": "3540881d-9fd2-4df7-9285-dd32d1a54df6",
+      "uuid": "81e72408-34eb-4d87-8ce7-9fbb1cd70252",
       "at": {
         "x": 53.725,
         "y": 11.85
@@ -8714,7 +8715,7 @@
       "net": "GND"
     },
     {
-      "uuid": "494b6a25-d777-426c-aaa9-cc240e27ac3c",
+      "uuid": "4c382223-d850-42e0-b4ec-64ccbedc5138",
       "at": {
         "x": 35.175,
         "y": 52.343
@@ -8724,7 +8725,7 @@
       "net": "GND"
     },
     {
-      "uuid": "f7f2c074-3968-484a-b5b1-0df2a3d7fd98",
+      "uuid": "d9bf660f-dcef-41d6-8890-8aed7186f9d8",
       "at": {
         "x": 43.38,
         "y": 91.118
@@ -8734,7 +8735,7 @@
       "net": "GND"
     },
     {
-      "uuid": "79a569cd-87f5-4256-88e8-f57cd8dccbc3",
+      "uuid": "ba22fd4e-ddf2-4d68-927a-b71bc0eb28b6",
       "at": {
         "x": 66.15,
         "y": 71.38
@@ -8744,7 +8745,7 @@
       "net": "GND"
     },
     {
-      "uuid": "dee067ee-33fa-46b9-b204-a807152fd35a",
+      "uuid": "cd15f05d-07e6-45bf-b8cc-655e8090e2ef",
       "at": {
         "x": 51.455,
         "y": 27.85
@@ -8754,7 +8755,7 @@
       "net": "GND"
     },
     {
-      "uuid": "7940ca1f-5654-48fb-96cb-745969ded604",
+      "uuid": "e5e8774e-6677-411b-b9a0-828998b43eb3",
       "at": {
         "x": 63.055,
         "y": 22
@@ -8764,7 +8765,7 @@
       "net": "GND"
     },
     {
-      "uuid": "35a1c9dd-fb76-426c-806a-17c9bcef0f0f",
+      "uuid": "13014370-88df-4f3e-958e-a6c89575fddd",
       "at": {
         "x": 16.9,
         "y": 56.747
@@ -8774,7 +8775,7 @@
       "net": "GND"
     },
     {
-      "uuid": "540aab6a-677b-4d11-9d8c-89a639e664fe",
+      "uuid": "4921e7d2-0fbf-426b-a192-ac13ae371834",
       "at": {
         "x": 16.065,
         "y": 107.3
@@ -8784,7 +8785,7 @@
       "net": "GND"
     },
     {
-      "uuid": "cd0aee1a-8bdf-4b50-bb8f-dae68f6e84cd",
+      "uuid": "657f7092-74ac-4480-a042-c506565dc3b6",
       "at": {
         "x": 19.7,
         "y": 90.555
@@ -8794,7 +8795,7 @@
       "net": "GND"
     },
     {
-      "uuid": "ea18d4ce-e57c-4209-ad88-d3ff98d945db",
+      "uuid": "4341555a-20fe-4d9f-b709-cac8fb3ace0b",
       "at": {
         "x": 76.52,
         "y": 80.788
@@ -8804,7 +8805,7 @@
       "net": "GND"
     },
     {
-      "uuid": "03e65cfd-94c0-4b04-8858-1261bf4a6f40",
+      "uuid": "f28d20af-680d-43a0-b6b6-a42b5f3d1ba3",
       "at": {
         "x": 35.455,
         "y": 113.71
@@ -8814,7 +8815,7 @@
       "net": "GND"
     },
     {
-      "uuid": "b75a48e6-3ec2-458b-8068-5baac3ea46c1",
+      "uuid": "d0c8b501-cd30-4e16-b21d-df8db06f5bc0",
       "at": {
         "x": 54.155,
         "y": 51.44
@@ -8824,7 +8825,7 @@
       "net": "GND"
     },
     {
-      "uuid": "90bbcf95-aef8-4c23-a07f-e09c55e287aa",
+      "uuid": "d31c4221-a990-4e9d-ad2a-c1317c19662e",
       "at": {
         "x": 37.7,
         "y": 127.245
@@ -8834,7 +8835,7 @@
       "net": "GND"
     },
     {
-      "uuid": "f689022f-9b9b-4409-be08-22be364d7d99",
+      "uuid": "ecab55cb-e1f4-426a-8213-006d8328a9da",
       "at": {
         "x": 65.7,
         "y": 86.555
@@ -8844,7 +8845,7 @@
       "net": "GND"
     },
     {
-      "uuid": "407b87d6-70d3-427c-8f37-f1479f786b48",
+      "uuid": "7420a36b-cbed-4d0a-ae2e-e8b5cf3ff20d",
       "at": {
         "x": 7.9,
         "y": 102.068
@@ -8854,7 +8855,7 @@
       "net": "GND"
     },
     {
-      "uuid": "d30d2716-5f26-40c1-868e-eb8df57027ab",
+      "uuid": "4bcb77f4-0ff5-487a-a7de-0a90b6c10767",
       "at": {
         "x": 48.48,
         "y": 26.845
@@ -8864,7 +8865,7 @@
       "net": "GND"
     },
     {
-      "uuid": "3243f4a5-a0d1-4e83-ae3e-d4dc6527ab75",
+      "uuid": "9a2629b2-7e79-4f23-839b-23a28dd8bd2d",
       "at": {
         "x": 37.145,
         "y": 34.88
@@ -8874,7 +8875,7 @@
       "net": "+3V3"
     },
     {
-      "uuid": "c53f50c7-06fc-4689-b0d9-26c1bb01d5bd",
+      "uuid": "e50c2ed8-112d-45c4-8f4c-3ea047e6ef35",
       "at": {
         "x": 41.18,
         "y": 27.407
@@ -8884,7 +8885,7 @@
       "net": "U4_FB"
     },
     {
-      "uuid": "3cad9a59-6694-4a3f-bf66-7544c63733c9",
+      "uuid": "3389950a-a93b-42ab-af65-ddbb5c35d14b",
       "at": {
         "x": 59.9,
         "y": 74.6
@@ -8894,7 +8895,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "69e0bc1a-eba1-4a1b-9801-e79f3a53722c",
+      "uuid": "61b78125-370f-42bc-a177-50c7b76a695c",
       "at": {
         "x": 12,
         "y": 74.6
@@ -8904,7 +8905,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "09333dd8-a3a2-40a4-88dc-e8cf81dc377e",
+      "uuid": "a2bafca7-8496-4450-9dea-e914a9e2f44b",
       "at": {
         "x": 59.9,
         "y": 40.9
@@ -8914,7 +8915,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "3b539c6d-9e19-4a94-ab25-8a69ff99c3f4",
+      "uuid": "bb916a0d-70ae-4d08-a326-4aa68d4415ba",
       "at": {
         "x": 22.65,
         "y": 74.45
@@ -8924,7 +8925,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "2f2c6553-b194-4f0f-8bb0-6284d6be3424",
+      "uuid": "11af8e5c-637b-4ac3-b2eb-48919bf88f95",
       "at": {
         "x": 59.9,
         "y": 89.5
@@ -8934,177 +8935,7 @@
       "net": "+12V"
     },
     {
-      "uuid": "5c843883-076a-44b5-aed7-5b8c60581c19",
-      "at": {
-        "x": 55,
-        "y": 74.6
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "+12V"
-    },
-    {
-      "uuid": "13e5eefe-d07b-4cc2-9eb0-874f0010974f",
-      "at": {
-        "x": 12,
-        "y": 49.4
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "+12V"
-    },
-    {
-      "uuid": "04ffa0c0-c8c1-4e1b-9406-d9a8ee28662e",
-      "at": {
-        "x": 59.9,
-        "y": 112.5
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "+12V"
-    },
-    {
-      "uuid": "ac7f6bf2-3c94-4363-8243-7f59d17f2731",
-      "at": {
-        "x": 57.45,
-        "y": 101.525
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "VIN"
-    },
-    {
-      "uuid": "784a253d-9dcf-4b3b-9ba1-f8f5c17a052d",
-      "at": {
-        "x": 80.8,
-        "y": 56.845
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "VIN"
-    },
-    {
-      "uuid": "eeb1adf6-abf5-41d7-bd10-374871b6be26",
-      "at": {
-        "x": 80.8,
-        "y": 43.745
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "VIN"
-    },
-    {
-      "uuid": "618a041d-03bd-4bfb-af04-485824ad6a91",
-      "at": {
-        "x": 82.5,
-        "y": 34.6
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "430e22ed-5ce7-453f-8cad-27d31f1fae0d",
-      "at": {
-        "x": 75.3,
-        "y": 18
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "2e8d4333-6e75-4e49-87f1-32061e3c4782",
-      "at": {
-        "x": 75.3,
-        "y": 20
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "VIN_USB"
-    },
-    {
-      "uuid": "30885bb9-52da-48c8-9a73-a9df32178e5d",
-      "at": {
-        "x": 43.6,
-        "y": 20
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "U4_RON"
-    },
-    {
-      "uuid": "ed844b4b-96dc-4eab-b38c-5448bb5065e7",
-      "at": {
-        "x": 9.6,
-        "y": 119.59
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "b76deb17-67e4-4053-8331-9ec224cd5ee4",
-      "at": {
-        "x": 9.6,
-        "y": 12.41
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "ETH_3"
-    },
-    {
-      "uuid": "e27020a3-5a30-4f1b-92fd-679e2cfaf348",
-      "at": {
-        "x": 10.5,
-        "y": 121.99
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "7ebbf34b-186f-40a2-aa96-6fc828afe597",
-      "at": {
-        "x": 10.5,
-        "y": 11.01
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "d853a5bc-84be-4688-8b85-d2a192f0b006",
-      "at": {
-        "x": 33.444,
-        "y": 47.002
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "BK_ARM"
-    },
-    {
-      "uuid": "10653552-0d6a-4e41-ae36-1e98d4c01e15",
-      "at": {
-        "x": 46.6,
-        "y": 37
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "VIN"
-    },
-    {
-      "uuid": "0451e645-ba0c-4e82-abd2-5d2203510ee8",
-      "at": {
-        "x": 58.45,
-        "y": 123.6
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "+12V"
-    },
-    {
-      "uuid": "de962658-ede4-4ade-9f44-8ef75eb4cd39",
+      "uuid": "b656b82f-d403-4d6f-817f-c3b848ba1078",
       "at": {
         "x": 59.9,
         "y": 111.2
@@ -9114,47 +8945,87 @@
       "net": "+12V"
     },
     {
-      "uuid": "e5043bb5-d0bc-45a2-b626-aacaa9b230cb",
+      "uuid": "dde0af42-8d66-4ac1-bb98-b98550c92b29",
       "at": {
-        "x": 17.6,
-        "y": 15.5
+        "x": 55,
+        "y": 74.6
       },
       "size": 1,
       "drill": 0.5,
-      "net": "LAPTOP_OUT"
+      "net": "+12V"
     },
     {
-      "uuid": "9d414610-b06f-4c7f-835c-5762b7de5737",
+      "uuid": "b2993c14-b231-4513-97f8-a00ef75219fe",
       "at": {
-        "x": 18.9,
-        "y": 15.5
+        "x": 12,
+        "y": 49.4
       },
       "size": 1,
       "drill": 0.5,
-      "net": "LAPTOP_OUT"
+      "net": "+12V"
     },
     {
-      "uuid": "2d62c53f-8e1b-4fe7-9fa6-cc6a589b9d40",
+      "uuid": "79f59eb6-34b5-4b33-a78a-81334475ef6c",
       "at": {
-        "x": 17.6,
-        "y": 32.6
+        "x": 58.45,
+        "y": 123.6
       },
       "size": 1,
       "drill": 0.5,
-      "net": "LAPTOP_OUT"
+      "net": "+12V"
     },
     {
-      "uuid": "3e1de7e7-7596-42b8-8bff-868f243fdfd0",
+      "uuid": "be9e193e-2118-4c9d-8788-4b2eae5494b1",
       "at": {
-        "x": 15.2,
-        "y": 32.6
+        "x": 59.9,
+        "y": 112.5
       },
       "size": 1,
       "drill": 0.5,
-      "net": "LAPTOP_OUT"
+      "net": "+12V"
     },
     {
-      "uuid": "e62101dd-5965-4284-8cb7-d0ed80705f76",
+      "uuid": "ef27e2c9-6a4a-4f3f-9d9c-73a8179cda97",
+      "at": {
+        "x": 57.45,
+        "y": 101.525
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "e8c42b58-4a82-412e-98a2-a12ba3c3011f",
+      "at": {
+        "x": 80.8,
+        "y": 56.845
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "f0494314-2493-48c1-9bb7-4e127a8ceec3",
+      "at": {
+        "x": 80.8,
+        "y": 55.6
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "1731334b-19b6-4757-b618-454d52954976",
+      "at": {
+        "x": 80.8,
+        "y": 43.745
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "e416dafd-6933-4bd9-93e4-d32cbec511aa",
       "at": {
         "x": 80.8,
         "y": 45
@@ -9164,14 +9035,144 @@
       "net": "VIN"
     },
     {
-      "uuid": "afea40e4-f325-4b19-b395-c45730612465",
+      "uuid": "c048d013-7028-4bba-8603-4ab09e9fef3f",
       "at": {
-        "x": 80.8,
-        "y": 55.6
+        "x": 46.6,
+        "y": 37
       },
       "size": 1,
       "drill": 0.5,
       "net": "VIN"
+    },
+    {
+      "uuid": "025089f7-4de6-443b-9698-d9cb78a58b2c",
+      "at": {
+        "x": 15.2,
+        "y": 32.6
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "18d453e7-e609-43d8-a7c0-425ac84d756d",
+      "at": {
+        "x": 17.6,
+        "y": 15.5
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "339f953b-73e4-4df6-9d80-f71b8edf2bdc",
+      "at": {
+        "x": 17.6,
+        "y": 32.6
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "ac821590-87f1-442b-bb31-2f017117be97",
+      "at": {
+        "x": 18.9,
+        "y": 15.5
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "LAPTOP_OUT"
+    },
+    {
+      "uuid": "c5c93c92-3af3-4b32-9d7f-f2ca47aac941",
+      "at": {
+        "x": 82.5,
+        "y": 34.6
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "bf7b7108-b1ec-4bcc-8b96-ecd421b82cf8",
+      "at": {
+        "x": 75.3,
+        "y": 18
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "1524d590-a06d-46b8-90ab-4f20f7e865d9",
+      "at": {
+        "x": 75.3,
+        "y": 20
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "ddd3c6a7-a714-416f-826a-30a511121f40",
+      "at": {
+        "x": 43.6,
+        "y": 20
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "U4_RON"
+    },
+    {
+      "uuid": "206a7545-ccbd-4f54-ae02-b2e4926829ea",
+      "at": {
+        "x": 9.6,
+        "y": 119.59
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "0d221f71-d1d2-4c58-819a-dcadb78bd014",
+      "at": {
+        "x": 9.6,
+        "y": 12.41
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "ETH_3"
+    },
+    {
+      "uuid": "6b3f24ca-c541-45cb-958c-b2615f2fa839",
+      "at": {
+        "x": 10.5,
+        "y": 121.99
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "063e3d89-d6ff-4356-8b67-712d47f217c6",
+      "at": {
+        "x": 10.5,
+        "y": 11.01
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "7b2d597f-1bb1-4397-9ae1-2684a538d389",
+      "at": {
+        "x": 33.444,
+        "y": 47.002
+      },
+      "size": 0.6,
+      "drill": 0.3,
+      "net": "BK_ARM"
     }
   ],
   "zones": [
