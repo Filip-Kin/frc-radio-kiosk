@@ -440,7 +440,7 @@
 			(uuid "15c8c381-d301-4293-9633-472ad3ee0d34")
 		)
 		(embedded_fonts no)
-		(model "/home/filip/tmp/e2k/p_C2847553.3dshapes/IND-SMD_L10.0-W10.0-APS10A40M470.wrl"
+		(model "lcsc.3dshapes/IND-SMD_L10.0-W10.0-APS10A40M470.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14517,7 +14517,7 @@
 			(uuid "80db30e2-21ef-4d82-bdc8-062d7534b625")
 		)
 		(embedded_fonts no)
-		(model "/home/filip/tmp/e2k/p_C48112.3dshapes/HTSSOP-14_L5.0-W4.4-H1.2-LS6.4-P0.65.wrl"
+		(model "lcsc.3dshapes/HTSSOP-14_L5.0-W4.4-H1.2-LS6.4-P0.65.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24786,7 +24786,7 @@
 			(uuid "e5cbe2a0-cf2e-4fe9-9c81-647c9500daf3")
 		)
 		(embedded_fonts no)
-		(model "/home/filip/tmp/e2k/p_C2847553.3dshapes/IND-SMD_L10.0-W10.0-APS10A40M470.wrl"
+		(model "lcsc.3dshapes/IND-SMD_L10.0-W10.0-APS10A40M470.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43730,7 +43730,7 @@
 			(uuid "64430ac3-c821-468f-af59-675aab0d5662")
 		)
 		(embedded_fonts no)
-		(model "/home/filip/tmp/e2k/p_C156277.3dshapes/SOT-223-4P_L6.5-W3.5-H1.6-LS7.0-P2.30.wrl"
+		(model "lcsc.3dshapes/SOT-223-4P_L6.5-W3.5-H1.6-LS7.0-P2.30.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
