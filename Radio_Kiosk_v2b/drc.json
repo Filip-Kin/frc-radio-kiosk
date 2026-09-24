@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2026-09-24T18:20:50",
+    "date": "2026-09-24T18:31:51",
     "ignored_checks": [
         {
             "description": "Footprint has no courtyard defined",
@@ -106,12 +106,12 @@
             "description": "Missing connection between items",
             "items": [
                 {
-                    "description": "Track [LAPTOP_OUT] on B.Cu, length 17.1000 mm",
+                    "description": "Track [LAPTOP_OUT] on F.Cu, length 3.9000 mm",
                     "pos": {
                         "x": 17.6,
-                        "y": 15.5
+                        "y": 32.6
                     },
-                    "uuid": "017fe4b4-69ef-4871-9d21-3835684fdfbc"
+                    "uuid": "c5584bcb-a621-4df8-9fed-f8929ad94f92"
                 },
                 {
                     "description": "Pad 4 [LAPTOP_OUT] of U7 on F.Cu",
@@ -1785,12 +1785,12 @@
             "description": "Missing connection between items",
             "items": [
                 {
-                    "description": "Pad B1 [GND] of J12 on F.Cu",
+                    "description": "Pad A12 [GND] of J12 on F.Cu",
                     "pos": {
                         "x": 45.25,
                         "y": 7.395
                     },
-                    "uuid": "c9e8a0db-2a60-41d9-b783-6c4e64a8fb5d"
+                    "uuid": "3795b0f1-50f9-473e-9d26-381fc08b3c2d"
                 },
                 {
                     "description": "PTH pad S1 [GND] of J12",
@@ -2161,12 +2161,12 @@
                     "uuid": "f253de5a-551a-4795-8d0c-0ecc61ea35f0"
                 },
                 {
-                    "description": "Pad B1 [GND] of J12 on F.Cu",
+                    "description": "Pad A12 [GND] of J12 on F.Cu",
                     "pos": {
                         "x": 45.25,
                         "y": 7.395
                     },
-                    "uuid": "c9e8a0db-2a60-41d9-b783-6c4e64a8fb5d"
+                    "uuid": "3795b0f1-50f9-473e-9d26-381fc08b3c2d"
                 }
             ],
             "severity": "error",
@@ -5657,12 +5657,12 @@
                     "uuid": "90a7d10a-4859-4769-a679-d1ea8c40fc10"
                 },
                 {
-                    "description": "Track [+12V] on B.Cu, length 2.0506 mm",
+                    "description": "Track [+12V] on F.Cu, length 1.5700 mm",
                     "pos": {
-                        "x": 59.9,
-                        "y": 122.15
+                        "x": 58.45,
+                        "y": 123.6
                     },
-                    "uuid": "cc3279b4-6dde-4c29-92f4-905030f7e49a"
+                    "uuid": "ff8da8af-2d2a-4404-bf94-feed73b04fe0"
                 }
             ],
             "severity": "error",
@@ -5795,12 +5795,12 @@
                     "uuid": "b46c10d3-8ae0-403a-87a7-c130551782a2"
                 },
                 {
-                    "description": "Track [+12V] on F.Cu, length 1.3000 mm",
+                    "description": "Via [+12V] on F.Cu - B.Cu",
                     "pos": {
                         "x": 59.9,
                         "y": 111.2
                     },
-                    "uuid": "81b160dc-fe04-4a05-87b0-8c8e0ee1c362"
+                    "uuid": "7561bcf3-4643-4da9-9057-5e56adf9fa09"
                 }
             ],
             "severity": "error",
@@ -9743,13 +9743,28 @@
             "description": "Missing connection between items",
             "items": [
                 {
+                    "description": "Pad 1 [VIN_USB] of R93 on F.Cu",
+                    "pos": {
+                        "x": 67.8775,
+                        "y": 64.09
+                    },
+                    "uuid": "a442f897-6b31-4144-b650-5cd1d48bbb90"
+                },
+                {
                     "description": "Pad 8 [VIN_USB] of U50 on F.Cu",
                     "pos": {
                         "x": 63.75,
                         "y": 68.38
                     },
                     "uuid": "e5f17654-7d80-4a76-b1c9-915b7f5fc362"
-                },
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
                 {
                     "description": "Pad 1 [VIN_USB] of R93 on F.Cu",
                     "pos": {
@@ -9757,37 +9772,7 @@
                         "y": 64.09
                     },
                     "uuid": "a442f897-6b31-4144-b650-5cd1d48bbb90"
-                }
-            ],
-            "severity": "error",
-            "type": "unconnected_items"
-        },
-        {
-            "description": "Missing connection between items",
-            "items": [
-                {
-                    "description": "Pad 8 [VIN_USB] of U50 on F.Cu",
-                    "pos": {
-                        "x": 63.75,
-                        "y": 68.38
-                    },
-                    "uuid": "e5f17654-7d80-4a76-b1c9-915b7f5fc362"
                 },
-                {
-                    "description": "Pad 1 [VIN_USB] of C140 on F.Cu",
-                    "pos": {
-                        "x": 68.75,
-                        "y": 72.855
-                    },
-                    "uuid": "3844a916-aee1-4544-b503-5ff8c012d9d3"
-                }
-            ],
-            "severity": "error",
-            "type": "unconnected_items"
-        },
-        {
-            "description": "Missing connection between items",
-            "items": [
                 {
                     "description": "Track [VIN_USB] on F.Cu, length 3.1800 mm",
                     "pos": {
@@ -9795,14 +9780,29 @@
                         "y": 54.3
                     },
                     "uuid": "342b3bc5-a3ee-4da2-ac5e-cbd11fa9551b"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Pad 1 [VIN_USB] of C140 on F.Cu",
+                    "pos": {
+                        "x": 68.75,
+                        "y": 72.855
+                    },
+                    "uuid": "3844a916-aee1-4544-b503-5ff8c012d9d3"
                 },
                 {
-                    "description": "Pad 1 [VIN_USB] of R93 on F.Cu",
+                    "description": "Pad 8 [VIN_USB] of U50 on F.Cu",
                     "pos": {
-                        "x": 67.8775,
-                        "y": 64.09
+                        "x": 63.75,
+                        "y": 68.38
                     },
-                    "uuid": "a442f897-6b31-4144-b650-5cd1d48bbb90"
+                    "uuid": "e5f17654-7d80-4a76-b1c9-915b7f5fc362"
                 }
             ],
             "severity": "error",
