@@ -14961,7 +14961,7 @@
 		)
 		(pad "15" smd rect
 			(at 0 0 270)
-			(size 1.83 2.055)
+			(size 3.155 3.255)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
 			(uuid "c8f592c5-3354-4d6c-b0e7-ae551e479304")
