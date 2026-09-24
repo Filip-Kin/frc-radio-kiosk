@@ -21,11 +21,11 @@
     },
     {
       "x": 84,
-      "y": 133
+      "y": 141
     },
     {
       "x": 0,
-      "y": 133
+      "y": 141
     }
   ],
   "footprints": [
@@ -37,7 +37,7 @@
       "libId": "Inductor_SMD:L_12x12mm_H8mm",
       "at": {
         "x": 69.65,
-        "y": 117.89
+        "y": 125.89
       },
       "rotation": 0,
       "side": "F",
@@ -54,7 +54,7 @@
       "libId": "Diode_SMD:D_SMA",
       "at": {
         "x": 80.15,
-        "y": 117.89
+        "y": 125.89
       },
       "rotation": 270,
       "side": "F",
@@ -71,7 +71,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 63.6,
-        "y": 88.03
+        "y": 96.03
       },
       "rotation": 90,
       "side": "F",
@@ -88,7 +88,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 67.9,
-        "y": 88.03
+        "y": 96.03
       },
       "rotation": 90,
       "side": "F",
@@ -105,7 +105,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 72.2,
-        "y": 88.03
+        "y": 96.03
       },
       "rotation": 90,
       "side": "F",
@@ -122,7 +122,7 @@
       "libId": "Capacitor_SMD:CP_Elec_8x10.5",
       "at": {
         "x": 68.15,
-        "y": 104.85
+        "y": 112.85
       },
       "rotation": 0,
       "side": "F",
@@ -139,7 +139,7 @@
       "libId": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm",
       "at": {
         "x": 74.2,
-        "y": 95.53
+        "y": 103.53
       },
       "rotation": 0,
       "side": "F",
@@ -162,7 +162,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 35.93,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -179,7 +179,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 41.93,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -196,7 +196,7 @@
       "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
       "at": {
         "x": 75.87,
-        "y": 57.48
+        "y": 65.48
       },
       "rotation": 0,
       "side": "F",
@@ -219,7 +219,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 78.07,
-        "y": 81.7
+        "y": 89.7
       },
       "rotation": 90,
       "side": "F",
@@ -236,7 +236,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 72.07,
-        "y": 81.7
+        "y": 89.7
       },
       "rotation": 90,
       "side": "F",
@@ -253,7 +253,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 17.6,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -270,7 +270,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 44.93,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -316,7 +316,7 @@
       "libId": "Diode_SMD:D_SMA",
       "at": {
         "x": 67.56,
-        "y": 57.48
+        "y": 65.48
       },
       "rotation": 0,
       "side": "F",
@@ -333,7 +333,7 @@
       "libId": "Package_TO_SOT_SMD:SOT-23-6",
       "at": {
         "x": 63.05,
-        "y": 64.09
+        "y": 72.09
       },
       "rotation": 0,
       "side": "F",
@@ -354,7 +354,7 @@
       "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
       "at": {
         "x": 65.7,
-        "y": 95.53
+        "y": 103.53
       },
       "rotation": 0,
       "side": "F",
@@ -377,7 +377,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 66.04,
-        "y": 81.7
+        "y": 89.7
       },
       "rotation": 90,
       "side": "F",
@@ -394,7 +394,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 75.07,
-        "y": 81.7
+        "y": 89.7
       },
       "rotation": 90,
       "side": "F",
@@ -411,7 +411,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 62.98,
-        "y": 81.7
+        "y": 89.7
       },
       "rotation": 90,
       "side": "F",
@@ -428,7 +428,7 @@
       "libId": "Diode_SMD:D_SMA",
       "at": {
         "x": 36.95,
-        "y": 83.7
+        "y": 91.7
       },
       "rotation": 0,
       "side": "F",
@@ -445,7 +445,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 47.93,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -462,7 +462,7 @@
       "libId": "Resistor_SMD:R_2512_6332Metric",
       "at": {
         "x": 77.33,
-        "y": 104.85
+        "y": 112.85
       },
       "rotation": 270,
       "side": "F",
@@ -479,7 +479,7 @@
       "libId": "Resistor_SMD:R_2512_6332Metric",
       "at": {
         "x": 70.84,
-        "y": 64.09
+        "y": 72.09
       },
       "rotation": 0,
       "side": "F",
@@ -496,7 +496,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 49.45,
-        "y": 64.68
+        "y": 72.68
       },
       "rotation": 90,
       "side": "F",
@@ -513,7 +513,7 @@
       "libId": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
       "at": {
         "x": 21.42,
-        "y": 83.7
+        "y": 91.7
       },
       "rotation": 90,
       "side": "F",
@@ -540,7 +540,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 61.98,
-        "y": 57.48
+        "y": 65.48
       },
       "rotation": 90,
       "side": "F",
@@ -557,7 +557,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 69.07,
-        "y": 81.7
+        "y": 89.7
       },
       "rotation": 90,
       "side": "F",
@@ -574,7 +574,7 @@
       "libId": "Diode_SMD:D_SMA",
       "at": {
         "x": 45.05,
-        "y": 83.7
+        "y": 91.7
       },
       "rotation": 0,
       "side": "F",
@@ -591,7 +591,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 50.93,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -608,7 +608,7 @@
       "libId": "LCSC:ESSOP-10_CH224A",
       "at": {
         "x": 63.75,
-        "y": 71.38
+        "y": 79.38
       },
       "rotation": 0,
       "side": "F",
@@ -634,7 +634,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 71.95,
-        "y": 71.38
+        "y": 79.38
       },
       "rotation": 90,
       "side": "F",
@@ -651,7 +651,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 37.83,
-        "y": 64.68
+        "y": 72.68
       },
       "rotation": 0,
       "side": "F",
@@ -668,7 +668,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 44.58,
-        "y": 64.68
+        "y": 72.68
       },
       "rotation": 0,
       "side": "F",
@@ -685,7 +685,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 52.45,
-        "y": 64.68
+        "y": 72.68
       },
       "rotation": 90,
       "side": "F",
@@ -702,7 +702,7 @@
       "libId": "Package_TO_SOT_SMD:SOT-23-5",
       "at": {
         "x": 78.63,
-        "y": 64.09
+        "y": 72.09
       },
       "rotation": 0,
       "side": "F",
@@ -722,7 +722,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 82.76,
-        "y": 64.09
+        "y": 72.09
       },
       "rotation": 90,
       "side": "F",
@@ -739,7 +739,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 78.6,
-        "y": 88.03
+        "y": 96.03
       },
       "rotation": 90,
       "side": "F",
@@ -756,7 +756,7 @@
       "libId": "Diode_SMD:D_SOD-123",
       "at": {
         "x": 81.6,
-        "y": 88.03
+        "y": 96.03
       },
       "rotation": 90,
       "side": "F",
@@ -773,7 +773,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 21.9,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -790,7 +790,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 53.93,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -807,7 +807,7 @@
       "libId": "Capacitor_SMD:C_1206_3216Metric",
       "at": {
         "x": 68.75,
-        "y": 71.38
+        "y": 79.38
       },
       "rotation": 90,
       "side": "F",
@@ -824,7 +824,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 74.95,
-        "y": 71.38
+        "y": 79.38
       },
       "rotation": 90,
       "side": "F",
@@ -841,7 +841,7 @@
       "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
       "at": {
         "x": 72.81,
-        "y": 44.38
+        "y": 52.38
       },
       "rotation": 0,
       "side": "F",
@@ -864,7 +864,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 38.93,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -881,7 +881,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 56.93,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -915,7 +915,7 @@
       "libId": "Diode_SMD:D_SMA",
       "at": {
         "x": 64.5,
-        "y": 44.38
+        "y": 52.38
       },
       "rotation": 0,
       "side": "F",
@@ -932,7 +932,7 @@
       "libId": "Package_TO_SOT_SMD:SOT-23-6",
       "at": {
         "x": 63.05,
-        "y": 50.76
+        "y": 58.76
       },
       "rotation": 0,
       "side": "F",
@@ -953,7 +953,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 59.93,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 90,
       "side": "F",
@@ -970,7 +970,7 @@
       "libId": "Package_TO_SOT_SMD:LFPAK33",
       "at": {
         "x": 30.14,
-        "y": 83.7
+        "y": 91.7
       },
       "rotation": 0,
       "side": "F",
@@ -990,7 +990,7 @@
       "libId": "Resistor_SMD:R_2512_6332Metric",
       "at": {
         "x": 29.24,
-        "y": 92.03
+        "y": 100.03
       },
       "rotation": 0,
       "side": "F",
@@ -1007,7 +1007,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 67.18,
-        "y": 50.76
+        "y": 58.76
       },
       "rotation": 90,
       "side": "F",
@@ -1024,7 +1024,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 70.21,
-        "y": 50.76
+        "y": 58.76
       },
       "rotation": 90,
       "side": "F",
@@ -1041,7 +1041,7 @@
       "libId": "Capacitor_SMD:C_1206_3216Metric",
       "at": {
         "x": 49.45,
-        "y": 52.39
+        "y": 60.39
       },
       "rotation": 90,
       "side": "F",
@@ -1058,7 +1058,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 44.95,
-        "y": 58.69
+        "y": 66.69
       },
       "rotation": 90,
       "side": "F",
@@ -1075,7 +1075,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 45.6,
-        "y": 52.39
+        "y": 60.39
       },
       "rotation": 90,
       "side": "F",
@@ -1092,7 +1092,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 73.21,
-        "y": 50.76
+        "y": 58.76
       },
       "rotation": 90,
       "side": "F",
@@ -1109,7 +1109,7 @@
       "libId": "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm",
       "at": {
         "x": 47.5,
-        "y": 44.93
+        "y": 52.93
       },
       "rotation": 0,
       "side": "F",
@@ -1138,7 +1138,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 47.95,
-        "y": 58.69
+        "y": 66.69
       },
       "rotation": 90,
       "side": "F",
@@ -1155,7 +1155,7 @@
       "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
       "at": {
         "x": 55.8,
-        "y": 44.88
+        "y": 52.88
       },
       "rotation": 0,
       "side": "F",
@@ -1178,7 +1178,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 52.68,
-        "y": 52.39
+        "y": 60.39
       },
       "rotation": 90,
       "side": "F",
@@ -1195,7 +1195,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 40.1,
-        "y": 114.66
+        "y": 122.66
       },
       "rotation": 90,
       "side": "F",
@@ -1212,7 +1212,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 53.95,
-        "y": 58.69
+        "y": 66.69
       },
       "rotation": 90,
       "side": "F",
@@ -1229,7 +1229,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 50.95,
-        "y": 58.69
+        "y": 66.69
       },
       "rotation": 90,
       "side": "F",
@@ -1246,7 +1246,7 @@
       "libId": "Inductor_SMD:L_Bourns_SRP7028A_7.3x6.6mm",
       "at": {
         "x": 36.2,
-        "y": 100.05
+        "y": 108.05
       },
       "rotation": 0,
       "side": "F",
@@ -1263,7 +1263,7 @@
       "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
       "at": {
         "x": 54.8,
-        "y": 108.28
+        "y": 116.28
       },
       "rotation": 0,
       "side": "F",
@@ -1286,7 +1286,7 @@
       "libId": "Diode_SMD:D_SMA",
       "at": {
         "x": 9,
-        "y": 108.25
+        "y": 116.25
       },
       "rotation": 0,
       "side": "F",
@@ -1303,7 +1303,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 57.45,
-        "y": 100.05
+        "y": 108.05
       },
       "rotation": 90,
       "side": "F",
@@ -1320,7 +1320,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 33.98,
-        "y": 114.66
+        "y": 122.66
       },
       "rotation": 90,
       "side": "F",
@@ -1337,7 +1337,7 @@
       "libId": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
       "at": {
         "x": 46.75,
-        "y": 100.05
+        "y": 108.05
       },
       "rotation": 0,
       "side": "F",
@@ -1360,7 +1360,7 @@
       "libId": "Package_TO_SOT_SMD:SOT-23-6",
       "at": {
         "x": 48.45,
-        "y": 108.3625
+        "y": 116.3625
       },
       "rotation": 90,
       "side": "F",
@@ -1381,7 +1381,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 53.15,
-        "y": 100.05
+        "y": 108.05
       },
       "rotation": 90,
       "side": "F",
@@ -1398,7 +1398,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 34.6,
-        "y": 108.28
+        "y": 116.28
       },
       "rotation": 90,
       "side": "F",
@@ -1415,7 +1415,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 38.9,
-        "y": 108.28
+        "y": 116.28
       },
       "rotation": 90,
       "side": "F",
@@ -1432,7 +1432,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 43.2,
-        "y": 108.28
+        "y": 116.28
       },
       "rotation": 90,
       "side": "F",
@@ -1449,7 +1449,7 @@
       "libId": "Capacitor_SMD:CP_Elec_10x10.5",
       "at": {
         "x": 26.85,
-        "y": 67.5
+        "y": 75.5
       },
       "rotation": 0,
       "side": "F",
@@ -1466,7 +1466,7 @@
       "libId": "Capacitor_SMD:CP_Elec_10x10.5",
       "at": {
         "x": 12.25,
-        "y": 67.5
+        "y": 75.5
       },
       "rotation": 0,
       "side": "F",
@@ -1483,7 +1483,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 37.04,
-        "y": 114.66
+        "y": 122.66
       },
       "rotation": 90,
       "side": "F",
@@ -1500,7 +1500,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 49.95,
-        "y": 114
+        "y": 122
       },
       "rotation": 0,
       "side": "F",
@@ -1517,7 +1517,7 @@
       "libId": "LCSC:RJ45-TH_R-RJ45R08P-A004",
       "at": {
         "x": 20,
-        "y": 125.18
+        "y": 133.18
       },
       "rotation": 0,
       "side": "F",
@@ -1559,7 +1559,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 43.13,
-        "y": 114.66
+        "y": 122.66
       },
       "rotation": 90,
       "side": "F",
@@ -1576,7 +1576,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 46.13,
-        "y": 114.66
+        "y": 122.66
       },
       "rotation": 90,
       "side": "F",
@@ -1592,10 +1592,10 @@
       "symbolUuid": "be0e5ca0-097e-48bf-810d-0f415f154f66",
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
-        "x": 11.7,
-        "y": 29.8
+        "x": 16.3,
+        "y": 17.6
       },
-      "rotation": 90,
+      "rotation": 0,
       "side": "F",
       "padNets": {
         "1": "U4_BST",
@@ -1609,10 +1609,10 @@
       "symbolUuid": "b13b5591-b77f-4f2b-a71e-2ba26b56586e",
       "libId": "Resistor_SMD:R_2512_6332Metric",
       "at": {
-        "x": 7.5,
-        "y": 29
+        "x": 36.8,
+        "y": 44.6
       },
-      "rotation": 90,
+      "rotation": 0,
       "side": "F",
       "padNets": {
         "1": "+15V6_BUCK",
@@ -1626,10 +1626,10 @@
       "symbolUuid": "804334e2-8e79-4c17-82d7-711bca3d50e8",
       "libId": "Inductor_SMD:L_Bourns_SRP7028A_7.3x6.6mm",
       "at": {
-        "x": 25.1,
-        "y": 30.75
+        "x": 27.26,
+        "y": 36.7
       },
-      "rotation": 0,
+      "rotation": 270,
       "side": "F",
       "padNets": {
         "1": "U4_SW",
@@ -1643,10 +1643,10 @@
       "symbolUuid": "bdcc118a-4d58-4f75-ae20-7a01c1b41a47",
       "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
       "at": {
-        "x": 9.2,
-        "y": 35.83
+        "x": 44.4,
+        "y": 43
       },
-      "rotation": 0,
+      "rotation": 90,
       "side": "F",
       "padNets": {
         "1": "+15V6_S",
@@ -1666,8 +1666,8 @@
       "symbolUuid": "7d0f0461-d330-4c41-812a-1ea67488173d",
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
-        "x": 7.15,
-        "y": 20.9
+        "x": 32.7,
+        "y": 20.2
       },
       "rotation": 90,
       "side": "F",
@@ -1683,10 +1683,10 @@
       "symbolUuid": "84548f23-c748-4845-bd3c-1f3af2018c8a",
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
-        "x": 44.85,
-        "y": 35.83
+        "x": 6.8,
+        "y": 20.4
       },
-      "rotation": 90,
+      "rotation": 0,
       "side": "F",
       "padNets": {
         "1": "VIN",
@@ -1700,8 +1700,8 @@
       "symbolUuid": "bda13903-3c98-4b5a-9390-fe5ae8c1e5da",
       "libId": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
       "at": {
-        "x": 13.63,
-        "y": 20.9
+        "x": 13.6,
+        "y": 22.3
       },
       "rotation": 270,
       "side": "F",
@@ -1730,8 +1730,8 @@
       "symbolUuid": "a5f0d187-b8be-40d0-8dcf-83717b8b002b",
       "libId": "Package_TO_SOT_SMD:SOT-23-6",
       "at": {
-        "x": 16.55,
-        "y": 35.83
+        "x": 44.4,
+        "y": 37.1
       },
       "rotation": 0,
       "side": "F",
@@ -1768,8 +1768,8 @@
       "symbolUuid": "9577aa0e-4237-4680-a34b-ded64d1af568",
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
-        "x": 47,
-        "y": 27.5
+        "x": 36.2,
+        "y": 20.2
       },
       "rotation": 90,
       "side": "F",
@@ -1785,8 +1785,8 @@
       "symbolUuid": "04775512-a400-4cd9-9d2c-0c77bad99489",
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
-        "x": 33.3,
-        "y": 27.5
+        "x": 20.3,
+        "y": 44.5
       },
       "rotation": 90,
       "side": "F",
@@ -1802,8 +1802,8 @@
       "symbolUuid": "ca73bb71-b56f-4581-a602-d10eb87ea657",
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
-        "x": 40.15,
-        "y": 28.1
+        "x": 27.3,
+        "y": 46.9
       },
       "rotation": 0,
       "side": "F",
@@ -1819,8 +1819,8 @@
       "symbolUuid": "820f877c-676d-4e09-8a84-6941a05eaa6b",
       "libId": "Package_TO_SOT_SMD:SOT-23-5",
       "at": {
-        "x": 16.3,
-        "y": 26.5
+        "x": 37.3,
+        "y": 40.5
       },
       "rotation": 0,
       "side": "F",
@@ -1839,10 +1839,10 @@
       "symbolUuid": "7a3f5dca-cf88-4d90-b713-0b5f0abb5f4b",
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
-        "x": 16.3,
-        "y": 30
+        "x": 34.1,
+        "y": 40.5
       },
-      "rotation": 0,
+      "rotation": 90,
       "side": "F",
       "padNets": {
         "1": "+3V3",
@@ -1856,10 +1856,10 @@
       "symbolUuid": "dd303ab9-3cf6-46b2-907c-c10f39b1b979",
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
-        "x": 11.7,
-        "y": 26.2
+        "x": 6.8,
+        "y": 18
       },
-      "rotation": 90,
+      "rotation": 0,
       "side": "F",
       "padNets": {
         "1": "U4_VCC",
@@ -1873,10 +1873,10 @@
       "symbolUuid": "ba6319a2-f6d4-4ff5-ace6-b9f803a538a9",
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
-        "x": 42,
-        "y": 37.15
+        "x": 40.9,
+        "y": 36.6
       },
-      "rotation": 0,
+      "rotation": 90,
       "side": "F",
       "padNets": {
         "1": "U7_VCAP",
@@ -1890,8 +1890,8 @@
       "symbolUuid": "bfd251e9-70c7-4dfe-9aaa-f94d21b367f5",
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
-        "x": 22.5,
-        "y": 40
+        "x": 6.8,
+        "y": 22.8
       },
       "rotation": 0,
       "side": "F",
@@ -1907,8 +1907,8 @@
       "symbolUuid": "93bff018-16ea-4ae1-b9bf-6b0a9e5a3345",
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
-        "x": 59.2,
-        "y": 85.6
+        "x": 11.8,
+        "y": 43
       },
       "rotation": 0,
       "side": "F",
@@ -1924,8 +1924,8 @@
       "symbolUuid": "503c5a0d-f16c-4cb7-ba20-0ae6eb9ef85e",
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
-        "x": 31,
-        "y": 75.2
+        "x": 11.8,
+        "y": 33.4
       },
       "rotation": 0,
       "side": "F",
@@ -1941,8 +1941,8 @@
       "symbolUuid": "be097fdb-65a0-4b22-a479-3b5f7cae82fe",
       "libId": "Package_TO_SOT_SMD:SOT-23-5",
       "at": {
-        "x": 34.4,
-        "y": 33.6
+        "x": 14.2,
+        "y": 37
       },
       "rotation": 0,
       "side": "F",
@@ -1961,8 +1961,8 @@
       "symbolUuid": "4494dfc3-37d6-4d9b-b968-bada5e24f3b9",
       "libId": "Diode_SMD:D_SOD-123",
       "at": {
-        "x": 33.7,
-        "y": 37.15
+        "x": 16,
+        "y": 40.5
       },
       "rotation": 0,
       "side": "F",
@@ -1978,8 +1978,8 @@
       "symbolUuid": "5d081a31-b13a-4d8e-9755-70e30e88b541",
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
-        "x": 38,
-        "y": 37.15
+        "x": 3.1,
+        "y": 27.6
       },
       "rotation": 0,
       "side": "F",
@@ -2080,8 +2080,8 @@
       "symbolUuid": "c63d4e74-89e9-44d4-b374-4f8ac9bf9cda",
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
-        "x": 27.05,
-        "y": 40
+        "x": 3.1,
+        "y": 22.8
       },
       "rotation": 0,
       "side": "F",
@@ -2097,8 +2097,8 @@
       "symbolUuid": "c05ab531-cb92-41ec-bd82-b7c41c7060ee",
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
-        "x": 15.9,
-        "y": 75.2
+        "x": 3.1,
+        "y": 18
       },
       "rotation": 0,
       "side": "F",
@@ -2114,10 +2114,10 @@
       "symbolUuid": "2d7e22b9-8128-4f35-bd98-0b041e44c122",
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
-        "x": 40.8,
-        "y": 33.6
+        "x": 16.1,
+        "y": 33.4
       },
-      "rotation": 90,
+      "rotation": 0,
       "side": "F",
       "padNets": {
         "1": "LAPTOP_CC",
@@ -2148,8 +2148,8 @@
       "symbolUuid": "f5b1acc6-beb6-47f8-8607-eed8721bae63",
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
-        "x": 50.7,
-        "y": 88.8
+        "x": 16.1,
+        "y": 43
       },
       "rotation": 0,
       "side": "F",
@@ -2217,7 +2217,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 54,
-        "y": 128.72
+        "y": 136.72
       },
       "rotation": 90,
       "side": "F",
@@ -2310,7 +2310,7 @@
       "libId": "Inductor_SMD:L_Bourns_SRP7028A_7.3x6.6mm",
       "at": {
         "x": 38.48,
-        "y": 120.55
+        "y": 128.55
       },
       "rotation": 0,
       "side": "F",
@@ -2327,7 +2327,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 58.45,
-        "y": 120.55
+        "y": 128.55
       },
       "rotation": 90,
       "side": "F",
@@ -2344,7 +2344,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 47.88,
-        "y": 128.72
+        "y": 136.72
       },
       "rotation": 90,
       "side": "F",
@@ -2378,7 +2378,7 @@
       "libId": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm",
       "at": {
         "x": 47.75,
-        "y": 120.55
+        "y": 128.55
       },
       "rotation": 0,
       "side": "F",
@@ -2401,7 +2401,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 54.15,
-        "y": 120.55
+        "y": 128.55
       },
       "rotation": 90,
       "side": "F",
@@ -2418,7 +2418,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 35.6,
-        "y": 128.72
+        "y": 136.72
       },
       "rotation": 90,
       "side": "F",
@@ -2435,7 +2435,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 39.9,
-        "y": 128.72
+        "y": 136.72
       },
       "rotation": 90,
       "side": "F",
@@ -2452,7 +2452,7 @@
       "libId": "Capacitor_SMD:C_1210_3225Metric",
       "at": {
         "x": 44.2,
-        "y": 128.72
+        "y": 136.72
       },
       "rotation": 90,
       "side": "F",
@@ -2486,7 +2486,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 50.94,
-        "y": 128.72
+        "y": 136.72
       },
       "rotation": 90,
       "side": "F",
@@ -2503,7 +2503,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 57.03,
-        "y": 128.72
+        "y": 136.72
       },
       "rotation": 90,
       "side": "F",
@@ -2576,7 +2576,7 @@
       "libId": "LCSC:LED-SMD_WS2812B-4020",
       "at": {
         "x": 31.5,
-        "y": 131.35
+        "y": 139.35
       },
       "rotation": 180,
       "side": "F",
@@ -2595,7 +2595,7 @@
       "libId": "LCSC:CONN-TH_XH-3A",
       "at": {
         "x": 10.5,
-        "y": 90.5
+        "y": 98.5
       },
       "rotation": 0,
       "side": "F",
@@ -2630,7 +2630,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 60.03,
-        "y": 128.72
+        "y": 136.72
       },
       "rotation": 90,
       "side": "F",
@@ -2664,7 +2664,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 77.98,
-        "y": 71.38
+        "y": 79.38
       },
       "rotation": 90,
       "side": "F",
@@ -2681,7 +2681,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 14.59,
-        "y": 108.25
+        "y": 116.25
       },
       "rotation": 90,
       "side": "F",
@@ -2717,7 +2717,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 28,
-        "y": 108.2
+        "y": 116.2
       },
       "rotation": 90,
       "side": "F",
@@ -2753,7 +2753,7 @@
       "libId": "LCSC:CONN-TH_XH-2A",
       "at": {
         "x": 9.5,
-        "y": 83.5
+        "y": 91.5
       },
       "rotation": 0,
       "side": "F",
@@ -2770,7 +2770,7 @@
       "libId": "Diode_SMD:D_SMA",
       "at": {
         "x": 9,
-        "y": 97.75
+        "y": 105.75
       },
       "rotation": 0,
       "side": "F",
@@ -2787,7 +2787,7 @@
       "libId": "Resistor_SMD:R_0603_1608Metric",
       "at": {
         "x": 25,
-        "y": 108.2
+        "y": 116.2
       },
       "rotation": 90,
       "side": "F",
@@ -2804,7 +2804,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 31.54,
-        "y": 108.2
+        "y": 116.2
       },
       "rotation": 90,
       "side": "F",
@@ -2821,7 +2821,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 6.45,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 90,
       "side": "F",
@@ -2838,7 +2838,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 33.2,
-        "y": 52.23
+        "y": 60.23
       },
       "rotation": 90,
       "side": "F",
@@ -2855,7 +2855,7 @@
       "libId": "Package_TO_SOT_SMD:SOT-23",
       "at": {
         "x": 15.54,
-        "y": 97.75
+        "y": 105.75
       },
       "rotation": 0,
       "side": "F",
@@ -2873,7 +2873,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 9.45,
-        "y": 102.98
+        "y": 110.98
       },
       "rotation": 90,
       "side": "F",
@@ -2890,7 +2890,7 @@
       "libId": "Package_TO_SOT_SMD:TO-252-2",
       "at": {
         "x": 11.89,
-        "y": 45
+        "y": 53
       },
       "rotation": 0,
       "side": "F",
@@ -2908,7 +2908,7 @@
       "libId": "Resistor_SMD:R_2512_6332Metric",
       "at": {
         "x": 10.14,
-        "y": 52.23
+        "y": 60.23
       },
       "rotation": 0,
       "side": "F",
@@ -2925,7 +2925,7 @@
       "libId": "Resistor_SMD:R_2512_6332Metric",
       "at": {
         "x": 20.51,
-        "y": 52.23
+        "y": 60.23
       },
       "rotation": 0,
       "side": "F",
@@ -2942,7 +2942,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 9.45,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 90,
       "side": "F",
@@ -2959,7 +2959,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 12.45,
-        "y": 102.98
+        "y": 110.98
       },
       "rotation": 90,
       "side": "F",
@@ -2976,7 +2976,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 36.2,
-        "y": 52.23
+        "y": 60.23
       },
       "rotation": 90,
       "side": "F",
@@ -2993,7 +2993,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 19.55,
-        "y": 97.75
+        "y": 105.75
       },
       "rotation": 90,
       "side": "F",
@@ -3010,7 +3010,7 @@
       "libId": "LCSC:BAT-TH_BH-123A-A5BJ002",
       "at": {
         "x": 14.84,
-        "y": 59
+        "y": 67
       },
       "rotation": 90,
       "side": "B",
@@ -3027,7 +3027,7 @@
       "libId": "LCSC:BAT-TH_BH-123A-A5BJ002",
       "at": {
         "x": 34.28,
-        "y": 59
+        "y": 67
       },
       "rotation": 270,
       "side": "B",
@@ -3044,7 +3044,7 @@
       "libId": "LCSC:BAT-TH_BH-123A-A5BJ002",
       "at": {
         "x": 53.72,
-        "y": 59
+        "y": 67
       },
       "rotation": 90,
       "side": "B",
@@ -3061,7 +3061,7 @@
       "libId": "LCSC:BAT-TH_BH-123A-A5BJ002",
       "at": {
         "x": 73.16,
-        "y": 59
+        "y": 67
       },
       "rotation": 270,
       "side": "B",
@@ -3078,7 +3078,7 @@
       "libId": "Fuse:Fuse_1206_3216Metric",
       "at": {
         "x": 42.45,
-        "y": 45
+        "y": 53
       },
       "rotation": 90,
       "side": "F",
@@ -3095,7 +3095,7 @@
       "libId": "Package_TO_SOT_SMD:SOT-23-5",
       "at": {
         "x": 28.25,
-        "y": 45
+        "y": 53
       },
       "rotation": 0,
       "side": "F",
@@ -3115,7 +3115,7 @@
       "libId": "Capacitor_SMD:C_0805_2012Metric",
       "at": {
         "x": 18.48,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 90,
       "side": "F",
@@ -3132,7 +3132,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 6.45,
-        "y": 102.98
+        "y": 110.98
       },
       "rotation": 90,
       "side": "F",
@@ -3149,7 +3149,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 12.45,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 90,
       "side": "F",
@@ -3166,7 +3166,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 22.58,
-        "y": 97.75
+        "y": 105.75
       },
       "rotation": 90,
       "side": "F",
@@ -3183,7 +3183,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 27.2,
-        "y": 52.23
+        "y": 60.23
       },
       "rotation": 90,
       "side": "F",
@@ -3200,7 +3200,7 @@
       "libId": "Package_TO_SOT_SMD:SOT-23",
       "at": {
         "x": 33.33,
-        "y": 45
+        "y": 53
       },
       "rotation": 0,
       "side": "F",
@@ -3218,7 +3218,7 @@
       "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
       "at": {
         "x": 21.4,
-        "y": 45
+        "y": 53
       },
       "rotation": 0,
       "side": "F",
@@ -3236,7 +3236,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 30.2,
-        "y": 52.23
+        "y": 60.23
       },
       "rotation": 90,
       "side": "F",
@@ -3253,7 +3253,7 @@
       "libId": "Package_TO_SOT_SMD:SOT-23",
       "at": {
         "x": 38.29,
-        "y": 45
+        "y": 53
       },
       "rotation": 0,
       "side": "F",
@@ -3271,7 +3271,7 @@
       "libId": "Resistor_SMD:R_0805_2012Metric",
       "at": {
         "x": 15.45,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 90,
       "side": "F",
@@ -3476,7 +3476,7 @@
       "libId": "MountingHole:MountingHole_3.2mm_M3",
       "at": {
         "x": 4,
-        "y": 129
+        "y": 137
       },
       "rotation": 0,
       "side": "F",
@@ -3489,7 +3489,7 @@
       "libId": "MountingHole:MountingHole_3.2mm_M3",
       "at": {
         "x": 80,
-        "y": 129
+        "y": 137
       },
       "rotation": 0,
       "side": "F",
@@ -3501,8 +3501,8 @@
       "value": "1u/50V",
       "libId": "C_1206_3216Metric",
       "at": {
-        "x": 18.4,
-        "y": 40
+        "x": 38.2,
+        "y": 49.7
       },
       "rotation": 0,
       "side": "F",
@@ -3517,8 +3517,8 @@
       "value": "100n/50V",
       "libId": "C_0805_2012Metric",
       "at": {
-        "x": 9.6,
-        "y": 40
+        "x": 44.4,
+        "y": 33.5
       },
       "rotation": 0,
       "side": "F",
@@ -3534,7 +3534,7 @@
       "libId": "SOT-23",
       "at": {
         "x": 55,
-        "y": 85.6
+        "y": 93.6
       },
       "rotation": 0,
       "side": "F",
@@ -3551,7 +3551,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 48.6,
-        "y": 39.4
+        "y": 47.4
       },
       "rotation": 90,
       "side": "F",
@@ -3566,10 +3566,10 @@
       "value": "820k",
       "libId": "R_0805_2012Metric",
       "at": {
-        "x": 44.07,
-        "y": 20.9
+        "x": 6.8,
+        "y": 27.6
       },
-      "rotation": 90,
+      "rotation": 0,
       "side": "F",
       "padNets": {
         "1": "VIN",
@@ -3583,7 +3583,7 @@
       "libId": "SOT-23-5",
       "at": {
         "x": 57.3,
-        "y": 38.3
+        "y": 46.3
       },
       "rotation": 0,
       "side": "F",
@@ -3602,7 +3602,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 68.1,
-        "y": 78
+        "y": 86
       },
       "rotation": 0,
       "side": "F",
@@ -3617,10 +3617,10 @@
       "value": "100n",
       "libId": "C_0805_2012Metric",
       "at": {
-        "x": 37.7,
-        "y": 33.6
+        "x": 11.8,
+        "y": 40.5
       },
-      "rotation": 90,
+      "rotation": 0,
       "side": "F",
       "padNets": {
         "1": "+3V3",
@@ -3634,7 +3634,7 @@
       "libId": "C_0805_2012Metric",
       "at": {
         "x": 32.7,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 90,
       "side": "F",
@@ -3650,7 +3650,7 @@
       "libId": "D_SOD-123",
       "at": {
         "x": 57,
-        "y": 70.5
+        "y": 78.5
       },
       "rotation": 90,
       "side": "F",
@@ -3666,7 +3666,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 51.4,
-        "y": 39.4
+        "y": 47.4
       },
       "rotation": 90,
       "side": "F",
@@ -3681,8 +3681,8 @@
       "value": "10k",
       "libId": "R_0805_2012Metric",
       "at": {
-        "x": 19.6,
-        "y": 75.2
+        "x": 11.8,
+        "y": 31
       },
       "rotation": 0,
       "side": "F",
@@ -3698,7 +3698,7 @@
       "libId": "C_0805_2012Metric",
       "at": {
         "x": 60.5,
-        "y": 38.3
+        "y": 46.3
       },
       "rotation": 90,
       "side": "F",
@@ -3713,8 +3713,8 @@
       "value": "100n",
       "libId": "C_0805_2012Metric",
       "at": {
-        "x": 3,
-        "y": 47
+        "x": 46.5,
+        "y": 22.6
       },
       "rotation": 0,
       "side": "F",
@@ -3730,7 +3730,7 @@
       "libId": "C_1210_3225Metric",
       "at": {
         "x": 75.7,
-        "y": 88.03
+        "y": 96.03
       },
       "rotation": 90,
       "side": "F",
@@ -3745,8 +3745,8 @@
       "value": "TLV7011",
       "libId": "Package_TO_SOT_SMD:SOT-23-5",
       "at": {
-        "x": 3.5,
-        "y": 51
+        "x": 46.3,
+        "y": 19
       },
       "rotation": 0,
       "side": "F",
@@ -3764,10 +3764,10 @@
       "value": "SI4401DDY",
       "libId": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
       "at": {
-        "x": 5,
-        "y": 14
+        "x": 52.6,
+        "y": 40
       },
-      "rotation": 90,
+      "rotation": 180,
       "side": "F",
       "padNets": {
         "1": "VIN",
@@ -3787,7 +3787,7 @@
       "libId": "SOT-23",
       "at": {
         "x": 50.7,
-        "y": 85.6
+        "y": 93.6
       },
       "rotation": 0,
       "side": "F",
@@ -3803,8 +3803,8 @@
       "value": "10k",
       "libId": "R_0805_2012Metric",
       "at": {
-        "x": 7,
-        "y": 75.2
+        "x": 3.1,
+        "y": 20.4
       },
       "rotation": 0,
       "side": "F",
@@ -3820,7 +3820,7 @@
       "libId": "C_0805_2012Metric",
       "at": {
         "x": 76.2,
-        "y": 50.76
+        "y": 58.76
       },
       "rotation": 90,
       "side": "F",
@@ -3835,8 +3835,8 @@
       "value": "AOD4184A",
       "libId": "TO-252-2",
       "at": {
-        "x": 24.06,
-        "y": 20.9
+        "x": 26,
+        "y": 20.2
       },
       "rotation": 0,
       "side": "F",
@@ -3853,7 +3853,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 45,
-        "y": 88.5
+        "y": 96.5
       },
       "rotation": 0,
       "side": "F",
@@ -3868,8 +3868,8 @@
       "value": "47n",
       "libId": "C_0805_2012Metric",
       "at": {
-        "x": 26.5,
-        "y": 75.2
+        "x": 16.1,
+        "y": 31
       },
       "rotation": 0,
       "side": "F",
@@ -3885,7 +3885,7 @@
       "libId": "C_0805_2012Metric",
       "at": {
         "x": 21.5,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 90,
       "side": "F",
@@ -3901,7 +3901,7 @@
       "libId": "SOT-23-6",
       "at": {
         "x": 28.6,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 0,
       "side": "F",
@@ -3921,7 +3921,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 81,
-        "y": 93.5
+        "y": 101.5
       },
       "rotation": 90,
       "side": "F",
@@ -3937,7 +3937,7 @@
       "libId": "CP_Elec_8x10.5",
       "at": {
         "x": 40,
-        "y": 71.8
+        "y": 79.8
       },
       "rotation": 0,
       "side": "F",
@@ -3953,7 +3953,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 48.2,
-        "y": 75.4
+        "y": 83.4
       },
       "rotation": 0,
       "side": "F",
@@ -3968,8 +3968,8 @@
       "value": "2N7002",
       "libId": "Package_TO_SOT_SMD:SOT-23",
       "at": {
-        "x": 3,
-        "y": 30
+        "x": 58.6,
+        "y": 41.6
       },
       "rotation": 0,
       "side": "F",
@@ -3986,7 +3986,7 @@
       "libId": "SOIC-8_3.9x4.9mm_P1.27mm",
       "at": {
         "x": 38,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 0,
       "side": "F",
@@ -4007,8 +4007,8 @@
       "value": "2.2n",
       "libId": "C_0805_2012Metric",
       "at": {
-        "x": 31.4,
-        "y": 40
+        "x": 3.1,
+        "y": 25.2
       },
       "rotation": 0,
       "side": "F",
@@ -4023,8 +4023,8 @@
       "value": "100n",
       "libId": "C_0805_2012Metric",
       "at": {
-        "x": 55,
-        "y": 88.8
+        "x": 6.8,
+        "y": 25.2
       },
       "rotation": 0,
       "side": "F",
@@ -4040,7 +4040,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 52,
-        "y": 75.4
+        "y": 83.4
       },
       "rotation": 0,
       "side": "F",
@@ -4055,8 +4055,8 @@
       "value": "20k",
       "libId": "R_0805_2012Metric",
       "at": {
-        "x": 3,
-        "y": 57
+        "x": 41.4,
+        "y": 20
       },
       "rotation": 0,
       "side": "F",
@@ -4071,8 +4071,8 @@
       "value": "10k",
       "libId": "R_0805_2012Metric",
       "at": {
-        "x": 3.5,
-        "y": 54.5
+        "x": 41.4,
+        "y": 17.6
       },
       "rotation": 0,
       "side": "F",
@@ -4087,8 +4087,8 @@
       "value": "47k",
       "libId": "R_0805_2012Metric",
       "at": {
-        "x": 3,
-        "y": 20
+        "x": 67,
+        "y": 38.4
       },
       "rotation": 0,
       "side": "F",
@@ -4103,8 +4103,8 @@
       "value": "10k",
       "libId": "R_0805_2012Metric",
       "at": {
-        "x": 3,
-        "y": 26
+        "x": 58.6,
+        "y": 38.4
       },
       "rotation": 0,
       "side": "F",
@@ -4120,7 +4120,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 59.8,
-        "y": 70.5
+        "y": 78.5
       },
       "rotation": 90,
       "side": "F",
@@ -4136,7 +4136,7 @@
       "libId": "SOT-223_L6.5-W3.5-P2.30-LS7.0-BR",
       "at": {
         "x": 50.6,
-        "y": 70.3
+        "y": 78.3
       },
       "rotation": 0,
       "side": "F",
@@ -4153,8 +4153,8 @@
       "value": "AOD4184A",
       "libId": "TO-252-2",
       "at": {
-        "x": 36.35,
-        "y": 20.9
+        "x": 26,
+        "y": 27.7
       },
       "rotation": 0,
       "side": "F",
@@ -4171,7 +4171,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 17.4,
-        "y": 108.25
+        "y": 116.25
       },
       "rotation": 90,
       "side": "F",
@@ -4186,8 +4186,8 @@
       "value": "750R",
       "libId": "R_0805_2012Metric",
       "at": {
-        "x": 47.22,
-        "y": 20.9
+        "x": 17.3,
+        "y": 26.9
       },
       "rotation": 90,
       "side": "F",
@@ -4203,7 +4203,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 31,
-        "y": 88.2
+        "y": 96.2
       },
       "rotation": 0,
       "side": "F",
@@ -4219,7 +4219,7 @@
       "libId": "C_0805_2012Metric",
       "at": {
         "x": 24.5,
-        "y": 57.66
+        "y": 65.66
       },
       "rotation": 90,
       "side": "F",
@@ -4235,7 +4235,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 20,
-        "y": 108.25
+        "y": 116.25
       },
       "rotation": 90,
       "side": "F",
@@ -4250,10 +4250,10 @@
       "value": "BZT52C12 zener",
       "libId": "Diode_SMD:D_SOD-123",
       "at": {
-        "x": 2.5,
-        "y": 35
+        "x": 62.7,
+        "y": 38.4
       },
-      "rotation": 90,
+      "rotation": 0,
       "side": "F",
       "padNets": {
         "1": "VIN",
@@ -4267,7 +4267,7 @@
       "libId": "R_0805_2012Metric",
       "at": {
         "x": 63.9,
-        "y": 78
+        "y": 86
       },
       "rotation": 0,
       "side": "F",
@@ -4283,7 +4283,7 @@
       "libId": "C_0805_2012Metric",
       "at": {
         "x": 22.6,
-        "y": 108.25
+        "y": 116.25
       },
       "rotation": 90,
       "side": "F",
@@ -4299,7 +4299,7 @@
       "text": "filipkin.com",
       "at": {
         "x": 3,
-        "y": 113
+        "y": 121
       },
       "rotation": 270,
       "layer": "F.SilkS",
@@ -4312,7 +4312,7 @@
       "text": "Made By Filip Kin <3",
       "at": {
         "x": 4.5,
-        "y": 109.5
+        "y": 117.5
       },
       "rotation": 270,
       "layer": "F.SilkS",
@@ -4325,7 +4325,7 @@
       "text": "FRC Radio Kiosk Thinggy v2",
       "at": {
         "x": 3.5,
-        "y": 76.5
+        "y": 84.5
       },
       "rotation": 270,
       "layer": "F.SilkS",
@@ -4338,7 +4338,7 @@
       "text": "FRC RADIO KIOSK V2",
       "at": {
         "x": 8,
-        "y": 346.5
+        "y": 354.5
       },
       "rotation": 0,
       "layer": "F.SilkS",
@@ -4351,7 +4351,7 @@
       "text": "REV A   2026-09",
       "at": {
         "x": 8,
-        "y": 349.5
+        "y": 357.5
       },
       "rotation": 0,
       "layer": "F.SilkS",
@@ -4364,7 +4364,7 @@
       "text": "FILIP KIN",
       "at": {
         "x": 8,
-        "y": 343.5
+        "y": 351.5
       },
       "rotation": 0,
       "layer": "F.SilkS",
@@ -4375,49 +4375,35 @@
   ],
   "tracks": [
     {
-      "uuid": "a801fdc5-7991-4d32-8fd5-9ec22e592e71",
+      "uuid": "2c756471-396a-480c-8268-40d30c19741c",
       "layer": "B.Cu",
       "width": 2,
       "start": {
         "x": 37,
-        "y": 37
+        "y": 45
       },
       "end": {
         "x": 37,
-        "y": 61.7
+        "y": 69.7
       },
       "net": ""
     },
     {
-      "uuid": "59d7ee13-20e4-49b8-b53c-c36feef7c2c5",
-      "layer": "F.Cu",
-      "width": 0.4,
-      "start": {
-        "x": 37.2,
-        "y": 20
-      },
-      "end": {
-        "x": 39.3,
-        "y": 20
-      },
-      "net": "U4_SW"
-    },
-    {
-      "uuid": "2554a827-ec48-4e75-8553-3fd2f21bdc8d",
+      "uuid": "dce8a1f0-c1b6-4851-817f-a5b1696b8546",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 17.6,
-        "y": 90.555
+        "y": 98.555
       },
       "end": {
         "x": 19.7,
-        "y": 90.555
+        "y": 98.555
       },
       "net": "GND"
     },
     {
-      "uuid": "01e1427b-4595-4851-8112-a964b986ca9e",
+      "uuid": "b8dc35f8-4dcc-445f-8e7f-980c8c7bc53d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4431,49 +4417,49 @@
       "net": "GND"
     },
     {
-      "uuid": "21163342-0d66-42ac-9ec7-75f289ce649d",
+      "uuid": "29e2f5a1-0884-42fb-b154-198a433150f9",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 37.04,
-        "y": 113.71
+        "y": 121.71
       },
       "end": {
         "x": 38.515,
-        "y": 113.71
+        "y": 121.71
       },
       "net": "GND"
     },
     {
-      "uuid": "617fe509-b157-447e-a0e5-4fdb2a7e8afb",
+      "uuid": "375b5017-5dc6-45a3-b00c-1ca827ffc415",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 63.6,
-        "y": 86.555
+        "y": 94.555
       },
       "end": {
         "x": 65.7,
-        "y": 86.555
+        "y": 94.555
       },
       "net": "GND"
     },
     {
-      "uuid": "3e6dea82-a2c3-43a6-a0d0-c456e0840cc5",
+      "uuid": "99939102-6083-46b6-ad6c-397292ff4640",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 52.68,
-        "y": 51.44
+        "y": 59.44
       },
       "end": {
         "x": 54.155,
-        "y": 51.44
+        "y": 59.44
       },
       "net": "GND"
     },
     {
-      "uuid": "d4f38827-40bf-4ba2-9142-ddb33b3c262d",
+      "uuid": "741be367-5693-4bc3-91aa-5bb8f3b9d40d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4487,35 +4473,35 @@
       "net": "GND"
     },
     {
-      "uuid": "2b4c85e3-669b-41bd-83e9-0d2a0ba0a1be",
+      "uuid": "f6b7980f-8252-4eaf-83c0-aff0afa59090",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 41.93,
-        "y": 91.118
+        "y": 99.118
       },
       "end": {
         "x": 43.38,
-        "y": 91.118
+        "y": 99.118
       },
       "net": "GND"
     },
     {
-      "uuid": "6219457c-f21f-4694-9a34-ac3c9865af98",
+      "uuid": "984a7d68-ac39-42a4-a0c4-8ee5568fc92d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 63.75,
-        "y": 71.38
+        "y": 79.38
       },
       "end": {
         "x": 66.15,
-        "y": 71.38
+        "y": 79.38
       },
       "net": "GND"
     },
     {
-      "uuid": "794cb6ce-a7d6-488b-9dbb-bce526fd4c47",
+      "uuid": "d69e65f7-d151-4bbd-bc6b-1f9f4564b90a",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4529,7 +4515,7 @@
       "net": "GND"
     },
     {
-      "uuid": "ef6b2b5c-5ca2-4864-b3cb-6a1a46050b7b",
+      "uuid": "17739cf3-d960-4107-895c-28cf892a355d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4543,63 +4529,63 @@
       "net": "GND"
     },
     {
-      "uuid": "7af9139e-f150-48ad-b333-f62a08d4cc70",
+      "uuid": "2637e07c-a910-40d4-afce-25fada68e2cb",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 6.45,
-        "y": 102.068
+        "y": 110.068
       },
       "end": {
         "x": 7.9,
-        "y": 102.068
+        "y": 110.068
       },
       "net": "GND"
     },
     {
-      "uuid": "9923bdfc-3921-481d-929e-16b7303b48bf",
+      "uuid": "c543cded-7a53-4b83-9633-637dd4268806",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 75.07,
-        "y": 80.788
+        "y": 88.788
       },
       "end": {
         "x": 76.52,
-        "y": 80.788
+        "y": 88.788
       },
       "net": "GND"
     },
     {
-      "uuid": "54be20e0-751f-46a0-b1ce-101e113da9fa",
+      "uuid": "453c508b-157c-4ee3-a493-92edf32be462",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 45.6,
-        "y": 50.915
+        "y": 58.915
       },
       "end": {
         "x": 47.7,
-        "y": 50.915
+        "y": 58.915
       },
       "net": "GND"
     },
     {
-      "uuid": "53c3b7b4-95d2-44d1-bfe6-8fafe5bb1bed",
+      "uuid": "16c2f641-47ad-474c-8338-a7d805ee581e",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 38.9,
-        "y": 106.805
+        "y": 114.805
       },
       "end": {
         "x": 41,
-        "y": 106.805
+        "y": 114.805
       },
       "net": "GND"
     },
     {
-      "uuid": "4feb043a-3fca-4367-8933-170f775ac5d6",
+      "uuid": "572f2d68-1849-4627-83fa-9f287dad1302",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4613,91 +4599,91 @@
       "net": "GND"
     },
     {
-      "uuid": "11d2110f-1b94-484d-9cee-f9eaf1db1eff",
+      "uuid": "d26e6342-0ddd-41ba-b82d-2360b794347d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 22.58,
-        "y": 96.838
+        "y": 104.838
       },
       "end": {
         "x": 24.03,
-        "y": 96.838
+        "y": 104.838
       },
       "net": "GND"
     },
     {
-      "uuid": "521fefc4-e593-42c1-8df3-da40aa3051ca",
+      "uuid": "6e395176-00d3-47db-bbc3-b1ebaf30155f",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 54.15,
-        "y": 119.075
+        "y": 127.075
       },
       "end": {
         "x": 55.635,
-        "y": 120.56
+        "y": 128.56
       },
       "net": "GND"
     },
     {
-      "uuid": "7d9feac5-7a58-4469-b29e-d7fff550370a",
+      "uuid": "8ed474bc-e696-4835-9fce-fdcd5090d880",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 44.2,
-        "y": 127.245
+        "y": 135.245
       },
       "end": {
         "x": 46.3,
-        "y": 127.245
+        "y": 135.245
       },
       "net": "GND"
     },
     {
-      "uuid": "120a9520-068e-4ea4-8319-c4a7b4c6c9b5",
+      "uuid": "7ad6abd9-974e-41b9-9c2a-4ea7110b86a9",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 56.93,
-        "y": 91.118
+        "y": 99.118
       },
       "end": {
         "x": 55.48,
-        "y": 91.118
+        "y": 99.118
       },
       "net": "GND"
     },
     {
-      "uuid": "04453a08-725e-454d-905e-3f40a69fbae4",
+      "uuid": "9bf6f46d-3ffa-41f1-b4f6-574b1652b9c8",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 77.33,
-        "y": 107.812
+        "y": 115.812
       },
       "end": {
         "x": 79.755,
-        "y": 107.812
+        "y": 115.812
       },
       "net": "GND"
     },
     {
-      "uuid": "ddde554b-b750-486f-8444-fb111b27c0e9",
+      "uuid": "84924f83-b1a7-4493-8985-d419a284f6e7",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 60.03,
-        "y": 127.808
+        "y": 135.808
       },
       "end": {
         "x": 61.48,
-        "y": 127.808
+        "y": 135.808
       },
       "net": "GND"
     },
     {
-      "uuid": "98c5de4b-9947-424b-90b8-336266118563",
+      "uuid": "27e2ade4-5600-4837-baa5-e1bb1aa2791e",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4711,49 +4697,49 @@
       "net": "GND"
     },
     {
-      "uuid": "90e80135-bb90-4c8e-af9e-e14325f86133",
+      "uuid": "d8144b42-6b39-455e-a220-be228689d9d3",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 73.21,
-        "y": 49.847
+        "y": 57.847
       },
       "end": {
         "x": 74.66,
-        "y": 49.847
+        "y": 57.847
       },
       "net": "GND"
     },
     {
-      "uuid": "7efa75b0-9e70-4b5d-bb9a-1a9ff6bf3b17",
+      "uuid": "0cf19ad1-eeb3-4fcf-ad26-42be1d6579c2",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 57.45,
-        "y": 98.575
+        "y": 106.575
       },
       "end": {
         "x": 55.35,
-        "y": 98.575
+        "y": 106.575
       },
       "net": "GND"
     },
     {
-      "uuid": "44b6e576-27bf-479d-9059-c5196ef0a82c",
+      "uuid": "b6c9707c-4759-4ab0-b2c2-7f98ec52312b",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 62.98,
-        "y": 80.75
+        "y": 88.75
       },
       "end": {
         "x": 64.455,
-        "y": 80.75
+        "y": 88.75
       },
       "net": "GND"
     },
     {
-      "uuid": "a1a3957b-9d0b-4ad1-949b-0bb500e457c0",
+      "uuid": "a91aec88-1e5c-4147-841e-9cf44cf5a8e6",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4767,63 +4753,63 @@
       "net": "GND"
     },
     {
-      "uuid": "8225113f-4c62-4c9d-9210-2ef8e74cad27",
+      "uuid": "f558e531-1ecf-4889-bfeb-eb3213b4f4be",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 16.45,
-        "y": 67.5
+        "y": 75.5
       },
       "end": {
         "x": 19.4,
-        "y": 67.5
+        "y": 75.5
       },
       "net": "GND"
     },
     {
-      "uuid": "9295e67c-fd59-415d-b9b4-1f55da02dc73",
+      "uuid": "f02497e2-7ef9-46a6-ba3c-f1e279858eb0",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 14.59,
-        "y": 107.3
+        "y": 115.3
       },
       "end": {
         "x": 16.065,
-        "y": 107.3
+        "y": 115.3
       },
       "net": "GND"
     },
     {
-      "uuid": "a1518243-1c61-4e42-9565-e6fbfd92678c",
+      "uuid": "ea44a254-54c8-41a3-bf10-06f9d05a7dff",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 18.48,
-        "y": 56.71
+        "y": 64.71
       },
       "end": {
         "x": 19.955,
-        "y": 56.71
+        "y": 64.71
       },
       "net": "GND"
     },
     {
-      "uuid": "d75fac8f-1525-4a1f-970f-46a1529a6a2e",
+      "uuid": "dd20504d-0866-41f9-9c02-780a64614f54",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 49.45,
-        "y": 50.915
+        "y": 58.915
       },
       "end": {
         "x": 51.1,
-        "y": 50.915
+        "y": 58.915
       },
       "net": "GND"
     },
     {
-      "uuid": "f4d7a889-c26c-4dc7-b6c5-dc7dfb6a1383",
+      "uuid": "e194644c-6e90-49a8-a55b-0f4f54beda21",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4837,49 +4823,49 @@
       "net": "GND"
     },
     {
-      "uuid": "247d084a-c541-47ad-825e-a09e342bdb5e",
+      "uuid": "83689edf-b3b8-47a5-a7f7-3b533c18f63f",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 35.6,
-        "y": 127.245
+        "y": 135.245
       },
       "end": {
         "x": 37.7,
-        "y": 127.245
+        "y": 135.245
       },
       "net": "GND"
     },
     {
-      "uuid": "d6603130-8771-4047-b101-ba1215a57ead",
+      "uuid": "1e2097d0-cc9f-4698-8784-638a0309deb8",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 46.13,
-        "y": 113.748
+        "y": 121.748
       },
       "end": {
         "x": 47.58,
-        "y": 113.748
+        "y": 121.748
       },
       "net": "GND"
     },
     {
-      "uuid": "3b48b7ea-6030-4b14-adf9-ca1cd36bc5a2",
+      "uuid": "7f466af4-25d9-4559-9e52-bfe26ad9d0a0",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 33.98,
-        "y": 113.71
+        "y": 121.71
       },
       "end": {
         "x": 35.455,
-        "y": 113.71
+        "y": 121.71
       },
       "net": "GND"
     },
     {
-      "uuid": "55f0a45a-d947-4d70-8ba3-e5d076fa51c9",
+      "uuid": "6cfa19d2-eed9-495b-964e-0eeedff9f809",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4893,77 +4879,77 @@
       "net": "GND"
     },
     {
-      "uuid": "da734ff7-911f-4dc5-a372-e9a82dd71efe",
+      "uuid": "3bc5bc71-278d-4325-86f5-5ad7c7d45862",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 77.98,
-        "y": 70.43
+        "y": 78.43
       },
       "end": {
         "x": 79.455,
-        "y": 70.43
+        "y": 78.43
       },
       "net": "GND"
     },
     {
-      "uuid": "5751c15b-b7d5-417c-ac37-e4ffc6e46a09",
+      "uuid": "ea698fa6-bbb2-453b-9c41-f862913f016d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 52.45,
-        "y": 63.768
+        "y": 71.768
       },
       "end": {
         "x": 53.9,
-        "y": 63.768
+        "y": 71.768
       },
       "net": "GND"
     },
     {
-      "uuid": "20297361-8926-4ba5-af00-9e0953849a90",
+      "uuid": "11a58967-861b-44cc-806e-543608d9c7ac",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 39.9,
-        "y": 127.245
+        "y": 135.245
       },
       "end": {
         "x": 42,
-        "y": 127.245
+        "y": 135.245
       },
       "net": "GND"
     },
     {
-      "uuid": "868fb466-5831-4b25-a15c-e475a654a4eb",
+      "uuid": "b06af2b5-eaf1-4056-9db1-dc02e44cdd2d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 50.93,
-        "y": 91.118
+        "y": 99.118
       },
       "end": {
         "x": 52.38,
-        "y": 91.118
+        "y": 99.118
       },
       "net": "GND"
     },
     {
-      "uuid": "e896530a-6051-4c8b-b594-180b36bb8ae7",
+      "uuid": "43d1eaa2-528c-4c40-89e0-9bae32da1b71",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 25,
-        "y": 107.375
+        "y": 115.375
       },
       "end": {
         "x": 26.225,
-        "y": 107.375
+        "y": 115.375
       },
       "net": "GND"
     },
     {
-      "uuid": "f133ba5b-3ca3-490a-87b9-e7aa22277bbc",
+      "uuid": "ba014112-4f2f-4b52-b62d-a460a6f7abee",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -4977,35 +4963,21 @@
       "net": "GND"
     },
     {
-      "uuid": "51529623-06c6-450e-9f49-1d740c48aca0",
+      "uuid": "31fad1a0-79ae-4eb0-a4e4-dfadad1382c9",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 71.95,
-        "y": 70.468
+        "y": 78.468
       },
       "end": {
         "x": 73.4,
-        "y": 70.468
+        "y": 78.468
       },
       "net": "GND"
     },
     {
-      "uuid": "0ba29e87-1d67-434d-961e-022f3cce2c5f",
-      "layer": "F.Cu",
-      "width": 0.4,
-      "start": {
-        "x": 66.5,
-        "y": 44.38
-      },
-      "end": {
-        "x": 68.5,
-        "y": 44.38
-      },
-      "net": "GND"
-    },
-    {
-      "uuid": "dff9737c-48ad-4ad1-9db3-decfa8ce279a",
+      "uuid": "44563b7c-77ce-43b6-95a5-fa449190387d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -5019,105 +4991,105 @@
       "net": "GND"
     },
     {
-      "uuid": "f80c2f5e-e004-4fc2-b47e-a969876efb7e",
+      "uuid": "c73875e5-a8ee-436d-9579-ea2f2139b360",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 39.305,
-        "y": 64.68
+        "y": 72.68
       },
       "end": {
         "x": 40.79,
-        "y": 66.165
+        "y": 74.165
       },
       "net": "GND"
     },
     {
-      "uuid": "a17e0ac6-1806-4b40-b5d6-03a607eae239",
+      "uuid": "61242195-053f-4cfa-96cf-35d92b28f7df",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 71.85,
-        "y": 104.85
+        "y": 112.85
       },
       "end": {
         "x": 74.8,
-        "y": 104.85
+        "y": 112.85
       },
       "net": "GND"
     },
     {
-      "uuid": "e7445fff-a058-4fbd-8af0-1634d25cf5e0",
+      "uuid": "7db50b3d-c3da-4e3b-a878-c4f8ad9843c4",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 34.6,
-        "y": 106.805
+        "y": 114.805
       },
       "end": {
         "x": 36.7,
-        "y": 106.805
+        "y": 114.805
       },
       "net": "GND"
     },
     {
-      "uuid": "ba7002d2-8db2-451f-8312-10d93ffe89ce",
+      "uuid": "197177b3-9165-4a94-94e1-f0e0d90a461c",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 69.07,
-        "y": 80.788
+        "y": 88.788
       },
       "end": {
         "x": 70.52,
-        "y": 80.788
+        "y": 88.788
       },
       "net": "GND"
     },
     {
-      "uuid": "02442e1d-e10d-4350-a88b-92bfad5883af",
+      "uuid": "e5871742-e7af-49a6-9884-18d162cdca6b",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 53.95,
-        "y": 57.777
+        "y": 65.777
       },
       "end": {
         "x": 55.4,
-        "y": 57.777
+        "y": 65.777
       },
       "net": "GND"
     },
     {
-      "uuid": "1ae981a8-3513-4da5-923b-1c4fa2dd7d85",
+      "uuid": "4ddb5ac2-a0ab-415f-b926-055a16330068",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 31.54,
-        "y": 107.25
+        "y": 115.25
       },
       "end": {
         "x": 32.583,
-        "y": 108.293
+        "y": 116.293
       },
       "net": "GND"
     },
     {
-      "uuid": "0e52ddbd-d272-4f3b-bfb9-4c24d4572f55",
+      "uuid": "b794eda1-cd73-4d81-a3ae-2560b49a7616",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 47.88,
-        "y": 127.77
+        "y": 135.77
       },
       "end": {
         "x": 49.355,
-        "y": 127.77
+        "y": 135.77
       },
       "net": "GND"
     },
     {
-      "uuid": "9694add4-1fa2-457b-a96f-84a759e2d3a2",
+      "uuid": "63b53e23-2ef3-40ce-9180-b6377dded4c6",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -5131,7 +5103,7 @@
       "net": "GND"
     },
     {
-      "uuid": "335ea4f6-9e40-4239-9790-a0c0c62b76f8",
+      "uuid": "363d4df8-b1cb-43bf-b222-aede8cb9b3e9",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -5145,77 +5117,77 @@
       "net": "GND"
     },
     {
-      "uuid": "6ff3cda0-77d4-4141-850e-aecaa0a9224c",
+      "uuid": "f9f2c655-7a7c-4ba2-9300-6fe6b2fa3b58",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 12.45,
-        "y": 56.747
+        "y": 64.747
       },
       "end": {
         "x": 13.9,
-        "y": 56.747
+        "y": 64.747
       },
       "net": "GND"
     },
     {
-      "uuid": "c86c2782-45c5-4156-a987-17fec6e7a67a",
+      "uuid": "d36e0c73-40f9-4337-8831-78709aaf23ab",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 36.2,
-        "y": 51.317
+        "y": 59.317
       },
       "end": {
         "x": 35.175,
-        "y": 52.343
+        "y": 60.343
       },
       "net": "GND"
     },
     {
-      "uuid": "095262fd-33e4-439a-86b6-f92ce38a147f",
+      "uuid": "5fe781ba-9c69-4042-b2e9-6ce82e6a2405",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 72.2,
-        "y": 86.555
+        "y": 94.555
       },
       "end": {
         "x": 74.3,
-        "y": 86.555
+        "y": 94.555
       },
       "net": "GND"
     },
     {
-      "uuid": "bbd7e1ff-9d0d-480c-9a70-2c44864b1c73",
+      "uuid": "7f499788-f26d-48af-925c-82d99336269d",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 32.203,
-        "y": 92.03
+        "y": 100.03
       },
       "end": {
         "x": 34.627,
-        "y": 92.03
+        "y": 100.03
       },
       "net": "GND"
     },
     {
-      "uuid": "78d5d26d-4bfc-49e7-9a7d-5f4129ec28f1",
+      "uuid": "f4c1e156-0006-4468-84f6-d5a16532fa9f",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 38.95,
-        "y": 83.7
+        "y": 91.7
       },
       "end": {
         "x": 40.95,
-        "y": 83.7
+        "y": 91.7
       },
       "net": "GND"
     },
     {
-      "uuid": "02ba6159-4cf7-4d45-8ce9-556811207656",
+      "uuid": "206a4261-8b6a-49f3-b7cb-39d72b078c7a",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -5229,91 +5201,91 @@
       "net": "GND"
     },
     {
-      "uuid": "f4f594ab-cf8d-4e29-ae01-e47224c03a23",
+      "uuid": "f2afd07a-2e7c-4368-8390-e3d4ff38dcba",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 53.15,
-        "y": 98.575
+        "y": 106.575
       },
       "end": {
         "x": 54.635,
-        "y": 100.06
+        "y": 108.06
       },
       "net": "GND"
     },
     {
-      "uuid": "533fea37-438a-497b-9a24-01a675a7549d",
+      "uuid": "37f59818-4bc6-4cef-8767-ff239388ea26",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 67.9,
-        "y": 86.555
+        "y": 94.555
       },
       "end": {
         "x": 70,
-        "y": 86.555
+        "y": 94.555
       },
       "net": "GND"
     },
     {
-      "uuid": "68083805-ccef-4d0b-a544-b87af9651196",
+      "uuid": "05ee6557-1b5d-435c-836d-29beeee4ba87",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 43.2,
-        "y": 106.805
+        "y": 114.805
       },
       "end": {
         "x": 45.3,
-        "y": 106.805
+        "y": 114.805
       },
       "net": "GND"
     },
     {
-      "uuid": "6b7a55ba-4dad-4794-9816-48473a902551",
+      "uuid": "195f16a5-7a09-411f-90a5-ccf565a1026f",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 47.93,
-        "y": 91.118
+        "y": 99.118
       },
       "end": {
         "x": 49.38,
-        "y": 91.118
+        "y": 99.118
       },
       "net": "GND"
     },
     {
-      "uuid": "48ab180d-06e7-4574-ab50-c7234b233167",
+      "uuid": "258515bc-e1ed-45e0-93e5-a8d4f0f0630b",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 19.55,
-        "y": 96.8
+        "y": 104.8
       },
       "end": {
         "x": 21.025,
-        "y": 96.8
+        "y": 104.8
       },
       "net": "GND"
     },
     {
-      "uuid": "a9d0cca0-872f-4226-932c-029ca555956a",
+      "uuid": "f7db4ae9-66c8-46ed-a8b0-a999417c77a3",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 44.95,
-        "y": 57.777
+        "y": 65.777
       },
       "end": {
         "x": 46.4,
-        "y": 57.777
+        "y": 65.777
       },
       "net": "GND"
     },
     {
-      "uuid": "d65bee5f-a9c0-4c13-8349-d5e5cdf9a6b6",
+      "uuid": "b2565e85-79ca-460f-9a2c-76736445ea81",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
@@ -5327,77 +5299,63 @@
       "net": "GND"
     },
     {
-      "uuid": "a35abce6-f545-4df1-ac6f-1c37098cb3d8",
+      "uuid": "ab2bcd13-ba32-4eb2-8dfa-94dd88e0dca5",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 15.45,
-        "y": 56.747
+        "y": 64.747
       },
       "end": {
         "x": 16.9,
-        "y": 56.747
+        "y": 64.747
       },
       "net": "GND"
     },
     {
-      "uuid": "319b557a-d4ae-431c-b897-40969c32f5ef",
+      "uuid": "f925ca98-30e4-4d70-a2c4-c9407701d374",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 82.76,
-        "y": 63.14
+        "y": 71.14
       },
       "end": {
         "x": 81.717,
-        "y": 64.183
+        "y": 72.183
       },
       "net": "GND"
     },
     {
-      "uuid": "a8bf4583-284d-4cfd-b570-4eb91c4b08ef",
-      "layer": "F.Cu",
-      "width": 0.4,
-      "start": {
-        "x": 69.56,
-        "y": 57.48
-      },
-      "end": {
-        "x": 71.56,
-        "y": 57.48
-      },
-      "net": "GND"
-    },
-    {
-      "uuid": "8e1db6b7-461e-4691-886b-4a5815665284",
+      "uuid": "ded5d18a-a298-4f89-92cc-73054c876ae3",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 68.75,
-        "y": 69.905
+        "y": 77.905
       },
       "end": {
         "x": 70.4,
-        "y": 69.905
+        "y": 77.905
       },
       "net": "GND"
     },
     {
-      "uuid": "c6910f13-b161-41b8-b435-f58097d701ac",
+      "uuid": "025e94de-84bb-44c4-9417-e43ea6d89088",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 46.055,
-        "y": 64.68
+        "y": 72.68
       },
       "end": {
         "x": 48.155,
-        "y": 64.68
+        "y": 72.68
       },
       "net": "GND"
     },
     {
-      "uuid": "4c743f4a-25e5-4fdc-9e25-f3f0d73f5edd",
+      "uuid": "2c784f4d-aa7f-4904-bae9-8f16bd2532af",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5411,7 +5369,7 @@
       "net": "USB_DM_CON"
     },
     {
-      "uuid": "d6fb981e-43a4-4c57-aef8-551781714c1b",
+      "uuid": "38685cc2-6771-4c2b-94ac-24c48a4a5e40",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5425,7 +5383,7 @@
       "net": "USB_DM_CON"
     },
     {
-      "uuid": "74ed421a-eb3b-4f48-a5fb-ef0cb65f8543",
+      "uuid": "01b9d1a9-747b-4e66-a378-bf553fe852d7",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5439,7 +5397,7 @@
       "net": "USB_DP_CON"
     },
     {
-      "uuid": "e1fa8fac-412f-4685-8340-9520008c503e",
+      "uuid": "801a47c0-7929-4f56-8805-f10f7eb86bec",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5453,7 +5411,7 @@
       "net": "USB_DP_CON"
     },
     {
-      "uuid": "ff518e87-fc59-48c4-95e4-a26b6f3455b1",
+      "uuid": "03559fc1-5ed1-4126-981d-bb0d62c38f25",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5467,7 +5425,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "add5b675-d10f-4d26-b460-2795407c8805",
+      "uuid": "52a199b9-ca8b-4ad1-87b1-3c37545edc55",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5481,7 +5439,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "ee8c91f8-11ff-4132-8681-2fe5a9371e43",
+      "uuid": "ed3b2015-8bda-413b-849b-fc24d4052ac0",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5495,7 +5453,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "6738cd03-0ec5-4753-9772-3d6a76e7f7db",
+      "uuid": "5c7302db-f1e8-4edf-a0ac-e4f741016f46",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5509,7 +5467,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "12d379b7-aa2a-4b14-bd89-33ed2e55a50e",
+      "uuid": "f21e1958-e586-474a-a5d7-6bbc41c87d57",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5523,7 +5481,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "8b7214ae-92e6-4a08-9359-5ba8c8cfeb50",
+      "uuid": "87b89414-ca16-4b01-ac29-50f21e999569",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5537,7 +5495,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "9c44ea93-ccee-4f3e-995e-fe455f4b842e",
+      "uuid": "34718434-843b-4c33-929f-fd4f87f2a5ae",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5551,7 +5509,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "83be2b9c-79c2-42c0-836e-4e6962febc1e",
+      "uuid": "27d31467-a792-410a-a9df-4c3f8b18e604",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5565,7 +5523,7 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "e9a3a613-3325-4135-b047-95276b9aaafe",
+      "uuid": "57f061d6-9e6b-487b-98ef-12967a216d02",
       "layer": "F.Cu",
       "width": 0.2,
       "start": {
@@ -5579,315 +5537,315 @@
       "net": "USB_VBUS"
     },
     {
-      "uuid": "bdaad27c-3a74-4c8a-94d2-96593663b35b",
+      "uuid": "e4fa6d25-d1fd-43ce-9332-186f843050e7",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
         "x": 59.9,
-        "y": 89.5
+        "y": 97.5
       },
       "end": {
         "x": 63.595,
-        "y": 89.5
+        "y": 97.5
       },
       "net": "+12V"
     },
     {
-      "uuid": "2824a367-6519-47ee-a28d-5a476e8aabe1",
+      "uuid": "ee03ede5-a00b-427a-85ec-b1313d970825",
       "layer": "F.Cu",
       "width": 2,
       "start": {
         "x": 22.65,
-        "y": 74.45
+        "y": 82.45
       },
       "end": {
         "x": 22.65,
-        "y": 67.5
+        "y": 75.5
       },
       "net": "+12V"
     },
     {
-      "uuid": "abaf40d1-c0bf-478f-a412-7adc3df02a64",
+      "uuid": "b64fbcd6-1adf-4c9b-99e1-24043bc87097",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
         "x": 63.595,
-        "y": 89.5
+        "y": 97.5
       },
       "end": {
         "x": 63.6,
-        "y": 89.505
+        "y": 97.505
       },
       "net": "+12V"
     },
     {
-      "uuid": "12ad50bc-f414-4914-b8fb-baa840096a9b",
+      "uuid": "2a66a5b7-934f-4dde-8f6a-f72512658f4a",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
         "x": 59.9,
-        "y": 112.5
+        "y": 120.5
       },
       "end": {
         "x": 63.5,
-        "y": 116.1
+        "y": 124.1
       },
       "net": "+12V"
     },
     {
-      "uuid": "359a751d-1845-4889-b2fa-ed8cc2be14ef",
+      "uuid": "66fb0045-be39-4325-8949-3011a9d1c051",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
         "x": 59.9,
-        "y": 111.2
+        "y": 119.2
       },
       "end": {
         "x": 59.9,
-        "y": 112.5
+        "y": 120.5
       },
       "net": "+12V"
     },
     {
-      "uuid": "cde101fb-82d1-48e2-ae17-199753525656",
+      "uuid": "a1b7ee56-42a7-4190-8be9-92b2d511855d",
       "layer": "F.Cu",
       "width": 2,
       "start": {
         "x": 8.05,
-        "y": 70.65
+        "y": 78.65
       },
       "end": {
         "x": 8.05,
-        "y": 67.5
+        "y": 75.5
       },
       "net": "+12V"
     },
     {
-      "uuid": "b54d078d-199b-4b36-95ec-cc764c2b5b21",
+      "uuid": "066f6069-48b3-4436-aa65-f1a1a1eb6916",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
         "x": 63.5,
-        "y": 116.1
+        "y": 124.1
       },
       "end": {
         "x": 63.5,
-        "y": 117.89
+        "y": 125.89
       },
       "net": "+12V"
     },
     {
-      "uuid": "8bb5737f-7467-482d-ba19-718240af0a10",
+      "uuid": "6a0b5e4e-a820-4410-bf91-f4a40ca9259f",
       "layer": "F.Cu",
       "width": 2,
       "start": {
         "x": 59.9,
-        "y": 74.6
+        "y": 82.6
       },
       "end": {
         "x": 55,
-        "y": 74.6
+        "y": 82.6
       },
       "net": "+12V"
     },
     {
-      "uuid": "80b592dc-cefe-4a39-918c-b8311728d4f3",
+      "uuid": "df0c91af-955e-477e-aca4-b1eab74a8adc",
       "layer": "F.Cu",
       "width": 2,
       "start": {
         "x": 12,
-        "y": 74.6
+        "y": 82.6
       },
       "end": {
         "x": 8.05,
-        "y": 70.65
+        "y": 78.65
       },
       "net": "+12V"
     },
     {
-      "uuid": "32225ac6-a378-490e-9944-53e449fb9320",
+      "uuid": "00536fda-3aca-40a1-9e38-b70435734929",
       "layer": "F.Cu",
       "width": 1.2,
       "start": {
         "x": 58.45,
-        "y": 123.6
+        "y": 131.6
       },
       "end": {
         "x": 58.45,
-        "y": 122.03
+        "y": 130.03
       },
       "net": "+12V"
     },
     {
-      "uuid": "c419ec5b-4cc9-4453-b87e-c53318080fe1",
+      "uuid": "0c4825a0-4949-49fa-8d2d-23b439cff3e6",
       "layer": "B.Cu",
       "width": 1,
       "start": {
         "x": 9,
-        "y": 74.6
+        "y": 82.6
       },
       "end": {
         "x": 9,
-        "y": 80
+        "y": 88
       },
       "net": "+12V"
     },
     {
-      "uuid": "1bfa1d81-00df-4e85-9680-5535b5241886",
+      "uuid": "3aa1cd1a-105c-4486-ae84-0d81931af1a5",
       "layer": "B.Cu",
       "width": 2,
       "start": {
         "x": 55,
-        "y": 74.6
+        "y": 82.6
       },
       "end": {
         "x": 9,
-        "y": 74.6
+        "y": 82.6
       },
       "net": "+12V"
     },
     {
-      "uuid": "904f53b5-4680-4796-8ea0-3c3cf2ba31ea",
+      "uuid": "35b4db4f-6ce4-46d0-b02c-824337a750d2",
       "layer": "B.Cu",
       "width": 2,
       "start": {
         "x": 59.9,
-        "y": 112.5
+        "y": 120.5
       },
       "end": {
         "x": 59.9,
-        "y": 40.9
+        "y": 48.9
       },
       "net": "+12V"
     },
     {
-      "uuid": "56ea7403-0b21-49f4-bed3-e21bac5c76fd",
+      "uuid": "4088688d-694f-4fdf-a554-53408119f4f7",
       "layer": "B.Cu",
       "width": 1,
       "start": {
         "x": 8.25,
-        "y": 80.75
+        "y": 88.75
       },
       "end": {
         "x": 8.25,
-        "y": 83.5
+        "y": 91.5
       },
       "net": "+12V"
     },
     {
-      "uuid": "2762e7b6-05ad-495e-98f2-e1370d62d4a0",
+      "uuid": "e083ba5d-7591-4a44-8d38-06a84a43646b",
       "layer": "B.Cu",
       "width": 2,
       "start": {
         "x": 12,
-        "y": 74.6
+        "y": 82.6
       },
       "end": {
         "x": 12,
-        "y": 49.4
+        "y": 57.4
       },
       "net": "+12V"
     },
     {
-      "uuid": "06c9cf06-e7ea-42df-8adf-0eb60bb07da6",
+      "uuid": "7ae7cf2a-70f8-412b-9676-13cf278fea8a",
       "layer": "B.Cu",
       "width": 2,
       "start": {
         "x": 59.9,
-        "y": 112.5
+        "y": 120.5
       },
       "end": {
         "x": 59.9,
-        "y": 122.15
+        "y": 130.15
       },
       "net": "+12V"
     },
     {
-      "uuid": "c0729e1b-41a6-48ef-a989-0207985a42d1",
+      "uuid": "e0302372-2165-4465-8a82-9e6193f55653",
       "layer": "B.Cu",
       "width": 2,
       "start": {
         "x": 59.9,
-        "y": 122.15
+        "y": 130.15
       },
       "end": {
         "x": 58.45,
-        "y": 123.6
+        "y": 131.6
       },
       "net": "+12V"
     },
     {
-      "uuid": "899625bb-b4ca-4a85-bd9d-b47f42123240",
+      "uuid": "e36d7feb-b9f5-4314-b18d-812b18152887",
       "layer": "B.Cu",
       "width": 1,
       "start": {
         "x": 9,
-        "y": 80
+        "y": 88
       },
       "end": {
         "x": 8.25,
-        "y": 80.75
+        "y": 88.75
       },
       "net": "+12V"
     },
     {
-      "uuid": "6ca4b450-a254-49e4-87fa-21d7ed1efb10",
+      "uuid": "9e3b3da6-2234-4dbc-b500-17afe66cc03c",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
         "x": 70.2,
-        "y": 38.9
+        "y": 46.9
       },
       "end": {
         "x": 69.4,
-        "y": 39.7
+        "y": 47.7
       },
       "net": "VIN_DC"
     },
     {
-      "uuid": "41c8fc20-169e-4ed6-ae89-811002cb8415",
+      "uuid": "f7f5cd1f-ead9-4a09-b5a6-380533b16dc6",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
         "x": 63.3,
-        "y": 39.7
+        "y": 47.7
       },
       "end": {
         "x": 62.5,
-        "y": 40.5
+        "y": 48.5
       },
       "net": "VIN_DC"
     },
     {
-      "uuid": "fdf731ad-b0a7-4ccf-bf40-c36d6fa647e0",
+      "uuid": "99269796-128e-4f2e-9448-fc71d37551d5",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
         "x": 69.4,
-        "y": 39.7
+        "y": 47.7
       },
       "end": {
         "x": 63.3,
-        "y": 39.7
+        "y": 47.7
       },
       "net": "VIN_DC"
     },
     {
-      "uuid": "4e8b5ad1-bcea-42f0-bf91-3be97b202447",
+      "uuid": "b1d2cf20-a769-422b-a6f7-9951347cb374",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
         "x": 62.5,
-        "y": 40.5
+        "y": 48.5
       },
       "end": {
         "x": 62.5,
-        "y": 44.38
+        "y": 52.38
       },
       "net": "VIN_DC"
     },
     {
-      "uuid": "ca13b4ca-766f-4d47-9cc1-b15c012b99da",
+      "uuid": "5acf5342-e514-4e6b-b560-970c03835a41",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
@@ -5896,418 +5854,264 @@
       },
       "end": {
         "x": 70.2,
-        "y": 38.9
+        "y": 46.9
       },
       "net": "VIN_DC"
     },
     {
-      "uuid": "eac72350-f067-402a-a64c-8f51498132a0",
+      "uuid": "737afcaa-39ca-45a4-b1d8-750ceb9ef358",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 19.49,
-        "y": 126.07
+        "y": 134.07
       },
       "end": {
         "x": 19.49,
-        "y": 130.2
+        "y": 138.2
       },
       "net": "PORT_P"
     },
     {
-      "uuid": "5a3c9e4c-4877-4d56-9428-6650f3d80d5b",
+      "uuid": "c1adf031-c531-4f00-8a36-82397bd89f88",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 6.7,
-        "y": 108.4
+        "y": 116.4
       },
       "end": {
         "x": 6.85,
-        "y": 108.25
+        "y": 116.25
       },
       "net": "PORT_P"
     },
     {
-      "uuid": "a9aabb9e-a308-4362-a605-1d9b6c380914",
+      "uuid": "b31aa77c-a5c2-460d-be59-5930c234b1df",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 7.5,
-        "y": 131
+        "y": 139
       },
       "end": {
         "x": 6.7,
-        "y": 130.2
+        "y": 138.2
       },
       "net": "PORT_P"
     },
     {
-      "uuid": "5089eec8-8f26-4348-a4be-7a6de7b3e0a3",
+      "uuid": "e811565c-fa42-409e-8371-27afe5fb4dc5",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 18.69,
-        "y": 131
+        "y": 139
       },
       "end": {
         "x": 7.5,
-        "y": 131
+        "y": 139
       },
       "net": "PORT_P"
     },
     {
-      "uuid": "c0348473-044b-4d26-8fb4-9ca7675a04fb",
+      "uuid": "de1549c8-ba60-400f-a725-b55f75cb9949",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 19.49,
-        "y": 130.2
+        "y": 138.2
       },
       "end": {
         "x": 18.69,
-        "y": 131
+        "y": 139
       },
       "net": "PORT_P"
     },
     {
-      "uuid": "4d4d08da-65ea-4ef7-8649-ce119065ba36",
+      "uuid": "9fb42af2-565a-43f1-bb5f-16fc24fb21c1",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 6.85,
-        "y": 108.25
+        "y": 116.25
       },
       "end": {
         "x": 7,
-        "y": 108.25
+        "y": 116.25
       },
       "net": "PORT_P"
     },
     {
-      "uuid": "b5503a73-603f-488c-9774-0f5d93192017",
+      "uuid": "d504b724-fd88-4f08-8c04-702ca4e9748d",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 6.7,
-        "y": 130.2
+        "y": 138.2
       },
       "end": {
         "x": 6.7,
-        "y": 108.4
+        "y": 116.4
       },
       "net": "PORT_P"
     },
     {
-      "uuid": "d1d4f596-d5b0-4866-8602-a042f7d5f62f",
+      "uuid": "87c95ee2-a2b4-49f5-b270-fa792a7a39f4",
       "layer": "B.Cu",
       "width": 0.5,
       "start": {
         "x": 20.51,
-        "y": 124.29
+        "y": 132.29
       },
       "end": {
         "x": 19.49,
-        "y": 126.07
+        "y": 134.07
       },
       "net": "PORT_P"
     },
     {
-      "uuid": "bc6f5a74-ca32-4d5a-84da-0528a21dd8b7",
+      "uuid": "ea694c3b-6f5a-4694-8c64-024ea44d52b1",
       "layer": "F.Cu",
-      "width": 1.2,
+      "width": 1.5,
       "start": {
-        "x": 46.6,
-        "y": 37
+        "x": 75.28,
+        "y": 51.74
       },
       "end": {
-        "x": 44.85,
-        "y": 36.78
+        "x": 80.8,
+        "y": 51.74
       },
       "net": "VIN"
     },
     {
-      "uuid": "3e1a6d6b-8aad-4b61-b195-adb46d6482ea",
+      "uuid": "fce9fdb8-78ad-4f4d-9da9-624e1f4b7bcf",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
-        "x": 75.285,
-        "y": 43.745
+        "x": 80.8,
+        "y": 64.84
       },
       "end": {
         "x": 80.8,
-        "y": 43.745
+        "y": 63.6
       },
       "net": "VIN"
     },
     {
-      "uuid": "111828f2-7cab-4ece-b52a-bfa2a2c0799f",
+      "uuid": "9c2ab511-5c72-4595-9b2b-99e96f584ca8",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
         "x": 80.8,
-        "y": 56.84
+        "y": 51.74
       },
       "end": {
         "x": 80.8,
-        "y": 55.6
+        "y": 53
       },
       "net": "VIN"
     },
     {
-      "uuid": "8a587372-c626-47bb-bf9d-987747ccc425",
+      "uuid": "dcb97341-fb36-4313-80ad-427c43264512",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
-        "x": 80.8,
-        "y": 43.74
+        "x": 78.34,
+        "y": 64.84
       },
       "end": {
         "x": 80.8,
+        "y": 64.84
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "a2fdf1f4-483c-4862-a240-14a7f27950ce",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 57.4,
+        "y": 45
+      },
+      "end": {
+        "x": 57.4,
+        "y": 109.53
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "8ee32639-7808-42b5-925f-b1ca238a3071",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 80.8,
+        "y": 64.845
+      },
+      "end": {
+        "x": 80.8,
+        "y": 45.8
+      },
+      "net": "VIN"
+    },
+    {
+      "uuid": "b3f10700-b207-4333-abd6-1f0e46af714d",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 80.8,
+        "y": 45.8
+      },
+      "end": {
+        "x": 80,
         "y": 45
       },
       "net": "VIN"
     },
     {
-      "uuid": "4733fcc1-2476-4083-90b9-1daaeeec2aaa",
-      "layer": "F.Cu",
-      "width": 1.5,
-      "start": {
-        "x": 78.345,
-        "y": 56.845
-      },
-      "end": {
-        "x": 80.8,
-        "y": 56.845
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "a13ce36c-5b12-4df5-8eab-f764807e1210",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 57.4,
-        "y": 37
-      },
-      "end": {
-        "x": 57.4,
-        "y": 101.53
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "3d91e6dc-7c61-4fd7-a84c-515d61c08791",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 80.8,
-        "y": 56.845
-      },
-      "end": {
-        "x": 80.8,
-        "y": 37.8
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "032dc9af-6064-4b3d-b93a-4aedf3dedc19",
-      "layer": "B.Cu",
-      "width": 2,
-      "start": {
-        "x": 80.8,
-        "y": 37.8
-      },
-      "end": {
-        "x": 80,
-        "y": 37
-      },
-      "net": "VIN"
-    },
-    {
-      "uuid": "0e1fbad0-45e9-4418-b8f6-de8bb2fbb8fe",
+      "uuid": "88777291-5757-45d6-a832-732fb4b26be4",
       "layer": "B.Cu",
       "width": 2,
       "start": {
         "x": 80,
-        "y": 37
+        "y": 45
       },
       "end": {
-        "x": 46.6,
-        "y": 37
+        "x": 50.2,
+        "y": 45
       },
       "net": "VIN"
     },
     {
-      "uuid": "1c839daf-967e-4ec6-9b0c-d0478d63b951",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 13.7,
-        "y": 32.6
-      },
-      "end": {
-        "x": 13.7,
-        "y": 34.22
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "f0cdc91d-e825-4c0c-944d-8e19e839a1bf",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 35.7,
-        "y": 13.8
-      },
-      "end": {
-        "x": 37.35,
-        "y": 13.8
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "46ae64af-a506-4e79-bba6-305a7b3d035f",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 34,
-        "y": 15.5
-      },
-      "end": {
-        "x": 35.7,
-        "y": 13.8
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "4d7c96bd-eb7d-4574-9a67-88d1c355aa4d",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 12.72766,
-        "y": 35.195
-      },
-      "end": {
-        "x": 11.675,
-        "y": 35.195
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "c6801ad0-d20c-4eac-91c1-0d0c95ec8dfc",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 17.6,
-        "y": 32.6
-      },
-      "end": {
-        "x": 13.7,
-        "y": 32.6
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "f6c5caeb-12ec-421f-9415-a4706b1f13fd",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 17.6,
-        "y": 15.5
-      },
-      "end": {
-        "x": 34,
-        "y": 15.5
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "923b2872-c99d-4eb2-98f9-4ba70448d6be",
-      "layer": "F.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 13.7,
-        "y": 34.22266
-      },
-      "end": {
-        "x": 12.72766,
-        "y": 35.195
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "071c3f43-15ac-4145-9bb0-99209e69a834",
-      "layer": "B.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 17.6,
-        "y": 15.5
-      },
-      "end": {
-        "x": 17.6,
-        "y": 32.6
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "39f44f7c-89ca-4f79-b4d7-fdb8310d1186",
-      "layer": "B.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 17.6,
-        "y": 32.6
-      },
-      "end": {
-        "x": 15.2,
-        "y": 32.6
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "5037cbe6-b5f4-46cd-b9d9-721f6b308c65",
-      "layer": "B.Cu",
-      "width": 1.2,
-      "start": {
-        "x": 17.6,
-        "y": 15.5
-      },
-      "end": {
-        "x": 18.9,
-        "y": 15.5
-      },
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "e23f8425-78f4-4a8f-8520-47221abd2ca6",
+      "uuid": "83010428-32fe-46b4-a0f5-3c324d068b39",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
         "x": 81.7,
-        "y": 53.5
+        "y": 61.5
       },
       "end": {
         "x": 66.36,
-        "y": 53.5
+        "y": 61.5
       },
       "net": "VIN_USB"
     },
     {
-      "uuid": "9485240b-eb4f-4f01-bd75-d60efab60332",
+      "uuid": "fa6fa657-043a-441e-8228-3c2ded1bb8b8",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
         "x": 65.56,
-        "y": 54.3
+        "y": 62.3
       },
       "end": {
         "x": 65.56,
-        "y": 57.48
+        "y": 65.48
       },
       "net": "VIN_USB"
     },
     {
-      "uuid": "7e946b7e-eb7b-41fa-8b60-f1c6d66ed53c",
+      "uuid": "57a7b23c-8bdd-4aa9-8d80-26a1c498b1fb",
       "layer": "F.Cu",
       "width": 0.5,
       "start": {
@@ -6321,21 +6125,21 @@
       "net": "VIN_USB"
     },
     {
-      "uuid": "904f037e-e24d-47c8-8c15-2cca1d14666e",
+      "uuid": "5be61597-78d9-4d29-922d-7e7021ae792a",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
         "x": 66.36,
-        "y": 53.5
+        "y": 61.5
       },
       "end": {
         "x": 65.56,
-        "y": 54.3
+        "y": 62.3
       },
       "net": "VIN_USB"
     },
     {
-      "uuid": "77a1c065-6330-461f-a319-dd77d58f7f00",
+      "uuid": "e6eac189-045a-4917-ace7-1d38e010fecf",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
@@ -6349,7 +6153,7 @@
       "net": "VIN_USB"
     },
     {
-      "uuid": "c6989c0c-c6f7-461c-8e6a-5073a4b95fac",
+      "uuid": "4b00de8e-3c55-4af2-91a4-2c7feebc754d",
       "layer": "F.Cu",
       "width": 0.5,
       "start": {
@@ -6363,21 +6167,21 @@
       "net": "VIN_USB"
     },
     {
-      "uuid": "88a70353-0bf8-4803-9776-96459e29151f",
+      "uuid": "32bf83e1-dc3c-4e96-a087-6e0044eedb10",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
         "x": 82.5,
-        "y": 52.7
+        "y": 60.7
       },
       "end": {
         "x": 81.7,
-        "y": 53.5
+        "y": 61.5
       },
       "net": "VIN_USB"
     },
     {
-      "uuid": "bca3fe09-69e6-4e7e-86fc-90e30a3c271f",
+      "uuid": "7e928ea1-6f8b-4be2-b773-8550bdc801c4",
       "layer": "F.Cu",
       "width": 1.5,
       "start": {
@@ -6386,12 +6190,12 @@
       },
       "end": {
         "x": 82.5,
-        "y": 52.7
+        "y": 60.7
       },
       "net": "VIN_USB"
     },
     {
-      "uuid": "055f87a2-5bed-420d-b85a-3749dda432eb",
+      "uuid": "c5337ddc-c9ba-45e6-b2a8-5af3ce297a9e",
       "layer": "B.Cu",
       "width": 2,
       "start": {
@@ -6405,7 +6209,7 @@
       "net": "VIN_USB"
     },
     {
-      "uuid": "06431548-0382-4437-a919-def5bcdb6a35",
+      "uuid": "b7505fd0-cce8-4738-9ff4-3852abf72f0b",
       "layer": "B.Cu",
       "width": 2,
       "start": {
@@ -6419,7 +6223,7 @@
       "net": "VIN_USB"
     },
     {
-      "uuid": "59a89e64-c10d-492b-9f95-4c0a53e057bc",
+      "uuid": "6b8aac95-625e-4f20-8169-edfb10e3f2e0",
       "layer": "B.Cu",
       "width": 2,
       "start": {
@@ -6433,7 +6237,7 @@
       "net": "VIN_USB"
     },
     {
-      "uuid": "2ee91eaf-5238-4ca1-9e1c-2ab7f905af37",
+      "uuid": "09756d57-4e0d-4587-8b47-afc321fa3fc9",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6447,7 +6251,7 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "aff2a4f4-efd5-403d-9fc5-8014d3d6151d",
+      "uuid": "013f9cc4-ceb4-429e-bec9-89397534fe52",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6461,35 +6265,35 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "c1ebdd7c-368e-4db5-8bcc-e855d4224425",
+      "uuid": "0cd8b5bc-4fc1-4920-847d-5a839964ff93",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 12.15,
-        "y": 131.2
+        "y": 139.2
       },
       "end": {
         "x": 11.35,
-        "y": 130.4
+        "y": 138.4
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "b5071a05-f2df-446a-9663-9bf004c4603c",
+      "uuid": "38ea7c3e-e222-4bfd-b01a-a37195967e19",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 11.35,
-        "y": 128.17
+        "y": 136.17
       },
       "end": {
         "x": 10.55,
-        "y": 127.37
+        "y": 135.37
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "cebdfc35-4f41-4941-af1b-55125fc9b23b",
+      "uuid": "4f8c4f09-e0cd-4917-8372-13a894fa75b0",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6503,7 +6307,7 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "ac777528-2fc9-48fa-a55c-f1620e22d774",
+      "uuid": "1b754dc9-5834-498d-ba84-44acc75b5b88",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6517,21 +6321,21 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "6d2f1c0e-fa93-4dc8-8014-9c7a58558c60",
+      "uuid": "2b6ddf81-1f42-4926-b7c8-1af97c35a607",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 23.57,
-        "y": 130.4
+        "y": 138.4
       },
       "end": {
         "x": 22.77,
-        "y": 131.2
+        "y": 139.2
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "8b5050e2-f7c3-4180-b7fa-61a235bd1071",
+      "uuid": "51518a10-e78c-411e-8007-310b32c347fb",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6545,7 +6349,7 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "c9986ab5-1b17-4c8b-9253-65b1f865d540",
+      "uuid": "205b8c09-518d-4146-948f-e7b8f5647a81",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6559,21 +6363,21 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "5225f126-0f35-496f-9341-3bb0c408d8db",
+      "uuid": "97ab646e-eebf-45a6-9719-a9fea019cf99",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 22.77,
-        "y": 131.2
+        "y": 139.2
       },
       "end": {
         "x": 12.15,
-        "y": 131.2
+        "y": 139.2
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "7976f9e3-e5da-46f0-b5d7-88e7b5aae9e8",
+      "uuid": "af1775b7-af60-4e76-bbf3-b34a27ff44ae",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6587,7 +6391,7 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "3bf647b5-72df-44e2-bc99-cf65514a8352",
+      "uuid": "c10c7baf-dcb0-4431-84f8-212e03e0a081",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6601,49 +6405,49 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "a16efadd-8890-4f0a-8b05-0630bf88bdd4",
+      "uuid": "7215800b-97d6-42ea-93fd-1ac80ebaae76",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 10.55,
-        "y": 127.37
+        "y": 135.37
       },
       "end": {
         "x": 8.8,
-        "y": 127.37
+        "y": 135.37
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "afcfc85c-532b-46e4-bc23-537d20dabb9f",
+      "uuid": "dd052f07-5f57-474a-8c54-ef63ec03a4ab",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 2,
-        "y": 113
+        "y": 121
       },
       "end": {
         "x": 8,
-        "y": 119
+        "y": 127
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "80cc3118-abe8-4b29-9504-a4d4784a18d7",
+      "uuid": "f324f5a9-9560-4887-9417-9265de272525",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 8.8,
-        "y": 127.37
+        "y": 135.37
       },
       "end": {
         "x": 8,
-        "y": 126.57
+        "y": 134.57
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "a3e1e593-d2fc-461a-8acb-b6e16ef9950c",
+      "uuid": "f80b50f2-4523-4759-a3e5-914432743635",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6657,49 +6461,49 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "51d5600b-530d-46a6-b7e3-6619f83b8467",
+      "uuid": "dd480792-470c-44af-ac78-db9a21c2ddd1",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 11.35,
-        "y": 130.4
+        "y": 138.4
       },
       "end": {
         "x": 11.35,
-        "y": 128.17
+        "y": 136.17
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "a6ba28de-97e8-46da-9057-3e14b9f018c1",
+      "uuid": "3fce21ce-a989-40f8-b1a8-9f71d8c80146",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 8,
-        "y": 119
+        "y": 127
       },
       "end": {
         "x": 8,
-        "y": 126.57
+        "y": 134.57
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "c551ff17-790a-4636-b498-f1995ff5754b",
+      "uuid": "47b7f7fa-79c9-4035-b612-70da06699a76",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 23.57,
-        "y": 126.07
+        "y": 134.07
       },
       "end": {
         "x": 23.57,
-        "y": 130.4
+        "y": 138.4
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "5a89a171-4772-46f3-9506-499462aed8c1",
+      "uuid": "e6c5cae6-ddaf-4ac1-9006-76713185f55d",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6708,12 +6512,12 @@
       },
       "end": {
         "x": 2,
-        "y": 113
+        "y": 121
       },
       "net": "ETH_1"
     },
     {
-      "uuid": "1d6daae8-0629-4d9a-a220-ab043e3ae10d",
+      "uuid": "f2ad42c5-4cc3-49b5-b777-a98a281bb67f",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6727,21 +6531,21 @@
       "net": "ETH_1"
     },
     {
-      "uuid": "ca9c6229-8790-4275-a5f6-c0e7b95825b7",
+      "uuid": "92a1f24b-d1d1-4497-aed2-735c7e0b7e02",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 9.3,
-        "y": 122.99
+        "y": 130.99
       },
       "end": {
         "x": 8.5,
-        "y": 122.19
+        "y": 130.19
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "d6234249-0ecd-4f45-87f0-7448e8cf4ed5",
+      "uuid": "f340d4a7-1bf1-4015-88eb-387f0f212f0c",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6755,7 +6559,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "365506cb-7c23-40c6-a92a-a9bc51b00748",
+      "uuid": "d1e70e78-1450-45b8-bef2-683a0a733ec5",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6769,21 +6573,21 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "87bc519f-78db-4cb2-847d-567e832775f8",
+      "uuid": "10828d1c-ed7a-485b-8d18-570015138810",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 2.5,
-        "y": 112.5
+        "y": 120.5
       },
       "end": {
         "x": 8.5,
-        "y": 118.5
+        "y": 126.5
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "ed49674f-cdda-4898-abed-19f21afe2eac",
+      "uuid": "b20c44bc-5b45-4bf7-8625-a772bd567688",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6797,7 +6601,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "43a3adb2-ec53-4b98-910e-2fef881e8668",
+      "uuid": "c12f0a86-f924-4bde-bf9c-aee39abeaa4a",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6811,7 +6615,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "c047f2e5-2535-4065-8395-d01efa9af341",
+      "uuid": "5cd08646-79f2-4f4e-af8b-a418ea297424",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6825,21 +6629,21 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "d4e5defb-3688-4a39-90f0-5e7c6f4b4adb",
+      "uuid": "84c7d930-eec3-47ad-abe5-8d892877c63c",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 19.55,
-        "y": 122.59
+        "y": 130.59
       },
       "end": {
         "x": 19.15,
-        "y": 122.99
+        "y": 130.99
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "13031938-8973-4906-936a-41449a752ba7",
+      "uuid": "641fe496-984d-401a-8322-e7771f03a170",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6853,7 +6657,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "995d1829-69c9-47e8-80a6-e6ecb8ee0ffb",
+      "uuid": "6ec295d3-ccff-4dca-bb87-e4e0269912f9",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6867,7 +6671,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "b191c952-be9d-4a3c-83c5-8064a684b53b",
+      "uuid": "04cbc42e-7156-4ae7-88b4-f33dd68c4e47",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6881,49 +6685,49 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "6a18c436-48b4-4606-972e-0c209f245248",
+      "uuid": "0609345f-62fc-4aa4-9173-64938f822117",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 21.15,
-        "y": 122.99
+        "y": 130.99
       },
       "end": {
         "x": 20.75,
-        "y": 122.59
+        "y": 130.59
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "5639bfaf-6004-4fc1-9b66-44ece9561379",
+      "uuid": "e17ee547-3f5c-4a16-aa29-6e95bbec8090",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 20.35,
-        "y": 118.65379
+        "y": 126.6538
       },
       "end": {
         "x": 19.95,
-        "y": 118.65379
+        "y": 126.6538
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "3a901073-cdb4-491e-b320-cc757cde120f",
+      "uuid": "3b8eaa45-c65d-4fc4-aa4c-87288b5836bf",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 22.55,
-        "y": 124.29
+        "y": 132.29
       },
       "end": {
         "x": 22.55,
-        "y": 123.79
+        "y": 131.79
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "fdf1d551-aae7-4f4e-9692-d185f09d35b1",
+      "uuid": "1aa5a788-959a-4561-8955-d3713cb002a9",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6937,35 +6741,35 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "1b4ae7d8-590c-40ee-8bf8-359ef8018075",
+      "uuid": "661c927f-1d9f-4de4-aa48-3748a2e6478e",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 20.75,
-        "y": 122.59
+        "y": 130.59
       },
       "end": {
         "x": 20.75,
-        "y": 119.05379
+        "y": 127.0538
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "7e4927f1-ef89-4d79-8745-03e5d347bc9b",
+      "uuid": "4e64739e-3441-4773-a93e-7a8abdcfaf4e",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 21.75,
-        "y": 122.99
+        "y": 130.99
       },
       "end": {
         "x": 21.15,
-        "y": 122.99
+        "y": 130.99
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "66a4d92c-3f79-4c87-ad5c-d7ab0b022bf6",
+      "uuid": "2df2af8d-1c4e-4a23-9f64-759704d2e9b3",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -6979,21 +6783,21 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "02adff4c-0bca-4ada-9989-487f85067b3b",
+      "uuid": "218e4324-077f-452b-9ce0-896f8d3c3674",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 19.15,
-        "y": 122.99
+        "y": 130.99
       },
       "end": {
         "x": 9.3,
-        "y": 122.99
+        "y": 130.99
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "4ea6ec6e-c329-45cd-a843-0b3e8919248f",
+      "uuid": "033f7b6d-965e-47ae-9770-85e34c76c982",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7007,7 +6811,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "5c9ad0c8-e512-4a5a-b316-8a5b142ae83d",
+      "uuid": "a6fd11fe-81d8-47dd-bc39-921dc5072009",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7021,7 +6825,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "15d442a1-256f-4c5f-9454-7648720a74b9",
+      "uuid": "df0a495a-7cb3-402f-8cca-36c426af626e",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7035,7 +6839,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "10ec946a-5faa-4dc0-b8ab-9cf1ef84f78d",
+      "uuid": "5732c521-3408-48c3-9aca-c526e8a0a19c",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7044,12 +6848,12 @@
       },
       "end": {
         "x": 2.5,
-        "y": 112.5
+        "y": 120.5
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "499cfbaf-23eb-4784-a8db-8aff2c7cbc3e",
+      "uuid": "a130d5a6-d0ac-4772-bad1-1f4ea80b4d33",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7063,7 +6867,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "93e6bb36-85fb-437c-bd1a-eb4aefcfb8bd",
+      "uuid": "d0a3c9ed-0b2c-49b9-876d-64f67a9cca85",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7077,7 +6881,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "833f5882-df39-4ebb-85bf-57719ad0253a",
+      "uuid": "4c67ee6a-a006-48c6-be3e-70e52c53ba21",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7091,35 +6895,35 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "eae164c5-4ae0-41c4-8274-c7474eaffdd3",
+      "uuid": "44233a49-9252-483a-9ace-fb27c09fae6d",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 20.75,
-        "y": 119.05379
+        "y": 127.0538
       },
       "end": {
         "x": 20.35,
-        "y": 118.65379
+        "y": 126.6538
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "edc26bcd-3359-41a0-be79-c79e9996971c",
+      "uuid": "628f41d9-d329-402b-9f1b-64f613c50c01",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 22.55,
-        "y": 123.79
+        "y": 131.79
       },
       "end": {
         "x": 21.75,
-        "y": 122.99
+        "y": 130.99
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "2af90ed3-d8ab-4908-ac22-f60da67db3e4",
+      "uuid": "93dde19f-db71-4b0f-9f4d-a5935d4754af",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7133,7 +6937,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "4ff1d4a4-aea0-448a-af11-189f0743dcd6",
+      "uuid": "192d8dcf-ee01-45b2-b02a-bff3076a7708",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7147,35 +6951,35 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "5fcebbe0-64c2-4fa9-971a-a972ee45ef07",
+      "uuid": "f271f3ab-7259-4db9-8e8e-d7d946ba9f25",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 19.55,
-        "y": 119.05379
+        "y": 127.0538
       },
       "end": {
         "x": 19.55,
-        "y": 122.59
+        "y": 130.59
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "fe36fb38-5f5c-4378-8cab-d99aecacc4ca",
+      "uuid": "cf127330-8895-4c3d-863c-6111628dbd3b",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 19.95,
-        "y": 118.65379
+        "y": 126.6538
       },
       "end": {
         "x": 19.55,
-        "y": 119.05379
+        "y": 127.0538
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "40f475eb-eb95-485c-afd8-843a7dbdf66c",
+      "uuid": "1c468f79-781c-45aa-bb55-1cd1513c6e4e",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7189,7 +6993,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "0dd788d9-2a35-424d-bb3d-8e92ba2002de",
+      "uuid": "9c6b7472-a273-4203-a9ee-8544f22eee1d",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7203,7 +7007,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "7d1141de-2d2e-4428-9143-0c0c38659dce",
+      "uuid": "3ab2e9c5-1fca-4a8c-b38c-604e6d380700",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7217,7 +7021,7 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "b6de0295-8da8-45b4-ae35-ff17130cae99",
+      "uuid": "27d5ada3-b3f2-41f1-b9fe-574fdd84794b",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7231,21 +7035,21 @@
       "net": "ETH_2"
     },
     {
-      "uuid": "b82c8a2b-eb3d-4731-b938-521bbcef11e6",
+      "uuid": "83176266-efdf-42fd-9edb-19d794e75a23",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 8.5,
-        "y": 118.5
+        "y": 126.5
       },
       "end": {
         "x": 8.5,
-        "y": 122.19
+        "y": 130.19
       },
       "net": "ETH_2"
     },
     {
-      "uuid": "d3b8f574-e67b-4b2c-80c1-d63729ef7055",
+      "uuid": "f7c58256-6896-495a-8839-c0888b7dd0a9",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7259,7 +7063,7 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "712cc092-11ac-43f4-b880-5ea07d095d45",
+      "uuid": "6fb7e99f-c80e-47d3-997e-a815a35e65bd",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7273,7 +7077,7 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "2fa09b0f-4062-4fe9-9f11-166cade0a519",
+      "uuid": "2d0adcb5-e2c5-44af-8f1b-0d75276a7147",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7287,35 +7091,35 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "adb25f36-c05f-482d-8241-4e05edf32fdf",
+      "uuid": "e52986fb-21d9-408d-bd7c-31e88633236a",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 21.53,
-        "y": 130.4
+        "y": 138.4
       },
       "end": {
         "x": 22.33,
-        "y": 131.2
+        "y": 139.2
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "63d0b300-862d-4a5a-b91f-d05c1b32cc76",
+      "uuid": "8ee2d4cd-1a25-4d58-bc7d-1b1a147230d1",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 28.9,
-        "y": 117.79
+        "y": 125.79
       },
       "end": {
         "x": 28.1,
-        "y": 116.99
+        "y": 124.99
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "8c4a07a6-293c-4dd8-8ad7-b8594ae53745",
+      "uuid": "acc09fc8-a408-4578-8d3c-9baa7bd8ac57",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7329,35 +7133,35 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "e1a3f35a-1bed-4bf8-a969-775c28cb32ee",
+      "uuid": "66ac8799-a7a5-4bb5-aa95-fc220ad4e236",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 28.9,
-        "y": 130.4
+        "y": 138.4
       },
       "end": {
         "x": 28.9,
-        "y": 117.79
+        "y": 125.79
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "0ebefa41-ca07-4579-bf35-4505844b95a5",
+      "uuid": "dde71d43-b4e4-4e17-a127-31d91a4e3bb3",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 28.1,
-        "y": 131.2
+        "y": 139.2
       },
       "end": {
         "x": 28.9,
-        "y": 130.4
+        "y": 138.4
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "cb6db0f4-7e99-49a3-99cb-d8c9c6b1949c",
+      "uuid": "5c2714c6-927e-415f-af75-718742ac0d18",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7371,21 +7175,21 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "c43a251c-83e8-4c09-8abd-6b1015e72a8c",
+      "uuid": "fe9ee477-70bb-46e1-867b-f6070cdee838",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 9.6,
-        "y": 117.79
+        "y": 125.79
       },
       "end": {
         "x": 9.6,
-        "y": 119.59
+        "y": 127.59
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "e77b106a-5658-4636-a672-36c3bdf20e12",
+      "uuid": "59bdb49a-014e-4eb7-aa5e-3a7f84f5b261",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7399,35 +7203,35 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "ab89db24-c2f8-4182-b7ad-cce16a6b3ba0",
+      "uuid": "02705070-d94e-4288-aa1f-2da0470ca8ca",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 22.33,
-        "y": 131.2
+        "y": 139.2
       },
       "end": {
         "x": 28.1,
-        "y": 131.2
+        "y": 139.2
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "e788a030-82ea-4565-b02b-b62d18a1a01f",
+      "uuid": "09f8f76a-98b5-487f-8cdf-408d61b6cdce",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 10.4,
-        "y": 116.99
+        "y": 124.99
       },
       "end": {
         "x": 9.6,
-        "y": 117.79
+        "y": 125.79
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "e96e9947-fed9-4d93-93dd-8013987b1b1d",
+      "uuid": "dff2de36-81b6-415b-961a-577ed4473760",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7441,35 +7245,35 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "09ab0cd9-1e04-4369-9546-f74ce25cb4ed",
+      "uuid": "442ba837-6bbe-4de5-8acf-47e0266c5541",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 28.1,
-        "y": 116.99
+        "y": 124.99
       },
       "end": {
         "x": 10.4,
-        "y": 116.99
+        "y": 124.99
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "b1efabf6-a4f5-43fa-a8de-f934572fe22f",
+      "uuid": "e2c0e34f-eda2-4df9-8a71-dc152a797290",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 21.53,
-        "y": 126.07
+        "y": 134.07
       },
       "end": {
         "x": 21.53,
-        "y": 130.4
+        "y": 138.4
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "064a8feb-415a-4369-b06a-77eddde33e7a",
+      "uuid": "1c6e07f1-0181-4c0f-abe9-76d2ce658b5d",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7483,7 +7287,7 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "ffc154e0-8cda-45a9-8901-dcf935c79c2b",
+      "uuid": "2101bb7e-a21d-4b7e-b9e0-383d2d3f5613",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7497,21 +7301,21 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "74782261-f8e7-40bc-9814-4ccd77f80e61",
+      "uuid": "2ec96049-a776-4d21-8b0a-cfbf4239ba2c",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 10,
-        "y": 117
+        "y": 125
       },
       "end": {
         "x": 10,
-        "y": 119.19
+        "y": 127.19
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "3f9322fe-2a5a-4469-a365-9013147ec756",
+      "uuid": "b20f6817-1220-4038-8731-0de508b2f5e7",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7525,7 +7329,7 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "37c041f0-0020-429e-afe6-d8bfffce7c21",
+      "uuid": "08664097-dea9-41b9-9837-ce7648cdf86c",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7539,21 +7343,21 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "30c29a08-0091-46ce-80cc-4d758c1f0714",
+      "uuid": "21656c34-db03-44c3-93d6-a1882631a6d9",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 9.6,
-        "y": 119.59
+        "y": 127.59
       },
       "end": {
         "x": 10,
-        "y": 119.19
+        "y": 127.19
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "beee90da-3579-4ed6-b6eb-b3f656466ad6",
+      "uuid": "9eb36d3d-12b2-429c-8c61-76f26b168b9e",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7567,21 +7371,21 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "aee32635-97bb-49fc-a3a9-33ba716662ed",
+      "uuid": "399e4e9f-88d4-4219-bcf2-d360f88aa60b",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 4,
-        "y": 111
+        "y": 119
       },
       "end": {
         "x": 10,
-        "y": 117
+        "y": 125
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "07fd76ba-66d8-43b7-b2ee-e1e76c3f5b8e",
+      "uuid": "15f4936f-4b32-4fcc-9cc9-c0bae846b955",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -7590,26 +7394,26 @@
       },
       "end": {
         "x": 4,
-        "y": 111
+        "y": 119
       },
       "net": "ETH_3"
     },
     {
-      "uuid": "52915039-9d9e-444e-a889-2d832cbce215",
+      "uuid": "b03fe3e1-b431-4133-8842-2336bd99ed59",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 17.07,
-        "y": 122.99
+        "y": 130.99
       },
       "end": {
         "x": 16.67,
-        "y": 122.59
+        "y": 130.59
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "8afb9683-65b1-4e4b-b110-930a15a5cd32",
+      "uuid": "0b6c18d8-03f1-4e8a-852b-fa8b61027a20",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7623,21 +7427,21 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "fc45aee3-fe1d-4068-b62f-2239fbeda283",
+      "uuid": "14652c9b-ae64-405f-8168-aeba7a9025f1",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 16.67,
-        "y": 119.39619
+        "y": 127.3962
       },
       "end": {
         "x": 16.27,
-        "y": 118.99619
+        "y": 126.9962
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "93a3bedb-f4f3-4543-90fc-da9d514e0b47",
+      "uuid": "50af649f-85ea-41c6-88e6-d6ed7e621c08",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7651,35 +7455,35 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "28adc31d-f1a8-410e-ad4e-e753ad1896f1",
+      "uuid": "54664fbe-2afc-4295-9a2b-ed38ce9eaee7",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 18.47,
-        "y": 124.29
+        "y": 132.29
       },
       "end": {
         "x": 18.47,
-        "y": 123.79
+        "y": 131.79
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "e54f9203-8943-43d2-8ba1-c475673368e2",
+      "uuid": "6d4e8161-6909-4e2c-86fb-cafab87c347b",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 10.5,
-        "y": 122.19
+        "y": 130.19
       },
       "end": {
         "x": 10.5,
-        "y": 121.99
+        "y": 129.99
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "a48fb186-152a-402e-b19b-0218d1fe2b8c",
+      "uuid": "020241df-4192-4ef4-9934-b21ca8973652",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7693,7 +7497,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "079255cd-8f89-4773-b4f2-578fda3bc57e",
+      "uuid": "b953ac03-b165-4778-838e-2c8acf1b69d6",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7707,7 +7511,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "5f884282-8c94-4bcb-a02e-5edc45600d62",
+      "uuid": "1efde7b3-e4be-4f86-b2c3-adbf13446cb7",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7721,7 +7525,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "24ee8731-2f29-458b-8cfa-6383cd3c3750",
+      "uuid": "6c067b16-064a-457b-9894-b2fb05bb598b",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7735,7 +7539,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "082e95cb-4d92-42d4-9756-19ac4758e19d",
+      "uuid": "924b374c-fdaf-47c6-964a-229f3092e67a",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7749,7 +7553,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "da9c4853-968e-4fed-9894-4ec343d29a04",
+      "uuid": "b200d4c0-15b8-4113-b936-1a65c9f9b8fc",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7763,21 +7567,21 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "4eedc686-271d-422b-b403-82bab57302ac",
+      "uuid": "64110941-ee3c-4d54-bcec-18537f81b9cd",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 15.07,
-        "y": 122.99
+        "y": 130.99
       },
       "end": {
         "x": 11.3,
-        "y": 122.99
+        "y": 130.99
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "f50879e4-e56a-4957-84de-76f4d6b51c8f",
+      "uuid": "acc6950d-1b31-4aa3-8871-6ee7a7002f77",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7791,7 +7595,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "7055a451-7514-4819-9037-4dcd5f4fae35",
+      "uuid": "4ccafbd2-21eb-470d-afd7-03d98c656028",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7805,7 +7609,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "96a53c15-acd0-45eb-8275-61a240b35ba6",
+      "uuid": "6d44b7bd-fa94-4b3a-b189-3534a94b3d77",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7819,21 +7623,21 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "06faf523-1613-485f-b4c6-0f29648ea366",
+      "uuid": "758205c9-d6a9-49bb-9d9e-b7617a708d3f",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 16.67,
-        "y": 122.59
+        "y": 130.59
       },
       "end": {
         "x": 16.67,
-        "y": 119.39619
+        "y": 127.3962
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "6ff5f233-48ef-42b1-8348-a6bfffb57814",
+      "uuid": "5cb0b76c-4504-4086-b59c-8e6c25c9d003",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7847,21 +7651,21 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "77f691bc-28d2-454f-bdb8-09e3ae90dbff",
+      "uuid": "4896d5c0-9260-479d-9664-034c8e52a1d0",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 15.47,
-        "y": 119.39619
+        "y": 127.3962
       },
       "end": {
         "x": 15.47,
-        "y": 122.59
+        "y": 130.59
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "e07f293b-dee1-4b08-b95f-8249adf393e9",
+      "uuid": "2a873643-1459-4d50-9992-eec25ffb8015",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7875,7 +7679,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "d9655c3c-1188-4f7c-a0f7-8fb86f1bee04",
+      "uuid": "429cd969-25c2-4e6e-8250-027b3b8a7ee2",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7889,21 +7693,21 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "dcaa060f-668c-46c8-80da-9fbd149419d4",
+      "uuid": "44f64a3c-1983-4ea7-b1f2-e55e1fa680db",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 15.87,
-        "y": 118.99619
+        "y": 126.9962
       },
       "end": {
         "x": 15.47,
-        "y": 119.39619
+        "y": 127.3962
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "e00d65df-1ce8-4d18-a3eb-94c7ca85905a",
+      "uuid": "0ed61afa-5518-4972-95c0-5512de9dd22c",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7917,21 +7721,21 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "b0c89295-de65-429f-afa5-92b7114b5b0b",
+      "uuid": "77cdb555-26fe-4478-9cb5-f5b0698e179b",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 15.47,
-        "y": 122.59
+        "y": 130.59
       },
       "end": {
         "x": 15.07,
-        "y": 122.99
+        "y": 130.99
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "1c335ea2-ec7b-4ba0-8c00-a0ab1d7db3fd",
+      "uuid": "301eaffa-ab9c-4f8c-af3d-c965d61c46d3",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7945,21 +7749,21 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "8259b275-d34c-4e8c-9a6a-b3b480e612d1",
+      "uuid": "bdb560ff-9605-4044-86f5-f9119b3e902e",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 11.3,
-        "y": 122.99
+        "y": 130.99
       },
       "end": {
         "x": 10.5,
-        "y": 122.19
+        "y": 130.19
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "563e328d-6d84-4882-b11d-3a743c1430f5",
+      "uuid": "54eaa90e-47a9-474d-9427-0d4bc6bec367",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -7973,35 +7777,35 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "ce153e89-ee02-4672-88fa-907f1e9a7ead",
+      "uuid": "4e53ca6e-e9db-4d35-b5aa-d0a3212bbc01",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 17.67,
-        "y": 122.99
+        "y": 130.99
       },
       "end": {
         "x": 17.07,
-        "y": 122.99
+        "y": 130.99
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "04770255-044a-4e84-8beb-138c0ddf0d08",
+      "uuid": "6948b651-1ea8-401e-bb1a-ad5f487a4ed9",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 18.47,
-        "y": 123.79
+        "y": 131.79
       },
       "end": {
         "x": 17.67,
-        "y": 122.99
+        "y": 130.99
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "1bae008f-a72f-4a95-99a2-b55c1824df74",
+      "uuid": "46bfa523-e310-4b36-9dee-8ae49a743977",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -8015,21 +7819,21 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "01373419-e059-4034-b98b-365ab3a78d5b",
+      "uuid": "b086b069-273e-43ef-9d53-8ba91a641191",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
         "x": 16.27,
-        "y": 118.99619
+        "y": 126.9962
       },
       "end": {
         "x": 15.87,
-        "y": 118.99619
+        "y": 126.9962
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "6117601f-9048-4b01-a421-040e3853f52e",
+      "uuid": "3979f4f8-2733-44f1-92e9-c3e1a38b5872",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -8043,7 +7847,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "829e5e80-6da6-467f-9403-11d5b8a5286a",
+      "uuid": "5c049c73-34c0-4136-9fa5-1742547ea445",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -8057,7 +7861,7 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "2c691147-5008-4a0e-bf6d-731e25c0499c",
+      "uuid": "6d81569b-7fc3-48ce-a0f0-2660565f56e8",
       "layer": "F.Cu",
       "width": 0.3,
       "start": {
@@ -8071,77 +7875,77 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "d34691fd-c5e6-4fbe-bd08-1ca8d9132dd2",
+      "uuid": "28d16674-5120-44d0-bc38-45ed7825146d",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 4.5,
-        "y": 45
+        "y": 53
       },
       "end": {
         "x": 4.9,
-        "y": 45.4
+        "y": 53.4
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "7441da89-e842-49a4-82be-227967fd47d6",
+      "uuid": "2a977564-b04c-47f3-9a15-93a4300abf28",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 6.7,
-        "y": 45.8
+        "y": 53.8
       },
       "end": {
         "x": 6.7,
-        "y": 46.2
+        "y": 54.2
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "e487282a-0f2c-48bc-a325-e194b30117e7",
+      "uuid": "fb539443-d924-4fe6-ae5c-7073d9fd9a4d",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 4.9,
-        "y": 46.6
+        "y": 54.6
       },
       "end": {
         "x": 4.5,
-        "y": 47
+        "y": 55
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "fec8502c-5ec1-4421-8721-d6a775a40e1a",
+      "uuid": "e49da1c7-4515-4f73-86d8-ed6ca835e234",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 4.9,
-        "y": 57.8
+        "y": 65.8
       },
       "end": {
         "x": 4.5,
-        "y": 58.2
+        "y": 66.2
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "fffd3e0a-5dc5-4f35-a88d-741eae835abe",
+      "uuid": "737df48f-123e-4cdb-af0a-1ad1a89e8863",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 6.3,
-        "y": 49.4
+        "y": 57.4
       },
       "end": {
         "x": 4.9,
-        "y": 49.4
+        "y": 57.4
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "e548d290-f8fa-48cd-bcac-c8a7b19b14cc",
+      "uuid": "769cf636-887d-4aab-95fc-15ddcda68b2c",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -8155,207 +7959,11 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "019458a4-9a28-49d4-9750-3cf8855657a3",
+      "uuid": "fc6e2347-0300-4026-8c26-3a6d6ed65e76",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 6.7,
-        "y": 48.6
-      },
-      "end": {
-        "x": 6.7,
-        "y": 49
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "1268bc4c-5e17-4661-8400-7b8e7b43bd9b",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 57.4
-      },
-      "end": {
-        "x": 6.3,
-        "y": 57.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "07d3b686-cb41-4d84-a8d5-e732a32a6557",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 58.2
-      },
-      "end": {
-        "x": 4.5,
-        "y": 59
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "2626c1f2-8c40-462c-8025-1a363af388f2",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 47
-      },
-      "end": {
-        "x": 4.5,
-        "y": 47.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "9f863f72-662f-496d-99f6-633586e0e3bf",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 54.6
-      },
-      "end": {
-        "x": 6.3,
-        "y": 55
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "e2070072-2fe9-41b9-8d99-caf72d1ace6b",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 60.6
-      },
-      "end": {
-        "x": 4.5,
-        "y": 61
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "b92ac986-a1ed-4f45-a6bb-5079fe0c9a7c",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 59.8
-      },
-      "end": {
-        "x": 6.7,
-        "y": 60.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "da40d707-4d88-48e8-9383-4d29678139cb",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 57.8
-      },
-      "end": {
-        "x": 4.9,
-        "y": 57.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "5edbfe4b-4d6a-4cd3-9a3e-e925169b4285",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 52.2
-      },
-      "end": {
-        "x": 4.9,
-        "y": 52.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "b089a102-dbcf-4ef3-9dc1-4d723011691f",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 49.8
-      },
-      "end": {
-        "x": 4.5,
-        "y": 50.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "39bed587-460e-48a5-8f07-5bfbce14c1d9",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 55
-      },
-      "end": {
-        "x": 4.9,
-        "y": 55
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "d4d6eadb-4279-4ee3-8139-23ac80ab9fc2",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 56.6
-      },
-      "end": {
-        "x": 6.3,
-        "y": 56.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "02a8703a-0bd4-4d76-817c-3e39297ee023",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 46.2
-      },
-      "end": {
-        "x": 6.3,
-        "y": 46.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "979b1849-34ad-4590-914d-3c0f0f0b0d9b",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 52.2
-      },
-      "end": {
-        "x": 4.5,
-        "y": 52.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "78b43cc1-7211-4b92-8019-7762f9d6cc6f",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
         "y": 56.6
       },
       "end": {
@@ -8365,49 +7973,245 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "81a6f656-22a1-4a19-bb09-fe9050a69eeb",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 59
-      },
-      "end": {
-        "x": 4.9,
-        "y": 59.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "725869d7-1567-4786-a639-b9b64f499d3c",
+      "uuid": "6c87f651-18fa-454a-a62d-92b473b66188",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 6.7,
-        "y": 60.2
+        "y": 65.4
       },
       "end": {
         "x": 6.3,
+        "y": 65.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "dbe82121-7fb3-4f74-9e1a-fc25ec4613ea",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 66.2
+      },
+      "end": {
+        "x": 4.5,
+        "y": 67
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "071760af-4955-4502-933e-05d88659e6e9",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 55
+      },
+      "end": {
+        "x": 4.5,
+        "y": 55.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "8326bf9d-fd6e-49d9-8165-fb58d4326f97",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 62.6
+      },
+      "end": {
+        "x": 6.3,
+        "y": 63
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "76d42ac4-3629-4732-8c18-0462835cb9e3",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 68.6
+      },
+      "end": {
+        "x": 4.5,
+        "y": 69
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "9b6285d9-6b85-4e49-b07a-b911253439c8",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 67.8
+      },
+      "end": {
+        "x": 6.7,
+        "y": 68.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "75f7ed4a-602f-4abb-a3bd-939c9a75a4ee",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 65.8
+      },
+      "end": {
+        "x": 4.9,
+        "y": 65.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "ce26616e-7fa7-4ac3-b4e1-239b3ace957f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 60.2
+      },
+      "end": {
+        "x": 4.9,
+        "y": 60.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "5f7fb2c4-c172-47c9-84cd-2addaede08ec",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 57.8
+      },
+      "end": {
+        "x": 4.5,
+        "y": 58.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "b914daf1-040e-401f-9403-1c9a7247283e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 63
+      },
+      "end": {
+        "x": 4.9,
+        "y": 63
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "cdae1d54-4957-4526-a5fa-770af761d3c4",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 64.6
+      },
+      "end": {
+        "x": 6.3,
+        "y": 64.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "1235f08d-9826-4c04-bde7-9f4af960cd1a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 54.2
+      },
+      "end": {
+        "x": 6.3,
+        "y": 54.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "ca6d17f0-74ab-4662-80e5-7c3033a36184",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 60.2
+      },
+      "end": {
+        "x": 4.5,
         "y": 60.6
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "c015b879-115b-4b02-aa1a-df9ba8e9af80",
+      "uuid": "a0fd55c0-84e1-46b5-956f-a8b95e243018",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
-        "x": 4.9,
-        "y": 59.4
+        "x": 6.3,
+        "y": 64.6
       },
       "end": {
-        "x": 6.3,
-        "y": 59.4
+        "x": 6.7,
+        "y": 65
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "c8b5798c-07d4-429d-9144-0477a5a6259e",
+      "uuid": "d8917043-ac1a-4054-897a-202cf5ac6857",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 67
+      },
+      "end": {
+        "x": 4.9,
+        "y": 67.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "4f7bab56-3c32-4de3-b2d8-c66d10364fbe",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 68.2
+      },
+      "end": {
+        "x": 6.3,
+        "y": 68.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "02016a5c-45a0-4397-8786-ac4d0639235c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 67.4
+      },
+      "end": {
+        "x": 6.3,
+        "y": 67.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "a588a49c-af3a-49ef-85d5-b0a9de4d6699",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -8416,40 +8220,40 @@
       },
       "end": {
         "x": 4.5,
-        "y": 45
+        "y": 53
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "28195373-7cbb-4f08-b2ee-0a8654fe02ff",
+      "uuid": "5e95a2db-44a3-4409-81b9-d45f8d16b146",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 6.3,
-        "y": 48.2
+        "y": 56.2
       },
       "end": {
         "x": 6.7,
-        "y": 48.6
+        "y": 56.6
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "0bb5d8b5-9af4-4395-83ab-441269bef682",
+      "uuid": "a8e7ff24-2079-4e98-8e65-2d96a0e52b32",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 4.5,
-        "y": 55.4
+        "y": 63.4
       },
       "end": {
         "x": 4.5,
-        "y": 56.2
+        "y": 64.2
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "c517481b-12ec-47a0-bb77-f366c974959f",
+      "uuid": "5c58fa44-4831-466d-97a3-545c46b891c6",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -8463,95 +8267,67 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "82c76335-a6bf-42d4-8e74-fe875a20850c",
+      "uuid": "c24ff5d3-306b-48e2-9d5e-8b9b4bd3fb6d",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 4.5,
-        "y": 52.6
+        "y": 60.6
       },
       "end": {
         "x": 4.5,
-        "y": 53.4
+        "y": 61.4
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "ac5e80d5-ea03-470e-9eee-29d0644830b7",
+      "uuid": "ff81abdd-af7d-446f-b304-6ace829613cd",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 4.9,
-        "y": 53.8
+        "y": 61.8
       },
       "end": {
         "x": 6.3,
-        "y": 53.8
+        "y": 61.8
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "6d50c0b5-4206-4f1c-8f38-8035bca1bfe1",
+      "uuid": "a0557054-3061-475c-805b-f8292a57a836",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 6.3,
-        "y": 51
+        "y": 59
       },
       "end": {
         "x": 6.7,
-        "y": 51.4
+        "y": 59.4
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "6ccf2e44-61bc-4738-ac9a-e48e51f98893",
+      "uuid": "00074063-364b-4aea-826d-47bd0d32215b",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 6.3,
-        "y": 60.6
+        "y": 68.6
       },
       "end": {
         "x": 4.9,
-        "y": 60.6
+        "y": 68.6
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "4a3193e8-4737-4606-b5ab-9787adb48fdc",
+      "uuid": "5e90a06c-7584-4939-b5f6-530a223c3af6",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 6.7,
-        "y": 51.4
-      },
-      "end": {
-        "x": 6.7,
-        "y": 51.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "2c61dac7-0551-4bbc-9e50-969bef204e02",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 45.4
-      },
-      "end": {
-        "x": 6.7,
-        "y": 45.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "9885487a-af58-47de-a45a-c87a2b49b17d",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
         "y": 59.4
       },
       "end": {
@@ -8561,21 +8337,133 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "01c76882-0f91-4367-8c9e-cb7c6cee6dd1",
+      "uuid": "d8d7c310-2cb3-4269-845e-d1200913c004",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
-        "x": 4.5,
-        "y": 56.2
+        "x": 6.3,
+        "y": 53.4
       },
       "end": {
-        "x": 4.9,
-        "y": 56.6
+        "x": 6.7,
+        "y": 53.8
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "d3f90539-bd00-4db8-bf8f-a8600564bbfe",
+      "uuid": "092f2e59-0738-4705-ba5e-775213658e9f",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.3,
+        "y": 67.4
+      },
+      "end": {
+        "x": 6.7,
+        "y": 67.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "94d73aa3-057f-45bb-aa48-7168069f1ec9",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 64.2
+      },
+      "end": {
+        "x": 4.9,
+        "y": 64.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "c90ed38b-44b1-459d-bb75-e196cf53db9e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 65
+      },
+      "end": {
+        "x": 6.7,
+        "y": 65.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "ced74e02-9617-47fe-8568-055c9253491a",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 57.4
+      },
+      "end": {
+        "x": 4.5,
+        "y": 57.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "6b3ffce7-ecc6-4591-b427-3a9ad606d5df",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 59
+      },
+      "end": {
+        "x": 6.3,
+        "y": 59
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "7ed4737c-f60c-4657-891f-a66d4b70a59b",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 62.2
+      },
+      "end": {
+        "x": 6.7,
+        "y": 62.6
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "1f78ec0f-6487-4819-bd32-d48a2e589d98",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 53.4
+      },
+      "end": {
+        "x": 6.3,
+        "y": 53.4
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "f653f827-b665-4ba2-9cdf-8b48c9abcc5e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.9,
+        "y": 56.2
+      },
+      "end": {
+        "x": 6.3,
+        "y": 56.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "8c669862-6bdc-4547-ad77-79f656224bb5",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
@@ -8583,379 +8471,345 @@
         "y": 57
       },
       "end": {
-        "x": 6.7,
+        "x": 6.3,
         "y": 57.4
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "5b127cda-0bf8-462d-8879-a794b4c2bbb8",
+      "uuid": "14b841b1-49b6-4516-8f7e-ae889909ef16",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
         "x": 4.9,
-        "y": 49.4
+        "y": 63
       },
       "end": {
         "x": 4.5,
-        "y": 49.8
+        "y": 63.4
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "02d2d459-3524-4818-85cb-628cf1890b7c",
+      "uuid": "f3344110-ac6c-46e4-a724-86345f0e2dcc",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
+        "x": 6.3,
+        "y": 61.8
+      },
+      "end": {
+        "x": 6.7,
+        "y": 62.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "b5757b07-f289-46b8-833d-44cedb4d22f5",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 10.5,
+        "y": 124.5
+      },
+      "end": {
+        "x": 10.5,
+        "y": 129.99
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "206ff124-0987-4c68-be52-9a8221c48474",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 61.4
+      },
+      "end": {
         "x": 4.9,
-        "y": 51
+        "y": 61.8
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "3232f931-2b76-4404-a16d-fb91f4fa9164",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 58.6
+      },
+      "end": {
+        "x": 4.9,
+        "y": 59
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "41ac4104-b80d-49be-9729-d4308631c55e",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 55.8
+      },
+      "end": {
+        "x": 4.9,
+        "y": 56.2
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "323f5c57-5680-49da-8481-49159cfd889c",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 118.5
+      },
+      "end": {
+        "x": 10.5,
+        "y": 124.5
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "f9fd5c99-7761-429d-af5c-ff0bb63b4871",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 4.5,
+        "y": 69
+      },
+      "end": {
+        "x": 4.5,
+        "y": 118.5
+      },
+      "net": "ETH_6"
+    },
+    {
+      "uuid": "d139f7ad-a2b4-408c-a969-60b85f94ab4d",
+      "layer": "B.Cu",
+      "width": 0.3,
+      "start": {
+        "x": 6.7,
+        "y": 59.8
       },
       "end": {
         "x": 6.3,
-        "y": 51
+        "y": 60.2
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "e9898d40-f9da-4203-bd23-3a5630d066e0",
+      "uuid": "d8d6acc4-9ea2-495d-a8d3-0792c0bd440c",
       "layer": "B.Cu",
       "width": 0.3,
       "start": {
-        "x": 6.7,
-        "y": 54.2
+        "x": 6.3,
+        "y": 54.6
       },
       "end": {
-        "x": 6.7,
+        "x": 4.9,
         "y": 54.6
       },
       "net": "ETH_6"
     },
     {
-      "uuid": "bfae26c4-d1c3-498a-9548-b4505cc23743",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 45.4
-      },
-      "end": {
-        "x": 6.3,
-        "y": 45.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "302c7409-2553-402a-baff-b27299a4f2e1",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 48.2
-      },
-      "end": {
-        "x": 6.3,
-        "y": 48.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "9e5001e7-47cd-4cfc-a68b-ec48fcddd2f0",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 49
-      },
-      "end": {
-        "x": 6.3,
-        "y": 49.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "a2b563e6-cc36-4128-ab1e-2dd23f5dfcb3",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.9,
-        "y": 55
-      },
-      "end": {
-        "x": 4.5,
-        "y": 55.4
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "fa9c8301-d93e-4df3-b3c1-dbdf442f2d73",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 53.8
-      },
-      "end": {
-        "x": 6.7,
-        "y": 54.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "3e5f32c8-e389-4a19-a0ca-27923a287a93",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 10.5,
-        "y": 116.5
-      },
-      "end": {
-        "x": 10.5,
-        "y": 121.99
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "5b86b5aa-7c0c-4643-a7a5-13e5f6a06c30",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 53.4
-      },
-      "end": {
-        "x": 4.9,
-        "y": 53.8
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "7deee9b2-0962-451f-a8e5-b669c3abf370",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 50.6
-      },
-      "end": {
-        "x": 4.9,
-        "y": 51
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "25b605e4-283f-466b-8ede-97bf9512a3a2",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 47.8
-      },
-      "end": {
-        "x": 4.9,
-        "y": 48.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "e8d52a0b-11f0-4479-9631-46443c69fd0d",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 110.5
-      },
-      "end": {
-        "x": 10.5,
-        "y": 116.5
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "f0b17b69-73f9-40f3-b024-3019b17f3973",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 4.5,
-        "y": 61
-      },
-      "end": {
-        "x": 4.5,
-        "y": 110.5
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "210cf69a-0134-4953-985f-94572a4a2acf",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.7,
-        "y": 51.8
-      },
-      "end": {
-        "x": 6.3,
-        "y": 52.2
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "97672025-55ac-4227-8c2b-26a03931a2f7",
-      "layer": "B.Cu",
-      "width": 0.3,
-      "start": {
-        "x": 6.3,
-        "y": 46.6
-      },
-      "end": {
-        "x": 4.9,
-        "y": 46.6
-      },
-      "net": "ETH_6"
-    },
-    {
-      "uuid": "afb90571-7aed-47dd-95c3-0f9d5091ce9c",
+      "uuid": "5aa58dbd-5fb9-472e-8126-be0c1ac59f25",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 8.8,
-        "y": 124.29
+        "y": 132.29
       },
       "end": {
         "x": 8,
-        "y": 123.49
+        "y": 131.49
       },
       "net": "PORT_N"
     },
     {
-      "uuid": "858b42ba-237e-483f-a74c-5e651fc7352d",
+      "uuid": "74ed7804-21af-461f-b3e3-0c47800178f0",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 8,
-        "y": 123.49
+        "y": 131.49
       },
       "end": {
         "x": 8,
-        "y": 112.8
+        "y": 120.8
       },
       "net": "PORT_N"
     },
     {
-      "uuid": "097079b9-f299-42ee-b438-dfd8f5283fa2",
+      "uuid": "0c348cf7-87f9-46d0-bce3-6953d2aa0f27",
       "layer": "F.Cu",
       "width": 0.8,
       "start": {
         "x": 16.43,
-        "y": 124.29
+        "y": 132.29
       },
       "end": {
         "x": 8.8,
-        "y": 124.29
+        "y": 132.29
       },
       "net": "PORT_N"
     },
     {
-      "uuid": "7ca9fbdc-6ac2-4620-94bd-c389278d9860",
+      "uuid": "c58a71a8-033c-4f75-a9d9-f1aff2535d56",
       "layer": "B.Cu",
       "width": 0.5,
       "start": {
         "x": 16.43,
-        "y": 124.29
+        "y": 132.29
       },
       "end": {
         "x": 17.45,
-        "y": 126.07
+        "y": 134.07
       },
       "net": "PORT_N"
     },
     {
-      "uuid": "76067ad6-bb0b-406e-8d50-08f4954a2354",
+      "uuid": "4d9fe6f5-2b69-448b-bcf9-d0dd2b33572a",
       "layer": "F.Cu",
       "width": 0.4,
       "start": {
         "x": 32.392,
-        "y": 45.95
+        "y": 53.95
       },
       "end": {
         "x": 33.444,
-        "y": 47.002
+        "y": 55.002
       },
       "net": "BK_ARM"
+    },
+    {
+      "uuid": "41287915-6642-4ec7-886f-95e873e6c784",
+      "layer": "B.Cu",
+      "width": 2,
+      "start": {
+        "x": 82.5,
+        "y": 34.6
+      },
+      "end": {
+        "x": 82.5,
+        "y": 36
+      },
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "fe0fe1b0-a5ee-47a1-aaa6-16f55be1fbe1",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 66.5,
+        "y": 52.38
+      },
+      "end": {
+        "x": 68.5,
+        "y": 52.38
+      },
+      "net": "GND"
+    },
+    {
+      "uuid": "5c5965ee-5e7c-444c-8f32-889457ac60e9",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 68.5,
+        "y": 51.7
+      },
+      "end": {
+        "x": 68.5,
+        "y": 53.05
+      },
+      "net": "GND"
+    },
+    {
+      "uuid": "b29afa81-f333-41db-a6af-6b3bf29bc1db",
+      "layer": "F.Cu",
+      "width": 1.5,
+      "start": {
+        "x": 69.56,
+        "y": 65.48
+      },
+      "end": {
+        "x": 71.56,
+        "y": 65.48
+      },
+      "net": "GND"
+    },
+    {
+      "uuid": "1e1c36ed-b1ba-45c2-863e-0a202a45968a",
+      "layer": "F.Cu",
+      "width": 1,
+      "start": {
+        "x": 71.56,
+        "y": 64.8
+      },
+      "end": {
+        "x": 71.56,
+        "y": 66.15
+      },
+      "net": "GND"
     }
   ],
   "vias": [
     {
-      "uuid": "ac24dd4f-4750-405d-a556-977aff425e3f",
+      "uuid": "f2922c3e-51a9-4db9-99ac-42b5679e1ffa",
       "at": {
         "x": 37,
-        "y": 61.7
+        "y": 69.7
       },
       "size": 1,
       "drill": 0.5,
       "net": ""
     },
     {
-      "uuid": "496f9b0e-2f30-4a58-9b5e-9ab116c25536",
-      "at": {
-        "x": 35,
-        "y": 20
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "U4_SW"
-    },
-    {
-      "uuid": "fe52ea13-70c4-44df-aced-773e5033fa2d",
-      "at": {
-        "x": 39.3,
-        "y": 20
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "U4_SW"
-    },
-    {
-      "uuid": "aa6f2e8d-8889-471e-97fd-38a5a767c1ee",
+      "uuid": "3b46b037-607b-4b97-8127-745201da458d",
       "at": {
         "x": 55.35,
-        "y": 98.575
+        "y": 106.575
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "071aae1e-4d36-4d50-bf17-d96a04178e1d",
+      "uuid": "860ec4e1-59dd-4a52-bdc4-2bc7ce28b7d8",
       "at": {
         "x": 70,
-        "y": 86.555
+        "y": 94.555
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "35a75550-2bce-499d-b316-61d252aac25e",
+      "uuid": "537c1bcc-8b73-446d-9d87-eee61be9ae74",
       "at": {
         "x": 61.48,
-        "y": 127.808
+        "y": 135.808
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "1518375e-60bf-454b-a21f-8283c3b5adea",
+      "uuid": "1fae77fa-ba34-4663-942f-c4900b2899bc",
       "at": {
         "x": 38.515,
-        "y": 113.71
+        "y": 121.71
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "d6e138f1-5018-4a6a-b630-cc49985fea3b",
+      "uuid": "c44f1eee-a870-4fdc-a1e5-227923f01405",
       "at": {
         "x": 60.225,
         "y": 10.95
@@ -8965,67 +8819,57 @@
       "net": "GND"
     },
     {
-      "uuid": "6acea550-a537-48ea-be1c-62c07b475132",
+      "uuid": "86b1bdf7-36f3-4d4a-b6c9-d6c6b924dbf4",
       "at": {
         "x": 55.4,
-        "y": 57.777
+        "y": 65.777
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "49bf1227-d262-4cb3-bf2f-c23de7005e67",
+      "uuid": "060e18ca-e9f3-46ea-b212-f2571fdedd13",
       "at": {
         "x": 24.03,
-        "y": 96.838
+        "y": 104.838
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "6d54d940-2085-4665-becf-0a04f54b6e2e",
+      "uuid": "47996a58-5463-4411-a525-1998cefaab3b",
       "at": {
         "x": 36.7,
-        "y": 106.805
+        "y": 114.805
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "f9665b98-f2de-489a-a0b2-8575d33f10f7",
-      "at": {
-        "x": 71.56,
-        "y": 57.48
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "GND"
-    },
-    {
-      "uuid": "49d0f1be-fc6a-4b46-8f63-6fececae2c16",
+      "uuid": "cbb3c86f-752a-48ac-a20b-bf23f7ba1f83",
       "at": {
         "x": 32.583,
-        "y": 108.293
+        "y": 116.293
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "2d5cbdef-1362-4c49-884e-828cefec03fa",
+      "uuid": "88289f11-25e3-4650-b2ac-ff72f5de03a4",
       "at": {
         "x": 51.1,
-        "y": 50.915
+        "y": 58.915
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "6f10ecd2-0eef-429a-89b5-c5ee6282873a",
+      "uuid": "392cda5f-ebb3-4642-804e-b5efb17f1aec",
       "at": {
         "x": 57.225,
         "y": 11.85
@@ -9035,17 +8879,17 @@
       "net": "GND"
     },
     {
-      "uuid": "440f959c-1521-4c1d-b6ea-6efd720138e5",
+      "uuid": "fec692f5-6c1b-4550-8a4e-518e31ec5c3d",
       "at": {
         "x": 74.8,
-        "y": 104.85
+        "y": 112.85
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "1c4cc8f4-b669-45a9-b861-6686eb242b49",
+      "uuid": "f61fb166-3529-4b58-a90e-4216d1cee762",
       "at": {
         "x": 67.225,
         "y": 10.95
@@ -9055,47 +8899,37 @@
       "net": "GND"
     },
     {
-      "uuid": "4be35f62-99fd-4e4e-93fb-ff5c47da6225",
+      "uuid": "c2d27c77-2c1b-4c3e-95f5-166a20f12d98",
       "at": {
         "x": 40.79,
-        "y": 66.165
+        "y": 74.165
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "16e784a8-8e7b-45af-a294-5cb25b771122",
+      "uuid": "c6a16c30-c12e-4bf6-a684-aab8594ac546",
       "at": {
         "x": 64.455,
-        "y": 80.75
+        "y": 88.75
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "4288208b-cb76-4233-8fa3-08b31d3aff50",
-      "at": {
-        "x": 43.265,
-        "y": 34.88
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "GND"
-    },
-    {
-      "uuid": "c3480bfc-2651-443e-a5f1-d224f9fea5ad",
+      "uuid": "c543f6c2-b7aa-4cbd-9cd0-40ce94d983cf",
       "at": {
         "x": 52.38,
-        "y": 91.118
+        "y": 99.118
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "52b614cd-b209-4099-9787-ab9881841310",
+      "uuid": "428f355d-6c64-45db-b20e-364ca72af17f",
       "at": {
         "x": 60.16,
         "y": 33.087
@@ -9105,77 +8939,77 @@
       "net": "GND"
     },
     {
-      "uuid": "0b7b76d2-a5c1-462c-b2c8-d0e2b56ae33a",
+      "uuid": "b37e4869-fd0f-41f3-a8be-95f9002d3e9c",
       "at": {
         "x": 21.025,
-        "y": 96.8
+        "y": 104.8
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "f088fd17-6b69-4c23-8942-ff36951e4de4",
+      "uuid": "cc81e4fd-c7a8-4e51-8c22-da1a715c40b0",
       "at": {
         "x": 49.355,
-        "y": 127.77
+        "y": 135.77
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "9ca8661c-9812-4ced-8afe-30607b91762a",
+      "uuid": "5122fa6f-d430-4d29-872a-df5b92e2fcf3",
       "at": {
         "x": 41,
-        "y": 106.805
+        "y": 114.805
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "5c356a26-9e9b-4d63-9035-b04ca3ecd212",
+      "uuid": "6c24062b-2bc2-4abe-8960-622a019846a0",
       "at": {
         "x": 53.9,
-        "y": 63.768
+        "y": 71.768
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "f06dc5a9-23dc-4aad-a6ca-f8cda4880695",
+      "uuid": "193b533b-4e10-4ae2-8d43-f678dbaf6200",
       "at": {
         "x": 79.755,
-        "y": 107.812
+        "y": 115.812
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "635ac9a7-f1a7-4d4d-9ded-b1a84b2fa30a",
+      "uuid": "cf36a4b8-cda3-4eb5-9cb8-5a26641652c6",
       "at": {
         "x": 70.4,
-        "y": 69.905
+        "y": 77.905
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "6d16c932-6c11-456a-8e34-213cee88ea12",
+      "uuid": "e63ec83f-8733-47ff-aaf5-95beff010305",
       "at": {
         "x": 70.52,
-        "y": 80.788
+        "y": 88.788
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "e27d9289-80a2-43b6-acc3-17c7bc4eda53",
+      "uuid": "94488fbc-2001-42b6-9195-e7f230f9790f",
       "at": {
         "x": 54.975,
         "y": 27.85
@@ -9185,17 +9019,17 @@
       "net": "GND"
     },
     {
-      "uuid": "037eb459-210f-4666-9559-d1cdf2ba98f3",
+      "uuid": "9e533fc6-ec32-4043-a36d-e945b8b2deb2",
       "at": {
         "x": 47.58,
-        "y": 113.748
+        "y": 121.748
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "8a3cabe8-902b-48c6-be7f-434b139655f3",
+      "uuid": "58842fa3-3dc5-45ff-9eed-4a6a421bb08e",
       "at": {
         "x": 58.475,
         "y": 27.85
@@ -9205,57 +9039,57 @@
       "net": "GND"
     },
     {
-      "uuid": "72497570-dd73-4b20-ba50-62e181eb1794",
+      "uuid": "3aacef5a-8558-4905-92a6-17d5bb8603cf",
       "at": {
         "x": 45.3,
-        "y": 106.805
+        "y": 114.805
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "caa83709-f4f3-41a4-a7a4-58950037e088",
+      "uuid": "a023fd08-c7cd-4667-819c-b67e2d7f9446",
       "at": {
         "x": 19.4,
-        "y": 67.5
+        "y": 75.5
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "629eeea7-39a7-4840-a722-636bde476111",
+      "uuid": "4bf66c3d-425b-4dfb-a0ab-395b7fc5b911",
       "at": {
         "x": 47.7,
-        "y": 50.915
+        "y": 58.915
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "f4af55c3-5083-4ef0-ae81-df44c2eff7c4",
+      "uuid": "6ed429e2-263f-43a3-909a-e8c6d6c62523",
       "at": {
         "x": 46.4,
-        "y": 57.777
+        "y": 65.777
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "ccef5616-09c8-4f0a-947b-4cf10f439a36",
+      "uuid": "07eb6d03-3c55-4075-b9fa-829ff01d3390",
       "at": {
         "x": 55.635,
-        "y": 120.56
+        "y": 128.56
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "8850bc1c-35ac-418e-8c63-f9c5f13867d3",
+      "uuid": "01ea9486-36bb-4e97-b89a-a54d8356bf95",
       "at": {
         "x": 63.725,
         "y": 10.95
@@ -9265,7 +9099,7 @@
       "net": "GND"
     },
     {
-      "uuid": "30040cd2-4ad3-40f4-b747-0511d77efc9b",
+      "uuid": "e6c50439-8a7f-4c97-a5a5-93c5d96181bf",
       "at": {
         "x": 66.515,
         "y": 22
@@ -9275,47 +9109,47 @@
       "net": "GND"
     },
     {
-      "uuid": "031d0b9e-7d9a-4286-bed3-485c75d0c47b",
+      "uuid": "286487d1-8ad6-4490-83d5-6ab8e0bcd80f",
       "at": {
         "x": 26.225,
-        "y": 107.375
+        "y": 115.375
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "fbaa71dc-d0d5-44ec-99bb-a9ad2f04bd36",
+      "uuid": "c3964136-3b35-4e01-a2ff-9e0f90fcf38f",
       "at": {
         "x": 40.95,
-        "y": 83.7
+        "y": 91.7
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "daf30139-165c-4b89-bbeb-83ecfdd2e663",
+      "uuid": "cadabe86-0ca8-45f5-bf59-a48f9ade7875",
       "at": {
         "x": 19.955,
-        "y": 56.71
+        "y": 64.71
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "1e4c2737-9bb7-465e-9c3f-257c7568ef1f",
+      "uuid": "d067ed26-4aa7-47d0-9752-3851cf57a616",
       "at": {
         "x": 13.9,
-        "y": 56.747
+        "y": 64.747
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "6f9a7d7d-c4d7-415c-b5f3-f64a03f98bb0",
+      "uuid": "77124409-4989-4426-a2e4-82d443469353",
       "at": {
         "x": 73,
         "y": 13.1
@@ -9325,27 +9159,27 @@
       "net": "GND"
     },
     {
-      "uuid": "1050a36c-8edc-45e1-b964-f95c7cf9ad28",
+      "uuid": "3af65de8-0590-4089-87f0-48f64ef65c78",
       "at": {
         "x": 46.3,
-        "y": 127.245
+        "y": 135.245
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "3b447362-ef19-4b66-b5d1-6d5d33700b8c",
+      "uuid": "383f1a67-6aca-490e-a8e3-2b8c2f020f1d",
       "at": {
         "x": 42,
-        "y": 127.245
+        "y": 135.245
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "f85ca7b5-b65a-4521-a53d-d28f469af15d",
+      "uuid": "ba649b09-9675-4c9b-9529-a5e64e61c304",
       "at": {
         "x": 51.455,
         "y": 33.05
@@ -9355,17 +9189,17 @@
       "net": "GND"
     },
     {
-      "uuid": "33d56451-7e87-464b-b7ce-58f8360399aa",
+      "uuid": "f75ceac0-1cbe-4135-9410-654de34625d3",
       "at": {
         "x": 74.66,
-        "y": 49.847
+        "y": 57.847
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "b54f4944-5acf-4e23-aafc-e8bb0d95c1fa",
+      "uuid": "21398b59-c015-4035-9f0f-6bf74fda1d29",
       "at": {
         "x": 61.975,
         "y": 27.85
@@ -9375,37 +9209,37 @@
       "net": "GND"
     },
     {
-      "uuid": "ecd6dd17-9c9d-4951-8386-b40267483c38",
+      "uuid": "ee3929c6-56a2-46de-8bfd-cde3011be52f",
       "at": {
         "x": 73.4,
-        "y": 70.468
+        "y": 78.468
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "3eb908c2-97fd-41ed-a4d1-2905be529a9d",
+      "uuid": "890611a3-3f4d-4537-bf79-872d0964b7a0",
       "at": {
         "x": 54.635,
-        "y": 100.06
+        "y": 108.06
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "68185be4-05a8-40f1-87dc-b51338e2bb3d",
+      "uuid": "d825abe1-509c-4a6c-a3b0-d18f3866a73c",
       "at": {
         "x": 34.627,
-        "y": 92.03
+        "y": 100.03
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "e3457138-c4d1-4edc-af42-333d5eb015d9",
+      "uuid": "6388b05f-9b54-4093-9815-35fa805c0f7d",
       "at": {
         "x": 69.975,
         "y": 22
@@ -9415,77 +9249,57 @@
       "net": "GND"
     },
     {
-      "uuid": "d4ddd207-1433-4ec3-8f3c-067cfddc5987",
-      "at": {
-        "x": 68.5,
-        "y": 44.38
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "GND"
-    },
-    {
-      "uuid": "38108458-48a0-4fb6-a800-bb3ae3e615d4",
+      "uuid": "122d7c47-ee74-4a3b-bf17-0c1e72c84c55",
       "at": {
         "x": 49.38,
-        "y": 91.118
+        "y": 99.118
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "d478de70-345b-4d90-844b-259bd2c3e00a",
+      "uuid": "813b5c2e-168b-4e40-883b-587aa3aa433d",
       "at": {
         "x": 81.717,
-        "y": 64.183
+        "y": 72.183
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "c8ded4b1-fc89-41e8-aba1-7c82ec8d9739",
+      "uuid": "d7d9408d-a89c-4790-8084-6e9de0a0731b",
       "at": {
         "x": 48.155,
-        "y": 64.68
+        "y": 72.68
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "4fc8b80b-82a6-4e28-907e-9228fd9bbb57",
-      "at": {
-        "x": 9.2,
-        "y": 18.675
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "GND"
-    },
-    {
-      "uuid": "731fb277-9042-4ed3-a05c-220063661794",
+      "uuid": "ba989eb0-9b17-4ec4-ac4b-0732ed7a6a95",
       "at": {
         "x": 79.455,
-        "y": 70.43
+        "y": 78.43
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "246e2620-359d-4aae-8786-65e320037bf1",
+      "uuid": "f2d8dfcc-c716-4f6d-a51f-dd6f23190984",
       "at": {
         "x": 55.48,
-        "y": 91.118
+        "y": 99.118
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "86ec0062-e287-48eb-9c20-4a228d4a2af3",
+      "uuid": "9c9455f3-9391-49bb-b3fa-0e2efb04692f",
       "at": {
         "x": 53.725,
         "y": 11.85
@@ -9495,37 +9309,37 @@
       "net": "GND"
     },
     {
-      "uuid": "f3cfb9f6-a242-45dd-890e-63be199f7aa5",
+      "uuid": "18989e77-ea7d-43b8-a9ef-49d382db5a82",
       "at": {
         "x": 35.175,
-        "y": 52.343
+        "y": 60.343
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "960779eb-7b0c-4c3b-8394-43da37c67c06",
+      "uuid": "9a6ed024-59a9-42d4-9d53-f9a32b5f5410",
       "at": {
         "x": 43.38,
-        "y": 91.118
+        "y": 99.118
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "b12bb59e-cc3d-491f-bb27-568f5abae6da",
+      "uuid": "70c596a4-ee84-4b85-afd7-cf743bd92a88",
       "at": {
         "x": 66.15,
-        "y": 71.38
+        "y": 79.38
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "f6dd5745-06c8-40e2-88e6-5687add29323",
+      "uuid": "42b6e1f9-5cb1-4f24-ba25-55378aa60f71",
       "at": {
         "x": 51.455,
         "y": 27.85
@@ -9535,7 +9349,7 @@
       "net": "GND"
     },
     {
-      "uuid": "dbd4a2fb-e570-4431-a3dc-0da92dcd75b9",
+      "uuid": "e7899f41-2e4c-4a0c-b5de-933fac5f141b",
       "at": {
         "x": 63.055,
         "y": 22
@@ -9545,107 +9359,97 @@
       "net": "GND"
     },
     {
-      "uuid": "5b2fc09a-179f-46c1-bb70-b036382709a1",
+      "uuid": "0fc08a78-285e-41c8-a634-3a30c76c6630",
       "at": {
         "x": 16.9,
-        "y": 56.747
+        "y": 64.747
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "faf8cdd2-05e9-4756-830c-accc6424cdc9",
+      "uuid": "b258180b-7152-43f6-8d90-c4d61df91f27",
       "at": {
         "x": 16.065,
-        "y": 107.3
+        "y": 115.3
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "9c55119c-4ef9-4be1-ab4c-097fe06100ed",
+      "uuid": "03fe6843-4113-4ca9-a50a-d8d9bb97fe4b",
       "at": {
         "x": 19.7,
-        "y": 90.555
+        "y": 98.555
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "b0a72275-917a-492d-92d4-34eebc03ed1a",
+      "uuid": "af0a85b6-818e-4a64-a217-9d5d63012b90",
       "at": {
         "x": 76.52,
-        "y": 80.788
+        "y": 88.788
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "17960d8c-bec4-4e0b-a0b9-05dadd28033c",
+      "uuid": "caec37f0-a357-46ad-8930-e91cc0ac865c",
       "at": {
         "x": 35.455,
-        "y": 113.71
+        "y": 121.71
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "2e4337b8-3eab-40d8-a478-434733aae50a",
+      "uuid": "6954ac7e-9eea-4d6d-826c-1c8a633f6c87",
       "at": {
         "x": 54.155,
-        "y": 51.44
+        "y": 59.44
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "b7597353-e429-474d-9ea8-dc1721f2a637",
+      "uuid": "e728b47e-6310-47bf-b1a0-a19f6fc66dd3",
       "at": {
         "x": 37.7,
-        "y": 127.245
+        "y": 135.245
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "8e497c49-775d-42c0-8189-de528d729b9b",
+      "uuid": "5f788171-338b-4a80-a965-51d94e3a6e7a",
       "at": {
         "x": 65.7,
-        "y": 86.555
+        "y": 94.555
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "c95a0f66-8bc2-4e60-a9cc-4ab06cbfe3c2",
+      "uuid": "3c3ba474-6cc4-44ac-8e7f-e5029db91666",
       "at": {
         "x": 7.9,
-        "y": 102.068
+        "y": 110.068
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "GND"
     },
     {
-      "uuid": "3b2385ed-43e8-4728-bc07-4b1da39bf276",
-      "at": {
-        "x": 48.48,
-        "y": 26.845
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "GND"
-    },
-    {
-      "uuid": "58fe670d-ed5b-4d0f-a0d5-08bdf6a13835",
+      "uuid": "a0fefeef-07be-4c98-b0a9-6225627a900e",
       "at": {
         "x": 37.145,
         "y": 34.88
@@ -9655,159 +9459,159 @@
       "net": "+3V3"
     },
     {
-      "uuid": "7fd8807e-cb17-44d4-8e79-aff6e54c44bf",
-      "at": {
-        "x": 41.18,
-        "y": 27.407
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "U4_FB"
-    },
-    {
-      "uuid": "1c0914ad-faa9-4f8d-9d85-fc9dc5f72ab5",
+      "uuid": "be975bcb-07d4-4983-b469-8ffbb96260f9",
       "at": {
         "x": 59.9,
-        "y": 74.6
+        "y": 82.6
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "c315e066-2603-4443-9381-40763ff5849a",
+      "uuid": "0d5e5610-6133-4b04-af17-cc8203aa438d",
       "at": {
         "x": 12,
-        "y": 74.6
+        "y": 82.6
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "5b518c7c-4d09-44bc-9556-45543c8bee32",
+      "uuid": "3a7b890c-e5d0-41d1-90e1-f93e3f35b575",
       "at": {
         "x": 59.9,
-        "y": 40.9
+        "y": 48.9
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "55f942ba-7eb8-4958-a5d0-c10adfe911a0",
+      "uuid": "01315379-a841-4415-886e-98b7773ea30c",
       "at": {
         "x": 22.65,
-        "y": 74.45
+        "y": 82.45
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "a3add107-132f-4eab-bd40-d2c19df666cd",
+      "uuid": "cf0d4f72-01c8-477d-b185-31f6c0f93273",
       "at": {
         "x": 59.9,
-        "y": 89.5
+        "y": 97.5
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "a0ada016-757a-4927-8251-e9a33fee5843",
+      "uuid": "ccf41736-6016-41d6-b917-cf353dd9673f",
       "at": {
         "x": 59.9,
-        "y": 111.2
+        "y": 119.2
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "17a8351b-95c9-4b50-9a6d-2d296c93a268",
+      "uuid": "e57117e4-3a78-4e8c-902d-a4e4ae10e085",
       "at": {
         "x": 55,
-        "y": 74.6
+        "y": 82.6
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "d91cc3f0-a6d1-4a15-b97d-7ecf39841dce",
+      "uuid": "93ad6af9-e3a5-4354-abfa-4dcd12e0e9c3",
       "at": {
         "x": 12,
-        "y": 49.4
+        "y": 57.4
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "04d6e80c-fb15-4d16-99bf-152422eea8ca",
+      "uuid": "8ae1c2dd-fac0-4a5e-934e-6d2a33a5bba9",
       "at": {
         "x": 58.45,
-        "y": 123.6
+        "y": 131.6
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "e296e3c5-d248-4c3f-87ea-6af5e87e3f59",
+      "uuid": "39c4ddb9-4a5a-496c-9094-ca2bb0ca8fd3",
       "at": {
         "x": 59.9,
-        "y": 112.5
+        "y": 120.5
       },
       "size": 1,
       "drill": 0.5,
       "net": "+12V"
     },
     {
-      "uuid": "ed86dff1-50b9-4755-8cfb-47a310502e19",
+      "uuid": "9a076b41-7d4b-483b-85bd-1594a01e54fa",
       "at": {
         "x": 57.45,
-        "y": 101.525
+        "y": 109.525
       },
       "size": 1,
       "drill": 0.5,
       "net": "VIN"
     },
     {
-      "uuid": "8b4665a2-fff4-4093-8f1a-3fd45cd4edd7",
+      "uuid": "7d75cda2-9f80-4970-b39a-a26040e13fef",
       "at": {
         "x": 80.8,
-        "y": 56.845
+        "y": 64.845
       },
       "size": 1,
       "drill": 0.5,
       "net": "VIN"
     },
     {
-      "uuid": "a14203c3-dca8-4e3b-9d7c-742aa47bef02",
+      "uuid": "72f6d3b9-b60c-406f-a20f-e5527ccfe9b1",
       "at": {
         "x": 80.8,
-        "y": 55.6
+        "y": 63.6
       },
       "size": 1,
       "drill": 0.5,
       "net": "VIN"
     },
     {
-      "uuid": "aa505553-4a5d-40cc-bb80-24da775ced0f",
+      "uuid": "f68c3069-747e-4d2a-a75d-1f33d0c926af",
       "at": {
         "x": 80.8,
-        "y": 43.745
+        "y": 51.745
       },
       "size": 1,
       "drill": 0.5,
       "net": "VIN"
     },
     {
-      "uuid": "098af704-4922-4844-a318-48b05ede0387",
+      "uuid": "d53f9274-1329-400b-99ee-2eacb49ff53a",
       "at": {
         "x": 80.8,
+        "y": 53
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN"
+    },
+    {
+      "uuid": "b6988b4b-ff02-4956-bd8c-ff8ad97e97d0",
+      "at": {
+        "x": 50.2,
         "y": 45
       },
       "size": 1,
@@ -9815,57 +9619,7 @@
       "net": "VIN"
     },
     {
-      "uuid": "c8f80a7e-8d47-4c02-9b2f-00f2a8678238",
-      "at": {
-        "x": 46.6,
-        "y": 37
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "VIN"
-    },
-    {
-      "uuid": "3473b8b3-9060-472f-9c82-4da830af3f68",
-      "at": {
-        "x": 15.2,
-        "y": 32.6
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "bb9355eb-c0b9-4a6c-836d-4e996cc26687",
-      "at": {
-        "x": 17.6,
-        "y": 15.5
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "b708321a-016c-41f2-b5bf-01faf3cbc688",
-      "at": {
-        "x": 17.6,
-        "y": 32.6
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "7ebd636a-b8cb-4082-a9d6-4123e4cf18e9",
-      "at": {
-        "x": 18.9,
-        "y": 15.5
-      },
-      "size": 1,
-      "drill": 0.5,
-      "net": "LAPTOP_OUT"
-    },
-    {
-      "uuid": "a6993917-c79c-4a73-a736-59c04076743e",
+      "uuid": "6b4aafea-6ccf-49bc-93a7-f88965ac43f9",
       "at": {
         "x": 82.5,
         "y": 34.6
@@ -9875,7 +9629,7 @@
       "net": "VIN_USB"
     },
     {
-      "uuid": "a40e3cee-7765-44b5-8ef9-854faae7648e",
+      "uuid": "cc237aaa-4d70-4d72-9b13-ff0c48a2063b",
       "at": {
         "x": 75.3,
         "y": 18
@@ -9885,7 +9639,7 @@
       "net": "VIN_USB"
     },
     {
-      "uuid": "913f991c-0e6f-4c8c-8374-07b34c447990",
+      "uuid": "62917d6c-154c-41fb-8726-3b5900370565",
       "at": {
         "x": 75.3,
         "y": 20
@@ -9895,27 +9649,17 @@
       "net": "VIN_USB"
     },
     {
-      "uuid": "0ada7f41-a362-4c04-aa96-fe78d44da842",
-      "at": {
-        "x": 43.6,
-        "y": 20
-      },
-      "size": 0.6,
-      "drill": 0.3,
-      "net": "U4_RON"
-    },
-    {
-      "uuid": "cc17b412-4dcd-43c4-9481-b627040d0449",
+      "uuid": "79abe5b3-cefc-4180-8980-8500c961891a",
       "at": {
         "x": 9.6,
-        "y": 119.59
+        "y": 127.59
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "ETH_3"
     },
     {
-      "uuid": "0ad0ce39-f669-4759-ae25-3500faaefe89",
+      "uuid": "35bd8d6a-36fa-4d1e-92c0-37fd61a98dda",
       "at": {
         "x": 9.6,
         "y": 12.41
@@ -9925,17 +9669,17 @@
       "net": "ETH_3"
     },
     {
-      "uuid": "01e94946-1d81-4b0b-810e-35630d4b18a5",
+      "uuid": "41bbbd04-ebbb-4ba4-bb46-35fb0b996195",
       "at": {
         "x": 10.5,
-        "y": 121.99
+        "y": 129.99
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "ETH_6"
     },
     {
-      "uuid": "9e5c5b79-65cf-408f-abe2-feae7a3d116f",
+      "uuid": "bde6d157-e926-418f-a072-54368d64f42c",
       "at": {
         "x": 10.5,
         "y": 11.01
@@ -9945,14 +9689,64 @@
       "net": "ETH_6"
     },
     {
-      "uuid": "69cbaa1c-01b7-4222-a8ab-efbe473d2ee9",
+      "uuid": "e89895b7-ea07-4f88-84f2-df74441b66db",
       "at": {
         "x": 33.444,
-        "y": 47.002
+        "y": 55.002
       },
       "size": 0.6,
       "drill": 0.3,
       "net": "BK_ARM"
+    },
+    {
+      "uuid": "3df0ec97-34bc-4649-9377-79f64950197d",
+      "at": {
+        "x": 82.5,
+        "y": 36
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "VIN_USB"
+    },
+    {
+      "uuid": "c78ed26e-e4bb-470a-9a46-2a5f6192a5bb",
+      "at": {
+        "x": 68.5,
+        "y": 51.7
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "GND"
+    },
+    {
+      "uuid": "313f6958-49f9-4d2e-ab17-f0dc94c06e35",
+      "at": {
+        "x": 68.5,
+        "y": 53.05
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "GND"
+    },
+    {
+      "uuid": "3d102c4c-e1f3-4200-bcca-f859d7e11a93",
+      "at": {
+        "x": 71.56,
+        "y": 64.8
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "GND"
+    },
+    {
+      "uuid": "fb157bd2-342b-4170-9115-27e4f7eac6a7",
+      "at": {
+        "x": 71.56,
+        "y": 66.15
+      },
+      "size": 1,
+      "drill": 0.5,
+      "net": "GND"
     }
   ],
   "zones": [
