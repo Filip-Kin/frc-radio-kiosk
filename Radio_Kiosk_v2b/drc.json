@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2026-09-24T20:51:45",
+    "date": "2026-09-24T20:52:25",
     "ignored_checks": [
         {
             "description": "Footprint has no courtyard defined",
@@ -2015,12 +2015,12 @@
             "description": "Missing connection between items",
             "items": [
                 {
-                    "description": "Track [USB_DM_CON] on F.Cu, length 3.8550 mm",
+                    "description": "Pad B7 [USB_DM_CON] of J12 on F.Cu",
                     "pos": {
                         "x": 49.25,
-                        "y": 11.25
+                        "y": 7.395
                     },
-                    "uuid": "f598cae7-bf0b-4015-9c8e-408ab73f5413"
+                    "uuid": "96622dcb-c1cc-4b7d-8455-8cd0ce1e5c34"
                 },
                 {
                     "description": "Pad A7 [USB_DM_CON] of J12 on F.Cu",
@@ -2046,12 +2046,12 @@
                     "uuid": "6a642da3-3122-4031-a6e9-68498b0f5bb9"
                 },
                 {
-                    "description": "Track [USB_DP_CON] on F.Cu, length 3.9550 mm",
+                    "description": "Pad B6 [USB_DP_CON] of J12 on F.Cu",
                     "pos": {
                         "x": 47.75,
-                        "y": 11.35
+                        "y": 7.395
                     },
-                    "uuid": "bbcf5b1e-4e11-43cb-a169-cf7c94f82301"
+                    "uuid": "efc27675-62a0-44de-8210-29c2190dd309"
                 }
             ],
             "severity": "error",
@@ -2092,12 +2092,12 @@
                     "uuid": "5917a05c-614f-4874-ac86-bb9a91828f2d"
                 },
                 {
-                    "description": "Track [USB_VBUS] on F.Cu, length 1.7854 mm",
+                    "description": "Track [USB_VBUS] on F.Cu, length 4.1550 mm",
                     "pos": {
-                        "x": 49.6875,
-                        "y": 12.8125
+                        "x": 50.95,
+                        "y": 11.55
                     },
-                    "uuid": "6d988a05-b53c-4f25-92cd-ff911b88ff17"
+                    "uuid": "78946da4-cfec-4599-b94e-313a25dc4072"
                 }
             ],
             "severity": "error",
@@ -7673,43 +7673,20 @@
             "description": "Missing connection between items",
             "items": [
                 {
+                    "description": "Pad 1 [PORT_N] of C71 on F.Cu",
+                    "pos": {
+                        "x": 21.9,
+                        "y": 101.505
+                    },
+                    "uuid": "3e65383b-7fa4-412b-95d0-2f7a95875331"
+                },
+                {
                     "description": "PTH pad 8 [PORT_N] of J5",
                     "pos": {
                         "x": 16.43,
                         "y": 132.29
                     },
                     "uuid": "1d74195b-e28b-48e4-a3cd-9502f46e2f27"
-                },
-                {
-                    "description": "Pad 1 [PORT_N] of C71 on F.Cu",
-                    "pos": {
-                        "x": 21.9,
-                        "y": 101.505
-                    },
-                    "uuid": "3e65383b-7fa4-412b-95d0-2f7a95875331"
-                }
-            ],
-            "severity": "error",
-            "type": "unconnected_items"
-        },
-        {
-            "description": "Missing connection between items",
-            "items": [
-                {
-                    "description": "Pad 1 [PORT_N] of C71 on F.Cu",
-                    "pos": {
-                        "x": 21.9,
-                        "y": 101.505
-                    },
-                    "uuid": "3e65383b-7fa4-412b-95d0-2f7a95875331"
-                },
-                {
-                    "description": "Pad 7 [PORT_N] of U22 on F.Cu",
-                    "pos": {
-                        "x": 24.595,
-                        "y": 94.175
-                    },
-                    "uuid": "e0c89966-3ac5-491d-ad75-63d3feeb0452"
                 }
             ],
             "severity": "error",
@@ -7726,6 +7703,21 @@
                     },
                     "uuid": "e0c89966-3ac5-491d-ad75-63d3feeb0452"
                 },
+                {
+                    "description": "Pad 1 [PORT_N] of C71 on F.Cu",
+                    "pos": {
+                        "x": 21.9,
+                        "y": 101.505
+                    },
+                    "uuid": "3e65383b-7fa4-412b-95d0-2f7a95875331"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
                 {
                     "description": "Pad 5 [PORT_N] of Q22 on F.Cu",
                     "pos": {
@@ -7733,6 +7725,14 @@
                         "y": 91.7
                     },
                     "uuid": "94bd135a-54d9-458a-8866-b6514996e8c3"
+                },
+                {
+                    "description": "Pad 7 [PORT_N] of U22 on F.Cu",
+                    "pos": {
+                        "x": 24.595,
+                        "y": 94.175
+                    },
+                    "uuid": "e0c89966-3ac5-491d-ad75-63d3feeb0452"
                 }
             ],
             "severity": "error",
@@ -7995,12 +7995,12 @@
             "description": "Missing connection between items",
             "items": [
                 {
-                    "description": "Track [BK_ARM] on F.Cu, length 1.4878 mm",
+                    "description": "Pad 2 [BK_ARM] of Q9 on F.Cu",
                     "pos": {
-                        "x": 32.392,
+                        "x": 32.3925,
                         "y": 53.95
                     },
-                    "uuid": "0f9dcd2c-8f66-4445-b60e-fa9f46cbe8eb"
+                    "uuid": "043cacb6-957f-495d-ba49-b54e07d83212"
                 },
                 {
                     "description": "Pad 3 [BK_ARM] of Q10 on F.Cu",
@@ -8773,36 +8773,6 @@
             ],
             "severity": "warning",
             "type": "via_dangling"
-        },
-        {
-            "description": "Track has unconnected end",
-            "items": [
-                {
-                    "description": "Track [PORT_N] on F.Cu, length 1.1314 mm",
-                    "pos": {
-                        "x": 8.8,
-                        "y": 132.29
-                    },
-                    "uuid": "0d727141-b81e-489f-a1b0-3ea6a3a3b61b"
-                }
-            ],
-            "severity": "warning",
-            "type": "track_dangling"
-        },
-        {
-            "description": "Track has unconnected end",
-            "items": [
-                {
-                    "description": "Track [BK_ARM] on F.Cu, length 1.4878 mm",
-                    "pos": {
-                        "x": 32.392,
-                        "y": 53.95
-                    },
-                    "uuid": "0f9dcd2c-8f66-4445-b60e-fa9f46cbe8eb"
-                }
-            ],
-            "severity": "warning",
-            "type": "track_dangling"
         },
         {
             "description": "Silkscreen clipped by board edge",
