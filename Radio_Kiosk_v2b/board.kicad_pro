@@ -510,6 +510,14 @@
       {
         "netclass": "Wide",
         "pattern": "U4_SW"
+      },
+      {
+        "netclass": "Wide",
+        "pattern": "U3_SW"
+      },
+      {
+        "netclass": "Wide",
+        "pattern": "U5_SW"
       }
     ]
   },
