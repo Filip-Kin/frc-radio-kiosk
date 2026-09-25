@@ -19,12 +19,12 @@
  "PD_SCL": "38",
  "PD_SDA": "39",
  "PORT_SENSE": "17",
- "PORT_SW": "13",
+ "PORT_SW": "4",
  "PSE_EN": "26",
  "PSE_ON": "22",
  "TEMP_SENSE": "16",
  "TEST_LOAD": "30",
  "USB_DIS": "41",
- "USB_ISENSE": "10",
+ "USB_ISENSE": "13",
  "VIN_SENSE": "11"
 }

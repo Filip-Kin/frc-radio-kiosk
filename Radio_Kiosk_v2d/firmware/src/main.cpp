@@ -34,7 +34,7 @@ static const int PIN_PACK_SENSE = PA2;     // 1M/150k after the pack ideal diode
 static const int PIN_PASSIVE_IMON = PA5;   // TPS26600 IMON into 10k: 0.78 V/A
 static const int PIN_TEMP_SENSE = PA6;     // 10k / NTC 10k B3380 to GND
 static const int PIN_FAN_SENSE = PB0;      // 1R shunt through 10k/10n
-static const int PIN_USB_ISENSE = PA0;     // INA180A1 x20 on 20 mR: 0.4 V/A
+static const int PIN_USB_ISENSE = PA3;     // INA180A1 x20 on 20 mR: 0.4 V/A
 static const int PIN_DCIN_SENSE = PB1;     // 33k/4.7k on the DC jack
 static const int PIN_PORT_SENSE = PA7;     // 1M/51k on PORT_P: 20.6 V per volt
 static const int PIN_LAPTOP_ISENSE = PA4;  // INA180A1 x20 on 20 mR: 0.4 V/A
@@ -44,7 +44,7 @@ static const int PIN_TEST_LOAD = PA9;
 static const int PIN_BOOST_SD = PB14;      // high = boost off (pulled up at reset)
 static const int PIN_PASSIVE_EN = PB10;
 static const int PIN_PSE_EN = PB13;
-static const int PIN_PORT_SW = PA3;       // high closes Q23: boost output onto the port
+static const int PIN_PORT_SW = PC15;       // high closes Q23: boost output onto the port
 static const int PIN_USB_DIS = PB5;        // high drops the USB-C input path
 static const int PIN_FAN_PWM = PB4;        // TIM3_CH1
 static const int PIN_LED_DATA = PB8;       // through the AHCT buffer to two WS2812B-4020

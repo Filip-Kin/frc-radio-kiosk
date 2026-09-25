@@ -70,18 +70,22 @@ duplicate segments, grid staircases straightened within 0.02 mm).
 The LM3150 block was re-solved with a 1.2 mm ring round U4 (v2c's packing
 left U4's HG/LG/SW pins no way out).
 
-Result (KiCad 10 DRC, zones refilled):
-- **1 connection open: USB_ISENSE**, U41 pin 1 to U40 pin 10 (PA0). Every
-  router pass lost this pin to its neighbours on the MCU's left side. It is left
-  as a ratsnest line; a hand route or a pin swap to another free ADC pin will close it.
-- 0 clearance, short, hole or dangling errors.
+Result (KiCad 10 DRC, zones refilled), 2026-09-25 midday:
+- **0 unconnected**, 0 clearance, short, hole or dangling errors. loon's
+  layout view also shows 0.
 - Left as in v2c: 14 silk_edge_clearance (connector silk at the board edge),
   199 lib_footprint_issues (LCSC land patterns differ from KiCad's library),
-  7 text_height (labels the label placer shrank to 0.7 mm to fit).
-- Schematic parity: no net differences (only v2c's Q20 footprint field and the
-  four mounting holes). `tools/verify.py`: 239 parts, none missing, same 8
-  connector/battery pad notes as v2c. Firmware builds, 71 kB of 128 kB.
-- v2c as committed: 40 open, 4 clearance errors.
+  7 text_height (labels shrunk to 0.7 mm to fit).
+- Schematic parity: no net differences. `tools/verify.py`: 239 parts, none
+  missing. Firmware builds, 71 kB of 128 kB.
+- Inductors (L3, L4, L5, L20): no foreign copper under them on F.Cu or In2,
+  and no signal on any layer. Power nets may pass on B.Cu, under the In1
+  plane; one does: FAN_N under L20.
+- Pin swap to close the last net: USB_ISENSE moved PA0 -> PA3 (pin 13, bottom
+  row, free exit); PORT_SW moved PA3 -> PC15 (pin 4, spare; PC15 is a low-drive
+  pin, fine for a slow gate enable). PA0 is now unused. Schematic and firmware
+  regenerated from `mcu-pins.json`.
+- Fab files in `fab/`: gerbers + drill zip (4 layers), JLC BOM and CPL.
 
 Review before ordering (machine routing):
 - Power nets necked below class width in places: +12V 79 mm, VIN_USB 69 mm,
@@ -95,11 +99,8 @@ Review before ordering (machine routing):
 
 ## Open
 
-1. USB_ISENSE: route it by hand, or move it to a free ADC pin (PA3 carries
-   PORT_SW, a digital line) and regenerate schematic + firmware with
-   `KIOSK_MCU_PINS`.
-2. Inner copper weight on the JLC quote: 0.5 oz default; nothing high-current
-   is on In2 except TEST_NODE.
+1. JLC quote: 4 layers, 1.6 mm, 1 oz outer / 0.5 oz inner. Check part
+   rotations in JLC's CPL preview (KiCad and JLC disagree on some packages).
 
 ## Rebuild
 

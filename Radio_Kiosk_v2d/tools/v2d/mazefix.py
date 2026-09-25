@@ -18,6 +18,8 @@ X0, Y0, X1, Y1 = g['edge']
 NX, NY = int((X1 - X0) / R) + 1, int((Y1 - Y0) / R) + 1
 LAY = ['F.Cu', 'In2.Cu', 'B.Cu']; LI = {l: i for i, l in enumerate(LAY)}
 EDGE = 0.35
+import os
+KEEP = json.load(open(os.environ['KEEPOUT'])) if os.environ.get('KEEPOUT') else []
 def gx(x): return int(round((x - X0) / R))
 def gy(y): return int(round((y - Y0) / R))
 XX, YY = None, None
@@ -70,6 +72,15 @@ def blocked_map(net, width, clr, viar):
         D = dist_field(it, x0, y0, x1, y1)
         for l in it['layers']: trk[l, y0:y1, x0:x1] |= D < need_t + (hx if it.get('npth') else 0)
         via[y0:y1, x0:x1] |= D < (need_v + hx)
+    for z in KEEP:   # no foreign copper under an inductor, on any layer
+        if net in z['own']: continue
+        m_ = width / 2 + clr
+        x0, y0, x1, y1 = win((z['box'][0] - m_, z['box'][1] - m_, z['box'][2] + m_, z['box'][3] + m_))
+        # power may pass on B.Cu, under the In1 plane; signals keep off every layer
+        if ncls(net) in ('Heavy', 'Wide', 'Power'): trk[0:2, y0:y1, x0:x1] = True
+        else: trk[:, y0:y1, x0:x1] = True
+        x0, y0, x1, y1 = win((z['box'][0] - viar - clr, z['box'][1] - viar - clr, z['box'][2] + viar + clr, z['box'][3] + viar + clr))
+        via[y0:y1, x0:x1] = True
     e = int(math.ceil((EDGE + width / 2) / R))
     for l in range(3):
         trk[l, :e, :] = trk[l, -e:, :] = True; trk[l, :, :e] = trk[l, :, -e:] = True
