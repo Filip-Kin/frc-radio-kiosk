@@ -6,6 +6,7 @@ Toughbook, 4x CR123A backup, STM32F072 firmware.
 
 - `Radio_Kiosk_v2/` first full board, 100 x 130 mm
 - `Radio_Kiosk_v2b/` hand-packed board, 84 x 133 mm, 2 oz copper (order that at JLC)
+- `Radio_Kiosk_v2d/` 4-layer rework of v2c, 85 x 120 mm, In1 GND plane (see its NOTES.md)
 - `Radio_Kiosk_Circuit.kicad_sch` v1 schematic draft
 - each board dir: `board.kicad_sch`, `board.kicad_pcb`, `board.kicad_pro`, `board.loon.json`, `firmware/` (PlatformIO)
 
